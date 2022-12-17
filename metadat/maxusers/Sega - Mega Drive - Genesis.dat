@@ -5,9565 +5,9481 @@ clrmamepro (
 
 game (
 	comment "16t (Japan) (Game no Kanzume Otokuyou)"
-	developer "SEGA"
+	users 1
 	rom ( crc 98149EAF )
 )
 
 game (
 	comment "10 Super Jogos (Brazil) (En)"
-	developer "Epyx"
+	users 8
 	rom ( crc C19AE368 )
 )
 
 game (
 	comment "16t (Japan) (Game no Kanzume Vol. 2)"
-	developer "SEGA"
+	users 1
 	rom ( crc 0FFFE8E4 )
 )
 
 game (
 	comment "2020 Nen Super Baseball (Japan)"
-	developer "SNK"
+	users 2
 	rom ( crc 2BBEE127 )
 )
 
 game (
 	comment "007 Shitou - The Duel (Japan)"
-	developer "Domark"
+	users 1
 	rom ( crc AEB4B262 )
 )
 
 game (
 	comment "16t (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 537F04B6 )
 )
 
 game (
 	comment "6-Pak (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc 1A6F45DC )
 )
 
 game (
 	comment "3 Ninjas Kick Back (USA)"
-	developer "Malibu Games"
+	users 2
 	rom ( crc E5A24999 )
 )
 
 game (
 	comment "688 Attack Sub (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc F2C58BF7 )
 )
 
 game (
 	comment "A Ressha de Ikou MD (Japan)"
-	developer "MNM Software"
+	users 1
 	rom ( crc 3D45DE4F )
 )
 
 game (
 	comment "Aaahh!!! Real Monsters (Europe)"
-	developer "Realtime Associates"
+	users 1
 	rom ( crc 7AD115FF )
 )
 
 game (
 	comment "Aaahh!!! Real Monsters (USA)"
-	developer "Realtime Associates"
+	users 1
 	rom ( crc FDC80BFC )
 )
 
 game (
 	comment "Aa Harimanada (Japan)"
-	developer "Megasoft"
+	users 2
 	rom ( crc 065F6021 )
 )
 
 game (
 	comment "Addams Family Values (Europe) (En,Fr,De)"
-	developer "Ocean"
+	users 1
 	rom ( crc B906B992 )
 )
 
 game (
 	comment "Addams Family, The (USA, Europe)"
-	developer "Flying Edge"
+	users 1
 	rom ( crc 71F58614 )
 )
 
 game (
 	comment "Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A)"
-	developer "Systemsoft"
+	users 4
 	rom ( crc E0D5E18A )
 )
 
 game (
 	comment "Adventures of Batman & Robin, The (Europe)"
-	developer "Clockworks Entertainment"
+	users 2
 	rom ( crc 355E8C39 )
 )
 
 game (
 	comment "Adventures of Mighty Max, The (USA)"
-	developer "Ocean"
+	users 2
 	rom ( crc 55F13A00 )
 )
 
 game (
 	comment "Adventures of Batman & Robin, The (USA)"
-	developer "Clockworks Entertainment"
+	users 2
 	rom ( crc 0CAAA4AC )
 )
 
 game (
 	comment "Adventures of Mighty Max, The (Europe)"
-	developer "Ocean"
+	users 2
 	rom ( crc 24F1A3BB )
 )
 
 game (
 	comment "Adventures of Rocky and Bullwinkle and Friends, The (USA)"
-	developer "Absolute Entertainment"
+	users 1
 	rom ( crc EF02D57B )
 )
 
 game (
 	comment "Aero Blasters (Japan)"
-	developer "Kaneko"
+	users 2
 	rom ( crc A00DA987 )
 )
 
 game (
 	comment "Aero the Acro-Bat (USA)"
-	developer "Iguana Entertainment"
+	users 1
 	rom ( crc A3A7A8B5 )
 )
 
 game (
 	comment "Aero the Acro-Bat (Europe)"
-	developer "Iguana Entertainment"
+	users 1
 	rom ( crc 1A3EAF57 )
 )
 
 game (
 	comment "Aerobiz (USA)"
-	developer "Koei"
+	users 4
 	rom ( crc CFAA9BCE )
 )
 
 game (
 	comment "Aero the Acro-Bat 2 (Europe)"
-	developer "Iguana Entertainment"
+	users 1
 	rom ( crc A451F9A1 )
 )
 
 game (
 	comment "Aero the Acro-Bat 2 (USA)"
-	developer "Iguana Entertainment"
+	users 1
 	rom ( crc 39EB74EB )
 )
 
 game (
 	comment "Aerobiz Supersonic (USA)"
-	developer "Koei"
+	users 4
 	rom ( crc 9377F1B5 )
 )
 
 game (
 	comment "After Burner II (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 4FF37E66 )
 )
 
 game (
 	comment "After Burner II (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc CCAFE00E )
 )
 
 game (
 	comment "Air Buster (USA)"
-	developer "Kaneko"
+	users 2
 	rom ( crc F3D65BAA )
 )
 
 game (
 	comment "Air Diver (Japan)"
-	developer "Copya System"
+	users 1
 	rom ( crc 9E2D5B91 )
 )
 
 game (
 	comment "Air Diver (USA)"
-	developer "Copya System"
+	users 1
 	rom ( crc 2041885E )
 )
 
 game (
 	comment "Air Management - Oozora ni Kakeru (Japan)"
-	developer "Koei"
+	users 4
 	rom ( crc B3DB0C71 )
 )
 
 game (
 	comment "Air Management II - Koukuuou o Mezase (Japan)"
-	developer "Koei"
+	users 4
 	rom ( crc 4582817B )
 )
 
 game (
 	comment "Aladdin (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc D1845E8F )
 )
 
 game (
 	comment "Aladdin (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc ED427EA9 )
 )
 
 game (
 	comment "Aladdin (USA) (Final Cut)"
-	developer "Virgin"
+	users 1
 	rom ( crc DD66B3FA )
 )
 
 game (
 	comment "Aladdin (Japan)"
-	developer "Virgin"
+	users 1
 	rom ( crc FB5AACF0 )
 )
 
 game (
 	comment "Aladdin (World) (Disney Classic Games)"
-	developer "Virgin"
+	users 1
 	rom ( crc e4a7aa54 )
 )
 
 game (
 	comment "Aladdin (World) (Ja) (Disney Classic Games)"
-	developer "Virgin"
+	users 1
 	rom ( crc c4616dcb )
 )
 
 game (
 	comment "Alex Kidd - Cheongong Maseong (Korea)"
-	developer "SEGA"
+	users 1
 	rom ( crc 5B0678FB )
 )
 
 game (
 	comment "Alex Kidd in the Enchanted Castle (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 778A0F00 )
 )
 
 game (
 	comment "Alex Kidd - Tenkuu Majou (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 8A5ED856 )
 )
 
 game (
 	comment "Alex Kidd in the Enchanted Castle (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc 47DBA0AC )
 )
 
 game (
 	comment "Alien 3 (USA, Europe) (Rev A)"
-	developer "Probe Entertainment"
+	users 1
 	rom ( crc B327FD1B )
 )
 
 game (
 	comment "Alien 3 (USA, Europe)"
-	developer "Probe Entertainment"
+	users 1
 	rom ( crc A3B00D6E )
 )
 
 game (
 	comment "Alien Soldier (USA, Europe) (Switch Online)"
-	developer "Treasure"
+	users 1
 	rom ( crc 560cf8bb )
 )
 
 game (
 	comment "Alien Soldier (USA) (Virtual Console)"
-	developer "Treasure"
+	users 1
 	rom ( crc 9B1A1D7F )
 )
 
 game (
 	comment "Alien Storm (World)"
-	developer "SEGA"
+	users 2
 	rom ( crc F5AC8DE5 )
 )
 
 game (
 	comment "Alien Soldier (Europe)"
-	developer "Treasure"
+	users 1
 	rom ( crc 0496E06C )
 )
 
 game (
 	comment "Alien Soldier (Japan)"
-	developer "Treasure"
+	users 1
 	rom ( crc 90FA1539 )
 )
 
 game (
 	comment "Alisia Dragoon (USA) (Genesis Mini)"
-	developer "Game Arts"
+	users 1
 	rom ( crc 4bfdfe9c )
 )
 
 game (
 	comment "Alien Storm (World) (SEGA Classic Collection)"
-	developer "SEGA"
+	users 2
 	rom ( crc 5ab9c9f8 )
 )
 
 game (
 	comment "Alisia Dragoon (Japan) (Mega Drive Mini)"
-	developer "Game Arts"
+	users 1
 	rom ( crc 3a6bf605 )
 )
 
 game (
 	comment "Alisia Dragoon (Japan)"
-	developer "Game Arts"
+	users 1
 	rom ( crc 4D476722 )
 )
 
 game (
 	comment "Alisia Dragoon (Europe)"
-	developer "Game Arts"
+	users 1
 	rom ( crc 28165BD1 )
 )
 
 game (
 	comment "Altered Beast (USA, Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 154D59BB )
 )
 
 game (
 	comment "Alisia Dragoon (USA)"
-	developer "Game Arts"
+	users 1
 	rom ( crc D28D5C40 )
 )
 
 game (
 	comment "American Gladiators (USA)"
-	developer "Imagitec Design"
+	users 2
 	rom ( crc 9952FA85 )
 )
 
 game (
 	comment "Andre Agassi Tennis (Europe)"
-	developer "Tecmagik"
+	users 2
 	rom ( crc 224256C7 )
 )
 
 game (
 	comment "Andre Agassi Tennis (USA)"
-	developer "Tecmagik"
+	users 2
 	rom ( crc E755DD51 )
 )
 
 game (
 	comment "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)"
-	developer "Koei"
+	users 2
 	rom ( crc 10BE1D93 )
 )
 
 game (
 	comment "Animaniacs (Europe) (En,Fr,De)"
-	developer "Konami"
+	users 1
 	rom ( crc 92B6F255 )
 )
 
 game (
 	comment "Another World (Europe)"
-	developer "Delphine Software International"
+	users 1
 	rom ( crc E9742041 )
 )
 
 game (
 	comment "Animaniacs (USA)"
-	developer "Konami"
+	users 1
 	rom ( crc 86224D86 )
 )
 
 game (
 	comment "Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)"
-	developer "Millennium Interactive"
+	users 4
 	rom ( crc 400F4BA7 )
 )
 
 game (
 	comment "Arcade Classics (USA, Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 8AED2090 )
 )
 
 game (
+	comment "Arcade Legends Street Fighter II' - Special Champion Edition ~ Mega Drive Play TV 3 (World)"
+	users 2
+	rom ( crc 12CAA444 )
+)
+
+game (
 	comment "Arch Rivals - The Arcade Game (USA, Europe)"
-	developer "Arc Developments"
+	users 2
 	rom ( crc E389D7E7 )
 )
 
 game (
 	comment "Arcus Odyssey (USA)"
-	developer "Wolf Team"
+	users 2
 	rom ( crc BC4D9B20 )
 )
 
 game (
 	comment "Arcus Odyssey (Japan)"
-	developer "Wolf Team"
+	users 2
 	rom ( crc 41C5FB4F )
 )
 
 game (
 	comment "Ariel the Little Mermaid (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 58E297DF )
 )
 
 game (
 	comment "Arnold Palmer Tournament Golf (USA, Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 35B995EF )
 )
 
 game (
 	comment "Ariel the Little Mermaid (USA, Europe) (1992-10-10) (Sega Channel)"
-	developer "SEGA"
+	users 1
 	rom ( crc 2B3F375E )
 )
 
 game (
 	comment "Arrow Flash (Japan, Europe) (En)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc D49F8444 )
 )
 
 game (
 	comment "Art Alive (World)"
-	developer "FarSight Studios"
+	users 1
 	rom ( crc F1B72CDD )
 )
 
 game (
 	comment "Arrow Flash (USA)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc 4D89E66B )
 )
 
 game (
 	comment "Art of Fighting (Europe)"
-	developer "SNK"
+	users 2
 	rom ( crc 9970C422 )
 )
 
 game (
 	comment "Art of Fighting (USA)"
-	developer "SNK"
+	users 2
 	rom ( crc C9A57E07 )
 )
 
 game (
 	comment "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)"
-	developer "Core Design"
+	users 1
 	rom ( crc 4735FEE6 )
 )
 
 game (
 	comment "Asterix and the Great Rescue (USA)"
-	developer "Core Design"
+	users 1
 	rom ( crc 7F112CD8 )
 )
 
 game (
 	comment "Asterix and the Power of the Gods (Europe) (En,Fr,De,Es)"
-	developer "Core Design"
+	users 1
 	rom ( crc 4FF1D83F )
 )
 
 game (
 	comment "Atomic Robo-Kid (Japan)"
-	developer "UPL"
+	users 1
 	rom ( crc E833067E )
 )
 
 game (
 	comment "Atomic Runner (Europe)"
-	developer "Data East"
+	users 1
 	rom ( crc B3C05418 )
 )
 
 game (
 	comment "Atomic Robo-Kid (USA)"
-	developer "UPL"
+	users 1
 	rom ( crc 7CD8169E )
 )
 
 game (
 	comment "Atomic Runner (USA)"
-	developer "Data East"
+	users 1
 	rom ( crc 0677C210 )
 )
 
 game (
 	comment "ATP Tour Championship Tennis (USA)"
-	developer "Sims"
+	users 4
 	rom ( crc 8C822884 )
 )
 
 game (
 	comment "ATP Tour (Europe)"
-	developer "Sims"
+	users 4
 	rom ( crc 1A3DA8C5 )
 )
 
 game (
 	comment "Australian Rugby League (Europe)"
-	developer "Electronic Arts"
+	users 4
 	rom ( crc AC5BC26A )
 )
 
 game (
 	comment "Aworg (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 069C27C1 )
 )
 
 game (
 	comment "Awesome Possum (Japan) (En)"
-	developer "Tengen"
+	users 1
 	rom ( crc 8C64445E )
 )
 
 game (
 	comment "Awesome Possum... ...Kicks Dr. Machino's Butt (USA)"
-	developer "Tengen"
+	users 1
 	rom ( crc 1F07577F )
 )
 
 game (
 	comment "Ayrton Senna's Super Monaco GP II (Japan, Europe) (En,Ja)"
-	developer "SEGA"
+	users 1
 	rom ( crc 60AF0F76 )
 )
 
 game (
 	comment "B.O.B. (USA, Europe)"
-	developer "Gray Matter"
+	users 1
 	rom ( crc EAA2ACB7 )
 )
 
 game (
 	comment "Ayrton Senna's Super Monaco GP II (USA) (En,Ja)"
-	developer "SEGA"
+	users 1
 	rom ( crc EAC8DED6 )
 )
 
 game (
 	comment "Back to the Future Part III (USA)"
-	developer "Probe Software"
+	users 1
 	rom ( crc 66A388C3 )
 )
 
 game (
 	comment "Back to the Future Part III (Europe)"
-	developer "Probe Software"
+	users 1
 	rom ( crc 2737F92E )
 )
 
 game (
 	comment "Bad Omen (Japan, Korea) (En)"
-	developer "Genki"
+	users 2
 	rom ( crc 975693CE )
 )
 
 game (
 	comment "Bahamut Senki (Japan)"
-	developer "SEGA"
+	users 4
 	rom ( crc B1E268DA )
 )
 
 game (
 	comment "Ball Jacks (Japan, Europe) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc F5C3C54F )
 )
 
 game (
 	comment "Ballz 3D - The Battle of the Ballz (USA, Europe)"
-	developer "Accolade"
+	users 2
 	rom ( crc B362B705 )
 )
 
 game (
 	comment "Barbie Super Model (USA)"
-	developer "Tahoe"
+	users 2
 	rom ( crc 81C9662B )
 )
 
 game (
 	comment "Barkley Shut Up and Jam 2 (USA)"
-	developer "Accolade"
+	users 4
 	rom ( crc 321BB6BD )
 )
 
 game (
 	comment "Bare Knuckle III (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc 5D09236F )
 )
 
 game (
 	comment "Barkley Shut Up and Jam! (USA, Europe)"
-	developer "Accolade"
+	users 4
 	rom ( crc 63FBF497 )
 )
 
 game (
 	comment "Barney's Hide & Seek Game (USA)"
-	developer "Realtime Associates"
+	users 1
 	rom ( crc 1EFA9D53 )
 )
 
 game (
 	comment "Bass Masters Classic (USA)"
-	developer "Black Pearl Software"
+	users 1
 	rom ( crc CF1FF00A )
 )
 
 game (
 	comment "Bass Masters Classic - Pro Edition (USA)"
-	developer "Black Pearl Software"
+	users 1
 	rom ( crc 9EDDEB3D )
 )
 
 game (
 	comment "Batman (Europe)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 61C60C35 )
 )
 
 game (
 	comment "Batman (Japan)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc D7B4FEBF )
 )
 
 game (
 	comment "Batman - Revenge of the Joker (USA)"
-	developer "Ringler Studios"
+	users 1
 	rom ( crc CAA044A1 )
 )
 
 game (
 	comment "Batman - The Video Game (USA)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 017410AE )
 )
 
 game (
 	comment "Batman Forever (World)"
-	developer "Iguana Entertainment"
+	users 2
 	rom ( crc db41f2d5 )
 )
 
 game (
 	comment "Batman Returns (World)"
-	developer "Malibu Games"
+	users 1
 	rom ( crc 4A3225C0 )
 )
 
 game (
 	comment "Battle Golfer Yui (Japan)"
-	developer "Santos"
+	users 2
 	rom ( crc 4AA03E4E )
 )
 
 game (
 	comment "Battle Mania (Japan)"
-	developer "Tokai Engineering"
+	users 1
 	rom ( crc A76C4A29 )
 )
 
 game (
 	comment "Battle Mania Daiginjou (Japan, Korea) (Ja)"
-	developer "Vic Tokai Corporation"
+	users 1
 	rom ( crc 312FA0F2 )
 )
 
 game (
 	comment "Battle Squadron (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 0FEAA8BF )
 )
 
 game (
 	comment "Battle Squadron (USA, Europe) (Rev 1) (Beta) (1991-01-18) (Sega Channel)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 43A76B45 )
 )
 
 game (
 	comment "Battlemaster (USA)"
-	developer "Mirrorsoft"
+	users 1
 	rom ( crc FD2B35E3 )
 )
 
 game (
 	comment "Battletech - A Game of Armored Combat (USA)"
-	developer "Extreme Entertainment"
+	users 2
 	rom ( crc 409E5D14 )
 )
 
 game (
 	comment "Battletoads-Double Dragon (USA)"
-	developer "Rareware"
+	users 2
 	rom ( crc 8239DD17 )
 )
 
 game (
 	comment "Battletoads (World)"
-	developer "Rareware"
+	users 2
 	rom ( crc D10E103A )
 )
 
 game (
 	comment "Beast Warriors (Japan)"
-	developer "Riot Games"
+	users 2
 	rom ( crc 4646C694 )
 )
 
 game (
 	comment "Beast Wrestler (USA)"
-	developer "Riot Games"
+	users 2
 	rom ( crc 0CA5BB64 )
 )
 
 game (
 	comment "Beauty and the Beast - Belle's Quest (USA)"
-	developer "Software Creations"
+	users 1
 	rom ( crc BEFB6FAE )
 )
 
 game (
 	comment "Beauty and the Beast - Roar of the Beast (USA)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 13E7B519 )
 )
 
 game (
 	comment "Berenstain Bears' Camping Adventure, The (USA)"
-	developer "Realtime Associates"
+	users 2
 	rom ( crc 1F86237B )
 )
 
 game (
 	comment "Beavis and Butt-Head (Europe)"
-	developer "Viacom New Media"
+	users 2
 	rom ( crc C7B6435E )
 )
 
 game (
 	comment "Beavis and Butt-Head (USA)"
-	developer "Viacom New Media"
+	users 2
 	rom ( crc F5D7B948 )
 )
 
 game (
 	comment "Best of the Best - Championship Karate (USA)"
-	developer "Loriciels"
+	users 2
 	rom ( crc C3D6A5D4 )
 )
 
 game (
 	comment "Bill Walsh College Football (USA, Europe)"
-	developer "EA Sports"
+	users 4
 	rom ( crc 3ED83362 )
 )
 
 game (
 	comment "Beyond Oasis (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc C4728225 )
 )
 
 game (
 	comment "Bill Walsh College Football 95 (USA)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc A582F45A )
 )
 
 game (
 	comment "Bimini Run (USA)"
-	developer "Microsmiths, Inc."
+	users 2
 	rom ( crc D4DC5188 )
 )
 
 game (
 	comment "Bishoujo Senshi Sailor Moon (Japan)"
-	developer "Arc System Works"
+	users 1
 	rom ( crc 5E246938 )
 )
 
 game (
 	comment "Bio Hazard Battle (USA, Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 95B0EA2B )
 )
 
 game (
 	comment "Blades of Vengeance (USA, Europe)"
-	developer "Beam Software"
+	users 2
 	rom ( crc 74C65A49 )
 )
 
 game (
 	comment "Blaster Master 2 (USA)"
-	developer "Software Creations"
+	users 1
 	rom ( crc C11E4BA1 )
 )
 
 game (
 	comment "Blockbuster World Video Game Championship II (USA)"
-	developer "Various"
+	users 2
 	rom ( crc 4385E366 )
 )
 
 game (
 	comment "Blockout (World)"
-	developer "California Dreams"
+	users 2
 	rom ( crc 5E2966F1 )
 )
 
 game (
 	comment "Bloodshot (Europe) (En,Fr,De,Es)"
-	developer "Domark"
+	users 1
 	rom ( crc F9F2BCEB )
 )
 
 game (
 	comment "Blue Almanac (Japan)"
-	developer "Hot-B"
+	users 1
 	rom ( crc 7222EBB3 )
 )
 
 game (
 	comment "Body Count (Europe) (En,Fr,De,Es,It)"
-	developer "SEGA"
+	users 2
 	rom ( crc 3575A030 )
 )
 
 game (
 	comment "Body Count (Brazil) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 649607D1 )
 )
 
 game (
 	comment "Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)"
-	developer "SEGA"
+	users 2
 	rom ( crc 20D1AD4C )
 )
 
 game (
 	comment "Bonanza Bros. (Japan, Europe) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc ADF6476C )
 )
 
 game (
 	comment "Bonanza Bros. (Japan, Europe) (En) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc C6AAC589 )
 )
 
 game (
 	comment "Bonkers (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc D1E66017 )
 )
 
 game (
 	comment "Boogerman - A Pick and Flick Adventure (Europe)"
-	developer "Interplay"
+	users 1
 	rom ( crc DBC4340C )
 )
 
 game (
 	comment "Boogerman - A Pick and Flick Adventure (USA)"
-	developer "Interplay"
+	users 1
 	rom ( crc 1A7A2BEC )
 )
 
 game (
 	comment "Boogie Woogie Bowling (Japan)"
-	developer "Soft Machine"
+	users 1
 	rom ( crc CCF52828 )
 )
 
 game (
 	comment "Boxing Legends of the Ring (USA)"
-	developer "Sculptured Software"
+	users 2
 	rom ( crc 00F225AC )
 )
 
 game (
 	comment "Bram Stoker's Dracula (Europe)"
-	developer "Sony"
+	users 1
 	rom ( crc 9BA5A063 )
 )
 
 game (
 	comment "Bram Stoker's Dracula (USA)"
-	developer "Sony"
+	users 1
 	rom ( crc 077084A6 )
 )
 
 game (
 	comment "Brett Hull Hockey 95 (USA)"
-	developer "Radical Entertainment"
+	users 2
 	rom ( crc F7775A09 )
 )
 
 game (
 	comment "Brian Lara Cricket (Australia)"
-	developer "Audiogenic Software"
+	users 4
 	rom ( crc 408CF5C3 )
 )
 
 game (
 	comment "Brian Lara Cricket (Europe)"
-	developer "Audiogenic Software"
+	users 4
 	rom ( crc 90F5C2B7 )
 )
 
 game (
 	comment "Brian Lara Cricket 96 (Europe)"
-	developer "Audiogenic Software"
+	users 4
 	rom ( crc FA3024AF )
 )
 
 game (
 	comment "Brutal - Paws of Fury (Europe) (En,Fr,De)"
-	developer "Imagitec Design"
+	users 2
 	rom ( crc 7E9A8D32 )
 )
 
 game (
 	comment "Brian Lara Cricket 96 (Europe) (Rev 1)"
-	developer "Audiogenic Software"
+	users 4
 	rom ( crc FE52F7E1 )
 )
 
 game (
 	comment "Brutal - Paws of Fury (USA)"
-	developer "Imagitec Design"
+	users 2
 	rom ( crc 98D502CD )
 )
 
 game (
 	comment "Bubba 'N' Stix (Europe)"
-	developer "Core Design"
+	users 1
 	rom ( crc B467432E )
 )
 
 game (
 	comment "Bubba 'N' Stix (USA)"
-	developer "Core Design"
+	users 1
 	rom ( crc D45CB46F )
 )
 
 game (
 	comment "Bubble and Squeak (USA)"
-	developer "Fox Williams"
+	users 1
 	rom ( crc 28C4A006 )
 )
 
 game (
 	comment "Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)"
-	developer "Accolade"
+	users 2
 	rom ( crc 3E30D365 )
 )
 
 game (
 	comment "Bubble and Squeak (Europe)"
-	developer "Fox Williams"
+	users 1
 	rom ( crc 86151BF1 )
 )
 
 game (
 	comment "Bubsy II (USA, Europe)"
-	developer "Accolade"
+	users 2
 	rom ( crc F8BEFF56 )
 )
 
 game (
 	comment "Buck Rogers - Countdown to Doomsday (USA, Europe)"
-	developer "Strategic Simulations"
+	users 1
 	rom ( crc 44E3BFFF )
 )
 
 game (
 	comment "Budokan - The Martial Spirit (Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 97ADD5BD )
 )
 
 game (
 	comment "Bugs Bunny in Double Trouble (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc 365305A2 )
 )
 
 game (
 	comment "Bugs Bunny in Double Trouble (Europe) (En,Fr,De,Es,It)"
-	developer "SEGA"
+	users 1
 	rom ( crc CEC0A0BB )
 )
 
 game (
 	comment "Bulls versus Blazers and the NBA Playoffs (USA, Europe)"
-	developer "EA Sports"
+	users 2
 	rom ( crc D4E4B4E8 )
 )
 
 game (
 	comment "Bulls vs Lakers and the NBA Playoffs (USA, Europe)"
-	developer "Capcom"
+	users 2
 	rom ( crc E56023A0 )
 )
 
 game (
 	comment "Burning Force (Europe)"
-	developer "Namco"
+	users 1
 	rom ( crc 776FF6FF )
 )
 
 game (
 	comment "Burning Force (Japan)"
-	developer "Namco"
+	users 1
 	rom ( crc 0C1DEB47 )
 )
 
 game (
 	comment "Burning Force (USA)"
-	developer "Namco"
+	users 1
 	rom ( crc BDC8F02C )
 )
 
 game (
 	comment "Cadash (USA, Korea) (En)"
-	developer "Taito"
+	users 2
 	rom ( crc 13BDF374 )
 )
 
 game (
 	comment "Caesar no Yabou (Japan)"
-	developer "Micronet"
+	users 1
 	rom ( crc 69796E93 )
 )
 
 game (
 	comment "Caesar no Yabou II (Japan)"
-	developer "Micronet"
+	users 2
 	rom ( crc 4F327B3A )
 )
 
 game (
 	comment "Cal Ripken Jr. Baseball (USA)"
-	developer "Mindscape"
+	users 2
 	rom ( crc 9B1C96C0 )
 )
 
 game (
 	comment "Caesars Palace (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc 8FDAA9BB )
 )
 
 game (
 	comment "Caliber.50 (USA)"
-	developer "SETA Corporation"
+	users 1
 	rom ( crc 44F4FA05 )
 )
 
 game (
 	comment "California Games (USA, Europe)"
-	developer "Epyx"
+	users 8
 	rom ( crc 43B1B672 )
 )
 
 game (
 	comment "Cannon Fodder (Europe)"
-	developer "Sensible Software"
+	users 1
 	rom ( crc 3F440D3F )
 )
 
 game (
 	comment "Captain America and the Avengers (Europe)"
-	developer "Data East"
+	users 2
 	rom ( crc 43225612 )
 )
 
 game (
 	comment "Captain Planet and the Planeteers (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 7672EFA5 )
 )
 
 game (
 	comment "Captain America and the Avengers (USA)"
-	developer "Data East"
+	users 2
 	rom ( crc E0639CA2 )
 )
 
 game (
 	comment "Captain Lang (Japan) (En,Ja)"
-	developer "Data East"
+	users 1
 	rom ( crc 61BA8199 )
 )
 
 game (
 	comment "Castle of Illusion Starring Mickey Mouse (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc BA4E9FD0 )
 )
 
 game (
 	comment "Castlevania - Bloodlines (USA)"
-	developer "Konami"
+	users 1
 	rom ( crc FB1EA6DF )
 )
 
 game (
 	comment "Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection)"
-	developer "Konami"
+	users 1
 	rom ( crc e949fbe5 )
 )
 
 game (
 	comment "Castlevania - Bloodlines (USA, Europe) (Switch Online)"
-	developer "Konami"
+	users 1
 	rom ( crc 2e8597f2 )
 )
 
 game (
 	comment "Centurion - Defender of Rome (USA, Europe)"
-	developer "Bits of Magic"
+	users 1
 	rom ( crc 21283B14 )
 )
 
 game (
 	comment "Castlevania - The New Generation (Europe)"
-	developer "Konami"
+	users 1
 	rom ( crc 4DD4E4A5 )
 )
 
 game (
 	comment "Castlevania - The New Generation (Europe) (Mega Drive Mini)"
-	developer "Konami"
+	users 1
 	rom ( crc 6a5e58cd )
 )
 
 game (
 	comment "Centurion - Defender of Rome (USA, Europe) (Sega Channel)"
-	developer "Bits of Magic"
+	users 1
 	rom ( crc A7C83919 )
 )
 
 game (
 	comment "Chakan (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 046A48DE )
 )
 
 game (
 	comment "Chakan (USA, Europe) (1992-10-06) (Sega Channel)"
-	developer "SEGA"
+	users 1
 	rom ( crc 77B7E85F )
 )
 
 game (
 	comment "Chameleon Kid (Japan) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 50217C80 )
 )
 
 game (
 	comment "Championship Pool (USA)"
-	developer "Bitmasters, Inc."
+	users 8
 	rom ( crc 253512CF )
 )
 
 game (
 	comment "Champions World Class Soccer (World) (En,Fr,De,Es)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc 883E33DB )
 )
 
 game (
 	comment "Championship Bowling (USA)"
-	developer "Soft Machine"
+	users 1
 	rom ( crc 1BF92520 )
 )
 
 game (
 	comment "Championship Pro-Am (USA)"
-	developer "Rareware"
+	users 2
 	rom ( crc B496DE28 )
 )
 
 game (
 	comment "Chaos Engine, The (Europe)"
-	developer "The Bitmap Brothers"
+	users 2
 	rom ( crc a6e1d401 )
 )
 
 game (
 	comment "Chase H.Q. II (USA)"
-	developer "Taito"
+	users 1
 	rom ( crc F39E4BF2 )
 )
 
 game (
 	comment "Chavez II (Mexico)"
-	developer "Sculptured Software"
+	users 2
 	rom ( crc 5BC0DBB8 )
 )
 
 game (
 	comment "Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)"
-	developer "SEGA"
+	users 1
 	rom ( crc FF634B28 )
 )
 
 game (
 	comment "Chester Cheetah - Too Cool to Fool (USA)"
-	developer "Kaneko"
+	users 1
 	rom ( crc 250E3EC3 )
 )
 
 game (
 	comment "Chelnov (Japan)"
-	developer "Data East"
+	users 1
 	rom ( crc B2FE74D8 )
 )
 
 game (
 	comment "Chester Cheetah - Wild Wild Quest (USA)"
-	developer "Kaneko"
+	users 1
 	rom ( crc B97B735D )
 )
 
 game (
 	comment "Chibi Maruko-chan - Wakuwaku Shopping (Japan)"
-	developer "Namco"
+	users 4
 	rom ( crc 91A144B8 )
 )
 
 game (
 	comment "Chi Chi's Pro Challenge Golf (USA)"
-	developer "Virgin"
+	users 4
 	rom ( crc 9C3973A4 )
 )
 
 game (
 	comment "Chiki Chiki Boys (Japan, Korea) (Ja)"
-	developer "Capcom"
+	users 1
 	rom ( crc 06918C17 )
 )
 
 game (
 	comment "Chiki Chiki Boys (USA, Europe)"
-	developer "Capcom"
+	users 1
 	rom ( crc 813A7D62 )
 )
 
 game (
 	comment "Chou Touryuu Retsuden - Dino Land (Japan)"
-	developer "Wolf Team"
+	users 2
 	rom ( crc 81F939DE )
 )
 
 game (
 	comment "Chou Kyuukai Miracle Nine (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 6D8C2206 )
 )
 
 game (
 	comment "Chuck Rock (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc 7CD40BEA )
 )
 
 game (
 	comment "Chuck Rock (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc F8AC454A )
 )
 
 game (
 	comment "Chuck Rock II (Japan)"
-	developer "Virgin"
+	users 1
 	rom ( crc BFD24BE8 )
 )
 
 game (
 	comment "Chuck Rock II - Son of Chuck (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc 1ADE9488 )
 )
 
 game (
 	comment "Classic Collection (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 73F948B1 )
 )
 
 game (
 	comment "Chuck Rock II - Son of Chuck (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc 408B1CDB )
 )
 
 game (
 	comment "ClayFighter (USA)"
-	developer "Visual Concepts"
+	users 2
 	rom ( crc B12C1BC1 )
 )
 
 game (
 	comment "ClayFighter (Europe)"
-	developer "Visual Concepts"
+	users 2
 	rom ( crc 1AAF7707 )
 )
 
 game (
 	comment "Cliffhanger (Europe)"
-	developer "Malibu Games"
+	users 1
 	rom ( crc EB5E0B28 )
 )
 
 game (
 	comment "Cliffhanger (USA)"
-	developer "Malibu Games"
+	users 1
 	rom ( crc 9CBF44D3 )
 )
 
 game (
 	comment "Clue (USA)"
-	developer "Parker Brothers"
+	users 6
 	rom ( crc 7753A296 )
 )
 
 game (
 	comment "Coach K College Basketball (USA)"
-	developer "Electronic Arts"
+	users 4
 	rom ( crc 67C309C6 )
 )
 
 game (
 	comment "College Football USA 96 (USA)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc B9075385 )
 )
 
 game (
 	comment "College Football USA 97 (USA)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc 2EBB90A3 )
 )
 
 game (
 	comment "College Football's National Championship (USA)"
-	developer "BlueSky Software"
+	users 4
 	rom ( crc 172C5DBB )
 )
 
 game (
 	comment "College Slam (USA)"
-	developer "Iguana Entertainment"
+	users 4
 	rom ( crc 96A42431 )
 )
 
 game (
 	comment "College Football's National Championship II (USA)"
-	developer "BlueSky Software"
+	users 4
 	rom ( crc 65B64413 )
 )
 
 game (
 	comment "Columns (Japan) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 03163D7A )
 )
 
 game (
 	comment "Columns (USA, Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc D783C244 )
 )
 
 game (
 	comment "Columns (World) (Sega Ages)"
-	developer "SEGA"
+	users 2
 	rom ( crc 0a0d1d51 )
 )
 
 game (
 	comment "Columns (USA, Europe) (1990-06-21) (Sega Channel)"
-	developer "SEGA"
+	users 2
 	rom ( crc 7EEC1A45 )
 )
 
 game (
 	comment "Columns III (USA)"
-	developer "Tokai Engineering"
+	users 5
 	rom ( crc DC678F6D )
 )
 
 game (
 	comment "Columns III - Taiketsu! Columns World (Japan, Korea) (Ja)"
-	developer "Tokai Engineering"
+	users 5
 	rom ( crc CD07462F )
 )
 
 game (
 	comment "Combat Cars (USA, Europe)"
-	developer "Accolade"
+	users 2
 	rom ( crc E439B101 )
 )
 
 game (
 	comment "Comix Zone (Europe) (En,Fr,De,Es)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1318E923 )
 )
 
 game (
 	comment "Comix Zone (Japan) (En,Ja)"
-	developer "SEGA"
+	users 1
 	rom ( crc 7A6027B8 )
 )
 
 game (
 	comment "Comix Zone (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc 17DA0354 )
 )
 
 game (
 	comment "Comix Zone (USA) (Sega Smash Pack 2)"
-	developer "SEGA"
+	users 1
 	rom ( crc 2BB02A7D )
 )
 
 game (
 	comment "Comix Zone (USA) (Demo) (1995-06-12) (Sega Channel)"
-	developer "SEGA"
+	users 1
 	rom ( crc C77DB9E1 )
 )
 
 game (
 	comment "Comix Zone (USA) (Virtual Console)"
-	developer "SEGA"
+	users 1
 	rom ( crc E45A15F4 )
 )
 
 game (
 	comment "Contra - Hard Corps (USA, Korea) (En)"
-	developer "Konami"
+	users 2
 	rom ( crc C579F45E )
 )
 
 game (
 	comment "Contra - Hard Corps (USA) (Genesis Mini)"
-	developer "Konami"
+	users 2
 	rom ( crc 042a81b0 )
 )
 
 game (
 	comment "Contra - Hard Corps (World) (Contra Anniversary Collection)"
-	developer "Konami"
+	users 2
 	rom ( crc 74dded00 )
 )
 
 game (
 	comment "Contra - The Hard Corps (Japan) (Mega Drive Mini)"
-	developer "Konami"
+	users 2
 	rom ( crc 76c211cb )
 )
 
 game (
 	comment "Contra - The Hard Corps (World) (Ja) (Contra Anniversary Collection)"
-	developer "Konami"
+	users 2
 	rom ( crc f1f4b361 )
 )
 
 game (
 	comment "Contra - The Hard Corps (Japan)"
-	developer "Konami"
+	users 2
 	rom ( crc 2AB26380 )
 )
 
 game (
 	comment "Cool Spot (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc 5F09FA41 )
 )
 
 game (
 	comment "Cool Spot (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc F024C1A1 )
 )
 
 game (
 	comment "Cool Spot (Japan, Korea) (Ja)"
-	developer "Virgin"
+	users 1
 	rom ( crc E869EFB1 )
 )
 
 game (
 	comment "Corporation (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc A80D18AA )
 )
 
 game (
 	comment "Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)"
-	developer "Codemasters"
+	users 1
 	rom ( crc C593D31C )
 )
 
 game (
 	comment "Cosmic Spacehead (Europe) (En,Fr,De,Es) (Rev 1)"
-	developer "Codemasters"
+	users 1
 	rom ( crc CB89E605 )
 )
 
 game (
 	comment "Crack Down (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc D012A47A )
 )
 
 game (
 	comment "Crack Down (Japan) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 538AAA5D )
 )
 
 game (
 	comment "Crack Down (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc B9CE9051 )
 )
 
 game (
 	comment "Crayon Shin-chan - Arashi o Yobu Enji (Japan)"
-	developer "Ma-Ba"
+	users 2
 	rom ( crc 97FC42D2 )
 )
 
 game (
 	comment "CrossFire (USA)"
-	developer "Kyugo Boueki"
+	users 1
 	rom ( crc CC73F3A9 )
 )
 
 game (
 	comment "Crude Buster (Japan)"
-	developer "Data East"
+	users 2
 	rom ( crc AFFB4B00 )
 )
 
 game (
 	comment "Crue Ball (Japan)"
-	developer "Electronic Arts"
+	users 4
 	rom ( crc 514C53E2 )
 )
 
 game (
 	comment "Crue Ball - Heavy Metal Pinball (USA, Europe)"
-	developer "Electronic Arts"
+	users 4
 	rom ( crc 4B195FC0 )
 )
 
 game (
 	comment "Crusader of Centy (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc 41858F6F )
 )
 
 game (
 	comment "Crystal's Pony Tale (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc 6CF7A4DF )
 )
 
 game (
 	comment "Crying - Aseimei Sensou (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc 4ABA1D6A )
 )
 
 game (
 	comment "Curse (Japan)"
-	developer "Micronet"
+	users 1
 	rom ( crc A4FBF9A9 )
 )
 
 game (
 	comment "Cutie Suzuki no Ringside Angel (Japan)"
-	developer "Copya System Ltd."
+	users 2
 	rom ( crc 13795DCA )
 )
 
 game (
 	comment "CutThroat Island (USA, Europe)"
-	developer "Software Creations"
+	users 2
 	rom ( crc EBABBC70 )
 )
 
 game (
 	comment "Cyber Police - ESWAT (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 87B636A2 )
 )
 
 game (
 	comment "Cyber-Cop (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc 01E719C8 )
 )
 
 game (
 	comment "Cyberball (World)"
-	developer "Atari"
+	users 2
 	rom ( crc 76120E96 )
 )
 
 game (
 	comment "Cyborg Justice (USA, Europe)"
-	developer "Capcom"
+	users 2
 	rom ( crc AB0D1269 )
 )
 
 game (
 	comment "Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1FDC66B0 )
 )
 
 game (
 	comment "Dahna (Korea)"
-	developer "IGS"
+	users 1
 	rom ( crc 10829EA1 )
 )
 
 game (
 	comment "Dahna - Megami Tanjou (Japan)"
-	developer "IGS"
+	users 1
 	rom ( crc 4602584F )
 )
 
 game (
 	comment "Daikoukai Jidai (Japan)"
-	developer "Koei"
+	users 1
 	rom ( crc 5A652458 )
 )
 
 game (
 	comment "Daikoukai Jidai II (Japan)"
-	developer "Koei"
+	users 1
 	rom ( crc E040F0DA )
 )
 
 game (
 	comment "Daimakaimura (Japan)"
-	developer "Capcom"
+	users 1
 	rom ( crc 5659F379 )
 )
 
 game (
 	comment "Daimakaimura ~ Ghouls'n Ghosts (Japan, USA) (En)"
-	developer "Capcom"
+	users 1
 	rom ( crc D31BD910 )
 )
 
 game (
 	comment "Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A)"
-	developer "Capcom"
+	users 1
 	rom ( crc 4F2561D5 )
 )
 
 game (
 	comment "Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A) (Sega Channel)"
-	developer "Capcom"
+	users 1
 	rom ( crc 4552A3DE )
 )
 
 game (
 	comment "Daisenpuu ~ Twin Hawk (Japan, Europe) (En)"
-	developer "Toaplan"
+	users 1
 	rom ( crc A2EC8C67 )
 )
 
 game (
 	comment "Dangerous Seed (Japan)"
-	developer "Namco"
+	users 1
 	rom ( crc A2990031 )
 )
 
 game (
 	comment "Darius (World) (Genesis Mini, Mega Drive Mini)"
-	developer "Taito"
+	users 1
 	rom ( crc 26CA4234 )
 )
 
 game (
 	comment "Dark Castle (USA, Europe)"
-	developer "Silicon Beach Software"
+	users 1
 	rom ( crc 0464ACA4 )
 )
 
 game (
 	comment "Darius II (World) (Darius Cozmic Collection)"
-	developer "Taito"
+	users 1
 	rom ( crc e8e29be2 )
 )
 
 game (
 	comment "Darius II (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc 25DFE62A )
 )
 
 game (
 	comment "Darwin 4081 (Japan, Korea) (En)"
-	developer "Data East"
+	users 1
 	rom ( crc 7A33B0CB )
 )
 
 game (
 	comment "Dashin' Desperadoes (USA)"
-	developer "Data East"
+	users 2
 	rom ( crc DCB76FB7 )
 )
 
 game (
 	comment "David Crane's Amazing Tennis (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc 9177088C )
 )
 
 game (
 	comment "David Robinson Basketball (Japan)"
-	developer "Acme Animation"
+	users 2
 	rom ( crc 56164B00 )
 )
 
 game (
 	comment "David Robinson's Supreme Court (USA, Europe)"
-	developer "Acme Animation"
+	users 2
 	rom ( crc 512B7599 )
 )
 
 game (
 	comment "Davis Cup Tennis (Japan)"
-	developer "Tengen"
+	users 2
 	rom ( crc 802CD123 )
 )
 
 game (
 	comment "Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe)"
-	developer "Tengen"
+	users 2
 	rom ( crc 894686F0 )
 )
 
 game (
 	comment "Daze Before Christmas (Australia)"
-	developer "Funcom"
+	users 2
 	rom ( crc B95E25C9 )
 )
 
 game (
 	comment "Deadly Moves (USA)"
-	developer "Kaneko"
+	users 2
 	rom ( crc 35CBD237 )
 )
 
 game (
 	comment "Death and Return of Superman, The (USA)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 982242D3 )
 )
 
 game (
 	comment "Death Duel (USA)"
-	developer "Punk Development"
+	users 1
 	rom ( crc A9804DCC )
 )
 
 game (
 	comment "Death and Return of Superman, The (Europe)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc CFC440E8 )
 )
 
 game (
 	comment "DEcapAttack (USA, Europe, Korea) (En)"
-	developer "Vic Tokai Corporation"
+	users 1
 	rom ( crc 73DC0DD8 )
 )
 
 game (
 	comment "Demolition Man (USA, Europe)"
-	developer "Digital Extremes"
+	users 1
 	rom ( crc 5FF71877 )
 )
 
 game (
 	comment "Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc C287343D )
 )
 
 game (
 	comment "Desert Strike - Return to the Gulf (USA, Europe)"
-	developer "Visual Concepts"
+	users 1
 	rom ( crc 67A9860B )
 )
 
 game (
 	comment "Desert Strike - Wangan Sakusen ~ Desert Strike (Japan, Korea) (Ja)"
-	developer "Visual Concepts"
+	users 1
 	rom ( crc 1E740145 )
 )
 
 game (
 	comment "Devil Crash MD (Japan)"
-	developer "Naxat Soft"
+	users 2
 	rom ( crc 4C4CAAD8 )
 )
 
 game (
 	comment "Devilish - The Next Possession (USA)"
-	developer "Genki"
+	users 2
 	rom ( crc D3F300AC )
 )
 
 game (
 	comment "Dick Tracy (World)"
-	developer "SEGA"
+	users 1
 	rom ( crc EF887533 )
 )
 
 game (
 	comment "Dick Vitale's 'Awesome, Baby!' College Hoops (USA)"
-	developer "Time Warner Interactive"
+	users 2
 	rom ( crc 1312CF22 )
 )
 
 game (
 	comment "Dino Dini's Soccer (Europe) (En,Fr,De)"
-	developer "Virgin"
+	users 8
 	rom ( crc 4608F53A )
 )
 
 game (
 	comment "Dino Land (USA)"
-	developer "Wolf Team"
+	users 2
 	rom ( crc 5FE351B8 )
 )
 
 game (
 	comment "Dinosaur's Tale, A (USA)"
-	developer "Funcom"
+	users 1
 	rom ( crc 70155B5B )
 )
 
 game (
 	comment "Disney Collection, The - QuackShot Starring Donald Duck + Castle of Illusion Starring Mickey Mouse (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc ADFDE883 )
 )
 
 game (
 	comment "DJ Boy (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 860E749A )
 )
 
 game (
 	comment "DJ Boy (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 202ABAA8 )
 )
 
 game (
 	comment "DJ Boy (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc DC9F02DB )
 )
 
 game (
 	comment "Donald in Maui Mallard (Europe) (Rev A)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc fa5a79f7 )
 )
 
 game (
 	comment "Donald in Maui Mallard (Brazil) (En)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc 77772691 )
 )
 
 game (
 	comment "Dong Gu Ri Te Chi Jak Jeon (Korea)"
-	developer "Compile"
+	users 2
 	rom ( crc E32F0B1C )
 )
 
 game (
 	comment "Doom Troopers (USA)"
-	developer "Playmates Interactive"
+	users 2
 	rom ( crc 11194414 )
 )
 
 game (
 	comment "Double Clutch (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc D98C623C )
 )
 
 game (
 	comment "Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan)"
-	developer "G-Sat"
+	users 2
 	rom ( crc EEED1130 )
 )
 
 game (
 	comment "Double Dragon 3 - The Arcade Game (USA, Europe)"
-	developer "Flying Edge"
+	users 2
 	rom ( crc B36AB75C )
 )
 
 game (
 	comment "Double Dragon II - The Revenge (Japan) (En)"
-	developer "PAL Soft"
+	users 2
 	rom ( crc A8BFDBD6 )
 )
 
 game (
 	comment "Double Dragon V - The Shadow Falls (USA)"
-	developer "Leland Interactive Media"
+	users 2
 	rom ( crc 27E59E35 )
 )
 
 game (
 	comment "Double Dribble - The Playoff Edition (USA)"
-	developer "Konami"
+	users 8
 	rom ( crc 8352B1D0 )
 )
 
 game (
 	comment "Dr. Robotnik's Mean Bean Machine (Europe)"
-	developer "Compile"
+	users 2
 	rom ( crc 70680706 )
 )
 
 game (
 	comment "Dr. Robotnik's Mean Bean Machine (USA)"
-	developer "Compile"
+	users 2
 	rom ( crc C7CA517F )
 )
 
 game (
 	comment "Dragon - The Bruce Lee Story (Europe)"
-	developer "Acclaim"
+	users 3
 	rom ( crc FDEED51D )
 )
 
 game (
 	comment "Dragon - The Bruce Lee Story (USA)"
-	developer "Acclaim"
+	users 3
 	rom ( crc EFE850E5 )
 )
 
 game (
 	comment "Dragon Ball Z - Buyuu Retsuden (Japan)"
-	developer "Bandai Namco"
+	users 2
 	rom ( crc AF8F3371 )
 )
 
 game (
 	comment "Dragon Ball Z - L'Appel du Destin (France)"
-	developer "Bandai Namco"
+	users 2
 	rom ( crc F035C737 )
 )
 
 game (
 	comment "Dragon Slayer - Eiyuu Densetsu (Japan)"
-	developer "Nihon Falcom"
+	users 1
 	rom ( crc 01BC1604 )
 )
 
 game (
 	comment "Dragon Slayer - Eiyuu Densetsu II (Japan)"
-	developer "Nihon Falcom"
+	users 1
 	rom ( crc 46924DC3 )
 )
 
 game (
 	comment "Dragon's Eye Plus - Shanghai III (Japan)"
-	developer "Home Data"
+	users 2
 	rom ( crc 81F0C3CF )
 )
 
 game (
 	comment "Dragon's Fury (USA, Europe)"
-	developer "Naxat Soft"
+	users 2
 	rom ( crc 58037BC6 )
 )
 
 game (
 	comment "Dragon's Revenge (Japan) (En)"
-	developer "Tengen"
+	users 2
 	rom ( crc D8D2EFD7 )
 )
 
 game (
 	comment "Dragon's Revenge (USA, Europe)"
-	developer "Tengen"
+	users 2
 	rom ( crc 841EDBC0 )
 )
 
 game (
 	comment "Dream Team USA (Japan)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc E2E21B72 )
 )
 
 game (
 	comment "Dune - The Battle for Arrakis (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc 4DEA40BA )
 )
 
 game (
 	comment "Duke Nukem 3D (Brazil) (En)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc 6BD2ACCB )
 )
 
 game (
 	comment "Dune II - Kampf um den Wuestenplaneten (Germany)"
-	developer "Virgin"
+	users 1
 	rom ( crc 39790728 )
 )
 
 game (
 	comment "Dune II - The Battle for Arrakis (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc B58AE71D )
 )
 
 game (
 	comment "Dungeons & Dragons - Warriors of the Eternal Sun (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc AF4A9CD7 )
 )
 
 game (
 	comment "Dyna Brothers 2 (Japan)"
-	developer "CSK Research Institute Corp."
+	users 2
 	rom ( crc 47E0A64E )
 )
 
 game (
 	comment "Dyna Brothers (Japan)"
-	developer "CRI"
+	users 1
 	rom ( crc 360C1B20 )
 )
 
 game (
 	comment "Dyna Brothers 2 Special (Japan) (Virtual Console)"
-	developer "CSK Research Institute Corp."
+	users 2
 	rom ( crc BA3554BC )
 )
 
 game (
 	comment "Dynamite Duke (World) (Rev A)"
-	developer "Seibu Kaihatsu"
+	users 1
 	rom ( crc 246F0BDA )
 )
 
 game (
 	comment "Dynamite Duke (World)"
-	developer "Seibu Kaihatsu"
+	users 1
 	rom ( crc 39D01C8C )
 )
 
 game (
 	comment "Dynamite Headdy (Japan)"
-	developer "Treasure"
+	users 1
 	rom ( crc D03CDB53 )
 )
 
 game (
 	comment "Dynamite Headdy (USA, Europe)"
-	developer "Treasure"
+	users 1
 	rom ( crc 3DFEEB77 )
 )
 
 game (
 	comment "EA Hockey (Japan)"
-	developer "Park Place Production Team"
+	users 2
 	rom ( crc 9DCDC894 )
 )
 
 game (
 	comment "EA Hockey (Europe)"
-	developer "Park Place Production Team"
+	users 2
 	rom ( crc 9BFC279C )
 )
 
 game (
 	comment "EA Sports Double Header (Europe)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc A0B54CBC )
 )
 
 game (
 	comment "Earnest Evans (USA)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc A243816D )
 )
 
 game (
 	comment "Earthworm Jim (Europe)"
-	developer "Shiny Entertainment"
+	users 1
 	rom ( crc 1C07B337 )
 )
 
 game (
 	comment "Earthworm Jim (USA)"
-	developer "Shiny Entertainment"
+	users 1
 	rom ( crc DF3ACF59 )
 )
 
 game (
 	comment "Earthworm Jim 2 (Europe)"
-	developer "Playmates Interactive"
+	users 1
 	rom ( crc AF235FDF )
 )
 
 game (
 	comment "Ecco - The Tides of Time (Europe) (En,Fr,De,Es)"
-	developer "Novotrade"
+	users 1
 	rom ( crc 7B1BF89C )
 )
 
 game (
 	comment "Earthworm Jim 2 (USA)"
-	developer "Playmates Interactive"
+	users 1
 	rom ( crc D57F8BA7 )
 )
 
 game (
 	comment "Ecco - The Tides of Time (USA)"
-	developer "Novotrade"
+	users 1
 	rom ( crc CCB21F98 )
 )
 
 game (
 	comment "Ecco Jr. (USA, Australia)"
-	developer "Novotrade"
+	users 1
 	rom ( crc 6C6F4B89 )
 )
 
 game (
 	comment "Ecco the Dolphin (Japan)"
-	developer "Novotrade"
+	users 1
 	rom ( crc 6520304D )
 )
 
 game (
 	comment "Ecco the Dolphin (USA, Europe, Korea) (En)"
-	developer "Novotrade"
+	users 1
 	rom ( crc 45547390 )
 )
 
 game (
 	comment "Ecco the Dolphin II (Japan)"
-	developer "Novotrade"
+	users 1
 	rom ( crc 062D439C )
 )
 
 game (
 	comment "El.Viento (USA)"
-	developer "Wolf Team"
+	users 1
 	rom ( crc 070A1CEB )
 )
 
 game (
 	comment "El.Viento (Japan)"
-	developer "Wolf Team"
+	users 1
 	rom ( crc 6091C36E )
 )
 
 game (
 	comment "Elemental Master (Japan)"
-	developer "Technosoft"
+	users 1
 	rom ( crc 5F553E29 )
 )
 
 game (
 	comment "Elemental Master (USA)"
-	developer "Technosoft"
+	users 1
 	rom ( crc 390918C6 )
 )
 
 game (
 	comment "Eliminate Down (Japan)"
-	developer "Aprinet"
+	users 1
 	rom ( crc 48467542 )
 )
 
 game (
 	comment "Elitserien 95 (Sweden)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc E10A25C0 )
 )
 
 game (
 	comment "Elitserien 96 (Sweden)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc 9821D0A3 )
 )
 
 game (
 	comment "Empire of Steel (Europe)"
-	developer "Flying Edge"
+	users 1
 	rom ( crc E5517B77 )
 )
 
 game (
 	comment "ESPN Baseball Tonight (USA)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc 96D8440C )
 )
 
 game (
 	comment "ESPN National Hockey Night (USA)"
-	developer "Park Place Productions"
+	users 4
 	rom ( crc 1D08828C )
 )
 
 game (
 	comment "ESPN Speed World (USA)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc F50BE478 )
 )
 
 game (
 	comment "ESPN Sunday Night NFL (USA)"
-	developer "Sony Imagesoft"
+	users 2
 	rom ( crc 61E9C309 )
 )
 
 game (
 	comment "ESWAT - City under Siege (USA, Europe) (Rev A)"
-	developer "SEGA"
+	users 1
 	rom ( crc E72F8A36 )
 )
 
 game (
 	comment "Eternal Champions (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc B9512F5E )
 )
 
 game (
 	comment "Eternal Champions (Japan, Korea) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 66AA3C64 )
 )
 
 game (
 	comment "Eternal Champions (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc 48F1A42E )
 )
 
 game (
 	comment "Europa Sensen (Japan)"
-	developer "Koei"
+	users 2
 	rom ( crc B0416C60 )
 )
 
 game (
 	comment "European Club Soccer (Europe)"
-	developer "Krisalis Software"
+	users 2
 	rom ( crc 6A5CF104 )
 )
 
 game (
 	comment "Evander Holyfield's 'Real Deal' Boxing (World)"
-	developer "Acme Animation"
+	users 2
 	rom ( crc 4FEF37C8 )
 )
 
 game (
 	comment "Ex-Mutants (USA, Europe)"
-	developer "Malibu Games"
+	users 1
 	rom ( crc 33B1979F )
 )
 
 game (
 	comment "Ex-Ranza (Japan)"
-	developer "GAU Entertainment"
+	users 1
 	rom ( crc 349BB68D )
 )
 
 game (
 	comment "Exile (USA)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc 1B569DC2 )
 )
 
 game (
 	comment "Exile (USA) (Sega Channel)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc 8C6E2AA3 )
 )
 
 game (
 	comment "Exile - Toki no Hazama he (Japan)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc 880BF311 )
 )
 
 game (
 	comment "Exo Squad (Europe)"
-	developer "Playmates Interactive"
+	users 2
 	rom ( crc B599B9F9 )
 )
 
 game (
 	comment "F-117 Night Storm (USA, Europe)"
-	developer "Rareware"
+	users 1
 	rom ( crc 1BF67A07 )
 )
 
 game (
 	comment "Exo Squad (USA)"
-	developer "Playmates Interactive"
+	users 2
 	rom ( crc 10EC03F3 )
 )
 
 game (
 	comment "F-117 Stealth - Operation - Night Storm (Japan)"
-	developer "Rareware"
+	users 1
 	rom ( crc EA6E421A )
 )
 
 game (
 	comment "F-15 Strike Eagle II (USA)"
-	developer "MicroProse"
+	users 1
 	rom ( crc 412C4D60 )
 )
 
 game (
 	comment "F-15 Strike Eagle II (Europe)"
-	developer "MicroProse"
+	users 1
 	rom ( crc E98EE370 )
 )
 
 game (
 	comment "F-22 Interceptor (USA) (1991-09-17) (Sega Channel)"
-	developer "Victor Interactive"
+	users 1
 	rom ( crc BD468C42 )
 )
 
 game (
 	comment "F-22 Interceptor - Advanced Tactical Fighter (Japan)"
-	developer "Victor Interactive"
+	users 1
 	rom ( crc FB55C785 )
 )
 
 game (
 	comment "F-22 Interceptor - Advanced Tactical Fighter (USA, Europe) (F-202)"
-	developer "Victor Interactive"
+	users 1
 	rom ( crc 9CF552C2 )
 )
 
 game (
 	comment "F-22 Interceptor - Advanced Tactical Fighter (USA) (F-205)"
-	developer "Victor Interactive"
+	users 1
 	rom ( crc 98FAE0E1 )
 )
 
 game (
 	comment "F1 (Europe)"
-	developer "Domark"
+	users 2
 	rom ( crc FBDD4520 )
 )
 
 game (
 	comment "F1 Circus MD (Japan) (En)"
-	developer "Nichibutsu"
+	users 1
 	rom ( crc 5D30BEFB )
 )
 
 game (
 	comment "F1 - World Championship Edition (Europe)"
-	developer "Peakstar Software"
+	users 2
 	rom ( crc 74CEE0A7 )
 )
 
 game (
 	comment "Faery Tale Adventure, The (USA, Europe)"
-	developer "New World Computing's"
+	users 1
 	rom ( crc 963F4969 )
 )
 
 game (
 	comment "Family Feud (USA)"
-	developer "Eurocom"
+	users 2
 	rom ( crc 1AA628B0 )
 )
 
 game (
 	comment "Fantasia (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc D351B242 )
 )
 
 game (
 	comment "Fantasia (World) (Rev A)"
-	developer "SEGA"
+	users 1
 	rom ( crc FC43DF2D )
 )
 
 game (
 	comment "Fantasia (World) (1991-06-17) (Sega Channel)"
-	developer "SEGA"
+	users 1
 	rom ( crc 34E04627 )
 )
 
 game (
 	comment "Fastest 1 (Japan)"
-	developer "Human"
+	users 2
 	rom ( crc BB43F0DE )
 )
 
 game (
 	comment "Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)"
-	developer "Chameleon"
+	users 1
 	rom ( crc 46447E7A )
 )
 
 game (
 	comment "Fatal Fury (Europe, Korea) (En)"
-	developer "SNK"
+	users 2
 	rom ( crc 71AA889E )
 )
 
 game (
 	comment "Fatal Fury (USA)"
-	developer "SNK"
+	users 2
 	rom ( crc 98D49170 )
 )
 
 game (
 	comment "Fatal Fury 2 (USA, Korea) (En)"
-	developer "SNK"
+	users 2
 	rom ( crc 1B1754CB )
 )
 
 game (
 	comment "Fatal Labyrinth (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 5F0BD984 )
 )
 
 game (
 	comment "Fatal Rewind (USA, Europe)"
-	developer "Bizarre Creations"
+	users 2
 	rom ( crc E91AED05 )
 )
 
 game (
 	comment "Fatman (Japan)"
-	developer "Brian A. Rice, Inc."
+	users 2
 	rom ( crc 7867DA3A )
 )
 
 game (
 	comment "Fatal Rewind (USA, Europe) (Rev 1)"
-	developer "Bizarre Creations"
+	users 2
 	rom ( crc 21DBB69D )
 )
 
 game (
 	comment "Ferias Frustradas do Pica Pau (Brazil)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc b03507c4 )
 )
 
 game (
 	comment "Ferrari Grand Prix Challenge (USA)"
-	developer "Aisystem Tokyo"
+	users 2
 	rom ( crc F73F6BEC )
 )
 
 game (
 	comment "Fever Pitch Soccer (Europe) (En,Fr,De,Es,It)"
-	developer "U.S. Gold"
+	users 2
 	rom ( crc FAC29677 )
 )
 
 game (
 	comment "Ferrari Grand Prix Challenge (Europe)"
-	developer "Aisystem Tokyo"
+	users 2
 	rom ( crc 250111DF )
 )
 
 game (
 	comment "FIFA 98 - Road to World Cup (Europe) (En,Fr,Es,It,Sv)"
-	developer "EA Sports"
+	users 4
 	rom ( crc 96947F57 )
 )
 
 game (
 	comment "FIFA International Soccer (USA, Europe) (En,Fr,De,Es)"
-	developer "Extended Play Productions"
+	users 4
 	rom ( crc BDDBB763 )
 )
 
 game (
 	comment "FIFA International Soccer (Japan) (En,Ja)"
-	developer "Extended Play Productions"
+	users 4
 	rom ( crc B555E8B4 )
 )
 
 game (
 	comment "FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)"
-	developer "Extended Play Productions"
+	users 4
 	rom ( crc B389D036 )
 )
 
 game (
 	comment "FIFA Soccer 95 (Korea) (En,Fr,De,Es)"
-	developer "Extended Play Productions"
+	users 4
 	rom ( crc 012591F9 )
 )
 
 game (
 	comment "FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv)"
-	developer "Extended Play Productions"
+	users 4
 	rom ( crc BAD30FFA )
 )
 
 game (
 	comment "FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv)"
-	developer "XYZ"
+	users 4
 	rom ( crc A33D5803 )
 )
 
 game (
 	comment "Fighting Masters (Japan, Korea) (En)"
-	developer "Almanic Corp."
+	users 2
 	rom ( crc 39BE80EC )
 )
 
 game (
 	comment "Fighting Masters (USA)"
-	developer "Almanic Corp."
+	users 2
 	rom ( crc 5F51983B )
 )
 
 game (
 	comment "Final Blow (Japan) (En)"
-	developer "Taito"
+	users 2
 	rom ( crc 48AD505D )
 )
 
 game (
 	comment "Fire Mustang (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc EB7E36C3 )
 )
 
 game (
 	comment "Fire Shark (Europe)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 2351CE61 )
 )
 
 game (
 	comment "Fire Shark (USA)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 9C175146 )
 )
 
 game (
 	comment "Flashback (Europe) (En,Fr)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc EDE60E88 )
 )
 
 game (
 	comment "Flashback (Japan)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc B790E3B4 )
 )
 
 game (
 	comment "Flashback - The Quest for Identity (USA) (En,Fr)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc 9FEFB1AB )
 )
 
 game (
 	comment "Flicky (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 4291C8AB )
 )
 
 game (
 	comment "Flink (Europe) (En,Fr,De)"
-	developer "Sony"
+	users 1
 	rom ( crc BEF9A4F4 )
 )
 
 game (
 	comment "Flintstones, The (Japan) (Taito)"
-	developer "Taito"
+	users 1
 	rom ( crc 920A3031 )
 )
 
 game (
 	comment "Flintstones, The (Europe) (Taito)"
-	developer "Taito"
+	users 1
 	rom ( crc 21845D61 )
 )
 
 game (
-	comment "Flux (Europe) (Program)"
-	developer "EXP"
-	rom ( crc 2A1DA08C )
-)
-
-game (
 	comment "Flintstones, The (USA) (Taito)"
-	developer "Taito"
+	users 1
 	rom ( crc 7C982C59 )
 )
 
 game (
 	comment "Foreman for Real (World)"
-	developer "Software Creations"
+	users 8
 	rom ( crc ba6eaeca )
 )
 
 game (
 	comment "Forgotten Worlds (World)"
-	developer "Capcom"
+	users 2
 	rom ( crc D0EE6434 )
 )
 
 game (
 	comment "Forgotten Worlds (World) (Rev A)"
-	developer "Capcom"
+	users 2
 	rom ( crc 95513985 )
 )
 
 game (
 	comment "Formula One (USA)"
-	developer "Domark"
+	users 2
 	rom ( crc CCD73738 )
 )
 
 game (
 	comment "Frank Thomas Big Hurt Baseball (USA, Europe)"
-	developer "Acclaim"
+	users 2
 	rom ( crc 863E0950 )
 )
 
 game (
 	comment "Frogger (USA)"
-	developer "Morning Star Multimedia"
+	users 2
 	rom ( crc EA2E48C0 )
 )
 
 game (
 	comment "Frogger (USA) (Rev 1)"
-	developer "Morning Star Multimedia"
+	users 2
 	rom ( crc FD75BC31 )
 )
 
 game (
 	comment "From TV Animation Slam Dunk - Kyougou Makkou Taiketsu! (Japan)"
-	developer "Bandai Namco"
+	users 2
 	rom ( crc CDF5678F )
 )
 
 game (
 	comment "Fun 'n Games (Europe)"
-	developer "Leland Interactive Media"
+	users 1
 	rom ( crc DA4AB3CD )
 )
 
 game (
 	comment "Fun 'n' Games (USA)"
-	developer "Leland Interactive Media"
+	users 1
 	rom ( crc B5AE351D )
 )
 
 game (
 	comment "Fushigi no Umi no Nadia (Japan)"
-	developer "Namco"
+	users 1
 	rom ( crc 4762062A )
 )
 
 game (
 	comment "G-LOC - Air Battle (World)"
-	developer "SEGA"
+	users 1
 	rom ( crc F2AF886E )
 )
 
 game (
 	comment "FZ Senki Axis ~ Final Zone (Japan, USA) (En)"
-	developer "Wolf Team"
+	users 1
 	rom ( crc 731FA4A1 )
 )
 
 game (
 	comment "G-LOC - Air Battle (World) (1992-11-23) (Sega Channel)"
-	developer "SEGA"
+	users 1
 	rom ( crc C6BC06FD )
 )
 
 game (
 	comment "Gadget Twins (USA)"
-	developer "Imagitec Design"
+	users 2
 	rom ( crc 7AE5E248 )
 )
 
 game (
 	comment "Gaiares (Japan, USA) (En)"
-	developer "Telenet"
+	users 1
 	rom ( crc 5D8BF68B )
 )
 
 game (
 	comment "Gain Ground (Europe)"
-	developer "Renovation Products"
+	users 2
 	rom ( crc AEE20A64 )
 )
 
 game (
 	comment "Gain Ground (Japan) (En)"
-	developer "Renovation Products"
+	users 2
 	rom ( crc 8641A2AB )
 )
 
 game (
 	comment "Gain Ground (USA)"
-	developer "Renovation Products"
+	users 2
 	rom ( crc 83E7B8AE )
 )
 
 game (
 	comment "Galaxy Force II (Japan) (En)"
-	developer "AM R&D Dept. #2"
+	users 1
 	rom ( crc CAE883C5 )
 )
 
 game (
 	comment "Galaxy Force II (World) (Rev B)"
-	developer "AM R&D Dept. #2"
+	users 1
 	rom ( crc D15F5C3C )
 )
 
 game (
 	comment "Galaxy Force II (Japan) (En) (Virtual Console)"
-	developer "AM R&D Dept. #2"
+	users 1
 	rom ( crc BC3646BB )
 )
 
 game (
 	comment "Galaxy Force II (USA, Europe) (PC Rerelease)"
-	developer "AM R&D Dept. #2"
+	users 1
 	rom ( crc E4D84E4A )
 )
 
 game (
 	comment "Gambler Jiko Chuushinha - Katayama Masayuki no Mahjong Doujou (Japan)"
-	developer "Game Arts"
+	users 1
 	rom ( crc 05650B7A )
 )
 
 game (
 	comment "Game no Kanzume Otokuyou (Japan) (Sega Channel)"
-	developer "SEGA"
+	users 2
 	rom ( crc CDAD7E6B )
 )
 
 game (
-	comment "Game Toshokan (Japan) (Rev A) (Program)"
-	developer "SEGA"
-	rom ( crc C185C819 )
-)
-
-game (
 	comment "Garfield - Caught in the Act (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc F0FF078E )
 )
 
 game (
 	comment "Gargoyles (USA)"
-	developer "Buena Vista Interactive"
+	users 1
 	rom ( crc 2D965364 )
 )
 
 game (
 	comment "Garou Densetsu - Shukumei no Tatakai (Japan)"
-	developer "SNK"
+	users 2
 	rom ( crc BF3E3FA4 )
 )
 
 game (
 	comment "Garry Kitchen's Super Battletank - War in the Gulf (USA)"
-	developer "Absolute Entertainment"
+	users 1
 	rom ( crc B0B5E3C9 )
 )
 
 game (
 	comment "Garou Densetsu 2 - Aratanaru Tatakai (Japan)"
-	developer "SNK"
+	users 2
 	rom ( crc 2AF4427F )
 )
 
 game (
 	comment "Gauntlet (Japan) (En,Ja)"
-	developer "Tengen"
+	users 4
 	rom ( crc F9872055 )
 )
 
 game (
 	comment "Gemfire (USA)"
-	developer "Koei"
+	users 2
 	rom ( crc 3D36135B )
 )
 
 game (
 	comment "Gauntlet IV (USA, Europe) (En,Ja)"
-	developer "Tengen"
+	users 4
 	rom ( crc 3BF46DCE )
 )
 
 game (
 	comment "General Chaos (USA, Europe)"
-	developer "Game Refuge"
+	users 4
 	rom ( crc F1ECC4DF )
 )
 
 game (
 	comment "General Chaos Daikonsen (Japan)"
-	developer "Game Refuge"
+	users 4
 	rom ( crc 05CC7369 )
 )
 
 game (
 	comment "Generations Lost (USA, Europe)"
-	developer "Time Warner Interactive"
+	users 1
 	rom ( crc 131F36A6 )
 )
 
 game (
 	comment "Genghis Khan II - Clan of the Gray Wolf (USA)"
-	developer "Koei"
+	users 2
 	rom ( crc 87A281AE )
 )
 
 game (
+	comment "Gensou Senki Kokou no Ryuu - Crying Dragon (Japan) (Proto)"
+	users 1
+	rom ( crc 888193BC )
+)
+
+game (
 	comment "George Foreman's KO Boxing (Europe)"
-	developer "Flying Edge"
+	users 2
 	rom ( crc BD556381 )
 )
 
 game (
 	comment "George Foreman's KO Boxing (USA)"
-	developer "Flying Edge"
+	users 2
 	rom ( crc E1FDC787 )
 )
 
 game (
 	comment "Ghostbusters (Japan)"
-	developer "Compile"
+	users 1
 	rom ( crc 00419DA3 )
 )
 
 game (
 	comment "Ghostbusters (USA, Europe)"
-	developer "Compile"
+	users 1
 	rom ( crc 792DF93B )
 )
 
 game (
 	comment "Gleylancer (Japan)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 42CF9B5B )
 )
 
 game (
 	comment "Global Gladiators (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc 5C218C6A )
 )
 
 game (
 	comment "Go Net (Japan)"
-	developer "Aisystem Tokyo"
+	users 1
 	rom ( crc DB30F773 )
 )
 
 game (
 	comment "Gods (Japan)"
-	developer "Graftgold"
+	users 1
 	rom ( crc E4F50206 )
 )
 
 game (
 	comment "Gods (Europe)"
-	developer "Graftgold"
+	users 1
 	rom ( crc 6C415016 )
 )
 
 game (
 	comment "Gods (USA)"
-	developer "Graftgold"
+	users 1
 	rom ( crc FD234CCD )
 )
 
 game (
 	comment "Golden Axe (World)"
-	developer "SEGA"
+	users 2
 	rom ( crc E8182B90 )
 )
 
 game (
 	comment "Golden Axe (World) (Rev B) (Sega Smash Pack)"
-	developer "SEGA"
+	users 2
 	rom ( crc 31227079 )
 )
 
 game (
 	comment "Golden Axe (World) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc 665D7DF9 )
 )
 
 game (
 	comment "Golden Axe II (World)"
-	developer "SEGA"
+	users 2
 	rom ( crc 725E0A18 )
 )
 
 game (
 	comment "Golden Axe III (Japan) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc C7862EA3 )
 )
 
 game (
 	comment "Golden Axe III (Europe) (Virtual Console)"
-	developer "SEGA"
+	users 2
 	rom ( crc 1D90DC83 )
 )
 
 game (
 	comment "Goofy's Hysterical History Tour (USA)"
-	developer "Imagineer"
+	users 1
 	rom ( crc 4E1CC833 )
 )
 
 game (
 	comment "Gouketsuji Ichizoku (Japan)"
-	developer "Atlus"
+	users 2
 	rom ( crc ABE9C415 )
 )
 
 game (
 	comment "Granada (Japan, USA) (En)"
-	developer "Wolf Team"
+	users 1
 	rom ( crc 7F45719B )
 )
 
 game (
 	comment "Granada (Japan, USA) (En) (Rev A)"
-	developer "Wolf Team"
+	users 1
 	rom ( crc E89D1E66 )
 )
 
 game (
 	comment "GrandSlam - The Tennis Tournament (Europe)"
-	developer "System Sacom"
+	users 2
 	rom ( crc 8C2670DE )
 )
 
 game (
 	comment "GrandSlam - The Tennis Tournament '92 (Japan)"
-	developer "System Sacom"
+	users 2
 	rom ( crc 30CF37D0 )
 )
 
 game (
 	comment "Great Circus Mystery - Mickey to Minnie Magical Adventure 2 (Japan)"
-	developer "Capcom"
+	users 2
 	rom ( crc 5AA0F3A0 )
 )
 
 game (
 	comment "Great Circus Mystery Starring Mickey & Minnie, The (USA)"
-	developer "Capcom"
+	users 2
 	rom ( crc 14744883 )
 )
 
 game (
 	comment "Great Waldo Search, The (USA)"
-	developer "Radiance Software"
+	users 2
 	rom ( crc 8C5C93B8 )
 )
 
 game (
 	comment "Greatest Heavyweights (Europe)"
-	developer "Acme Animation"
+	users 2
 	rom ( crc 9778C181 )
 )
 
 game (
 	comment "Greatest Heavyweights (USA)"
-	developer "Acme Animation"
+	users 2
 	rom ( crc 6E3621D5 )
 )
 
 game (
 	comment "Greatest Heavyweights (Japan)"
-	developer "Acme Animation"
+	users 2
 	rom ( crc 7EF8B162 )
 )
 
 game (
 	comment "Greendog - The Beached Surfer Dude! (USA, Europe)"
-	developer "Data Design"
+	users 1
 	rom ( crc C4820A03 )
 )
 
 game (
 	comment "Grind Stormer (USA)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 7E6BEF15 )
 )
 
 game (
 	comment "Growl (USA)"
-	developer "Taito"
+	users 1
 	rom ( crc F60EF143 )
 )
 
 game (
 	comment "Gunship (Europe)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc DA1440C9 )
 )
 
 game (
 	comment "Gunstar Heroes (USA)"
-	developer "Treasure"
+	users 2
 	rom ( crc B813CF0D )
 )
 
 game (
 	comment "Gunstar Heroes (Japan)"
-	developer "Treasure"
+	users 2
 	rom ( crc 1CFD0383 )
 )
 
 game (
 	comment "Gunstar Heroes (Europe)"
-	developer "Treasure"
+	users 2
 	rom ( crc 866ED9D0 )
 )
 
 game (
 	comment "Gynoug (Europe)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 03405102 )
 )
 
 game (
 	comment "Gynoug (Japan)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 1B69241F )
 )
 
 game (
 	comment "Hard Drivin' (World)"
-	developer "Tengen"
+	users 1
 	rom ( crc 3225BAAF )
 )
 
 game (
 	comment "HardBall '94 (USA, Europe)"
-	developer "MindSpan"
+	users 2
 	rom ( crc EA9C4878 )
 )
 
 game (
 	comment "Haunting Starring Polterguy (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc C9FC876D )
 )
 
 game (
 	comment "HardBall '95 (USA)"
-	developer "MindSpan"
+	users 2
 	rom ( crc ED10BC9E )
 )
 
 game (
 	comment "Havoc (Europe)"
-	developer "Data East"
+	users 1
 	rom ( crc 76E6D20D )
 )
 
 game (
 	comment "Head-On Soccer (USA)"
-	developer "U.S. Gold"
+	users 2
 	rom ( crc DCFFA327 )
 )
 
 game (
 	comment "Heavy Nova (USA)"
-	developer "Holocronet"
+	users 2
 	rom ( crc F6B6A9D8 )
 )
 
 game (
 	comment "Heavy Unit - Mega Drive Special (Japan)"
-	developer "Kaneko"
+	users 1
 	rom ( crc 1ACBE608 )
 )
 
 game (
 	comment "Hellfire (Europe)"
-	developer "Toaplan"
+	users 1
 	rom ( crc CF30ACEC )
 )
 
 game (
 	comment "Hellfire (Japan)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 8E5E13BA )
 )
 
 game (
 	comment "Hellfire (USA)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 184018F9 )
 )
 
 game (
 	comment "Herzog Zwei (Japan)"
-	developer "Technosoft"
+	users 2
 	rom ( crc 4CF676B3 )
 )
 
 game (
 	comment "Herzog Zwei (USA, Europe)"
-	developer "Technosoft"
+	users 2
 	rom ( crc A605B65B )
 )
 
 game (
 	comment "High Seas Havoc (USA)"
-	developer "Data East"
+	users 1
 	rom ( crc 17BE551C )
 )
 
 game (
 	comment "Hit the Ice - VHL - The Official Video Hockey League (USA)"
-	developer "Taito"
+	users 2
 	rom ( crc 85B23606 )
 )
 
 game (
 	comment "Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1B6585E7 )
 )
 
 game (
 	comment "Home Alone (USA, Europe)"
-	developer "Brian A. Rice, Inc."
+	users 1
 	rom ( crc AA0D4387 )
 )
 
 game (
 	comment "Home Alone 2 - Lost in New York (USA) (1993-09-29) (Sega Channel)"
-	developer "Interactive Designs"
+	users 1
 	rom ( crc C2F37AE2 )
 )
 
 game (
 	comment "Home Alone 2 - Lost in New York (USA)"
-	developer "Interactive Designs"
+	users 1
 	rom ( crc CBF87C14 )
 )
 
 game (
 	comment "Honoo no Toukyuuji - Dodge Danpei (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 630F07C6 )
 )
 
 game (
 	comment "Hook (USA)"
-	developer "Sony"
+	users 1
 	rom ( crc 2C48E712 )
 )
 
 game (
 	comment "Hook (Europe)"
-	developer "Sony"
+	users 1
 	rom ( crc A154433A )
 )
 
 game (
 	comment "Humans, The (USA)"
-	developer "GameTek"
+	users 1
 	rom ( crc A0CF4366 )
 )
 
 game (
 	comment "Hurricanes (Europe)"
-	developer "Arc Developments"
+	users 2
 	rom ( crc DECCC874 )
 )
 
 game (
 	comment "Hyokkori Hyoutan-jima - Daitouryou wo Mezase! (Japan)"
-	developer "JSH"
+	users 4
 	rom ( crc 72253BDB )
 )
 
 game (
 	comment "Hybrid Front, The (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc A1F1CFE7 )
 )
 
 game (
 	comment "Hyper Dunk (Europe)"
-	developer "Konami"
+	users 8
 	rom ( crc F27C576A )
 )
 
 game (
 	comment "Hyper Marbles (Japan) (SegaNet)"
-	developer "SEGA"
+	users 2
 	rom ( crc 83BB2799 )
 )
 
 game (
 	comment "Hyper Dunk - The Playoff Edition (Japan)"
-	developer "Konami"
+	users 8
 	rom ( crc 5BAF53D7 )
 )
 
 game (
 	comment "Hyper Marbles (Japan) (Game no Kanzume Otokuyou)"
-	developer "SEGA"
+	users 2
 	rom ( crc 9ED72146 )
 )
 
 game (
 	comment "Hyper Marbles (Japan) (Game no Kanzume Vol. 1)"
-	developer "SEGA"
+	users 2
 	rom ( crc C4704467 )
 )
 
 game (
 	comment "I Love Mickey and Donald - Fushigi na Magic Box (Japan) (Rev 1)"
-	developer "SEGA"
+	users 2
 	rom ( crc 277bdb4c )
 )
 
 game (
 	comment "I Love Mickey and Donald - Fushigi na Magic Box (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc CB9EE238 )
 )
 
 game (
 	comment "Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Game no Kanzume Otokuyou)"
-	developer "SEGA"
+	users 1
 	rom ( crc 22736650 )
 )
 
 game (
 	comment "I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc CE8333C6 )
 )
 
 game (
 	comment "Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 0053BFD6 )
 )
 
 game (
 	comment "IMG International Tour Tennis (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc E04FFC2B )
 )
 
 game (
 	comment "Immortal, The (USA, Europe)"
-	developer "Sandcastle"
+	users 1
 	rom ( crc F653C508 )
 )
 
 game (
 	comment "Incredible Crash Dummies, The (USA, Europe)"
-	developer "Flying Edge"
+	users 1
 	rom ( crc 1F6E574A )
 )
 
 game (
 	comment "Incredible Hulk, The (USA, Europe)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc 84A5A2DC )
 )
 
 game (
 	comment "Indiana Jones and the Last Crusade (Europe)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc EB8F4374 )
 )
 
 game (
 	comment "Indiana Jones and the Last Crusade (USA)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc 3599A3FD )
 )
 
 game (
 	comment "Insector X (Japan, Korea) (Ja)"
-	developer "Sage's Creation"
+	users 1
 	rom ( crc 9625C434 )
 )
 
 game (
 	comment "Insector X (USA)"
-	developer "Sage's Creation"
+	users 1
 	rom ( crc 70626304 )
 )
 
 game (
 	comment "International Rugby (Europe)"
-	developer "Domark"
+	users 2
 	rom ( crc D97D1699 )
 )
 
 game (
 	comment "Instruments of Chaos Starring Young Indiana Jones (USA)"
-	developer "Brian A. Rice, Inc"
+	users 1
 	rom ( crc 4E384EF0 )
 )
 
 game (
 	comment "International Sensible Soccer (Europe) (En,Fr,De,It)"
-	developer "Renegade Software"
+	users 8
 	rom ( crc 04E3BCCA )
 )
 
 game (
 	comment "International Superstar Soccer Deluxe (Europe, Brazil) (En)"
-	developer "Konami"
+	users 8
 	rom ( crc 9BB3B180 )
 )
 
 game (
 	comment "J. League Champion Soccer (Japan)"
-	developer "Krisalis Software"
+	users 2
 	rom ( crc 453C405E )
 )
 
 game (
 	comment "Izzy's Quest for the Olympic Rings (USA, Europe)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc 77B416E4 )
 )
 
 game (
 	comment "J. League Pro Striker (Japan)"
-	developer "SEGA"
+	users 4
 	rom ( crc EC229156 )
 )
 
 game (
 	comment "J. League Pro Striker 2 (Japan)"
-	developer "SEGA"
+	users 4
 	rom ( crc 9FE71002 )
 )
 
 game (
 	comment "J. League Pro Striker Perfect (Japan)"
-	developer "SEGA"
+	users 4
 	rom ( crc 0ABED379 )
 )
 
 game (
 	comment "J. League Pro Striker (Japan) (Rev A)"
-	developer "SEGA"
+	users 4
 	rom ( crc 2D5B7A11 )
 )
 
 game (
 	comment "Jack Nicklaus' Power Challenge Golf (USA, Europe)"
-	developer "Accolade"
+	users 4
 	rom ( crc 5545E909 )
 )
 
 game (
 	comment "James 'Buster' Douglas Knockout Boxing (USA, Europe)"
-	developer "Taito"
+	users 2
 	rom ( crc 87BBCF2A )
 )
 
 game (
 	comment "James Bond 007 - The Duel (Europe)"
-	developer "Domark"
+	users 1
 	rom ( crc 291A3E4B )
 )
 
 game (
 	comment "James Bond 007 - The Duel (USA)"
-	developer "Domark"
+	users 1
 	rom ( crc 4E614548 )
 )
 
 game (
 	comment "James Pond - Underwater Agent (USA, Europe)"
-	developer "Electronic Arts"
+	users 1
 	rom ( crc D0E7B466 )
 )
 
 game (
 	comment "James Pond II (Japan, Korea) (Ja)"
-	developer "Vectordean"
+	users 1
 	rom ( crc 98794702 )
 )
 
 game (
 	comment "James Pond 3 (USA, Europe)"
-	developer "Millennium Interactive"
+	users 1
 	rom ( crc 26F64B2A )
 )
 
 game (
 	comment "James Pond II - Codename - Robocod (USA, Europe)"
-	developer "Vectordean"
+	users 1
 	rom ( crc F4ABEDBA )
 )
 
 game (
 	comment "Jammit (USA)"
-	developer "GTE Entertainment"
+	users 2
 	rom ( crc D91B52B8 )
 )
 
 game (
-	comment "Janou Touryuumon (Japan)"
-	developer "Game Arts"
-	rom ( crc B5EF97C6 )
-)
-
-game (
 	comment "Jantei Monogatari (Japan)"
-	developer "Atlus"
+	users 1
 	rom ( crc 8A1B19AD )
 )
 
 game (
 	comment "Jashin Draxos (Japan, Korea) (Ja)"
-	developer "Dinamic Software"
+	users 1
 	rom ( crc 1EA07AF2 )
 )
 
 game (
 	comment "Jeopardy! (USA)"
-	developer "Park Place Productions"
+	users 3
 	rom ( crc 56CFF3F1 )
 )
 
 game (
 	comment "Jeopardy! - Deluxe Edition (USA)"
-	developer "Park Place Productions"
+	users 3
 	rom ( crc 25E2F9D2 )
 )
 
 game (
 	comment "Jennifer Capriati Tennis (USA)"
-	developer "System Sacom"
+	users 2
 	rom ( crc AB2ABC8E )
 )
 
 game (
 	comment "Jeopardy! - Sports Edition (USA)"
-	developer "Slapdash Games"
+	users 3
 	rom ( crc 13F924D2 )
 )
 
 game (
 	comment "Jerry Glanville's Pigskin Footbrawl (USA)"
-	developer "Developer Resources"
+	users 2
 	rom ( crc E7F48D30 )
 )
 
 game (
 	comment "Jewel Master (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 2CF6926C )
 )
 
 game (
 	comment "Jimmy White's Whirlwind Snooker (Europe)"
-	developer "Virgin"
+	users 2
 	rom ( crc 0AEF5B1F )
 )
 
 game (
 	comment "Jewel Master (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc CEE98813 )
 )
 
 game (
 	comment "Joe & Mac (USA)"
-	developer "Data East"
+	users 2
 	rom ( crc 85BCC1C7 )
 )
 
 game (
 	comment "Joe Montana Football (World)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc 8AA6A1DD )
 )
 
 game (
 	comment "Joe Montana II - Sports Talk Football (World) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc A45DA893 )
 )
 
 game (
 	comment "Joe Montana II Sports Talk Football (World)"
-	developer "SEGA"
+	users 2
 	rom ( crc F2363A4A )
 )
 
 game (
 	comment "John Madden Football (USA, Europe)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc 90FB8818 )
 )
 
 game (
 	comment "John Madden Football - Championship Edition (USA)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc CA534B1A )
 )
 
 game (
 	comment "John Madden Football (USA, Europe) (1990-11-07) (Sega Channel)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc E361DB13 )
 )
 
 game (
 	comment "John Madden Football - Pro Football (Japan)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 0460611C )
 )
 
 game (
 	comment "John Madden Football '93 (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc CA323B3E )
 )
 
 game (
 	comment "John Madden Football '92 (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 046E3945 )
 )
 
 game (
 	comment "Jordan vs Bird (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 22D77E6D )
 )
 
 game (
 	comment "Jordan vs Bird (USA, Europe) (Rev A)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 4D3DDD7C )
 )
 
 game (
 	comment "Jordan vs Bird - One on One (Japan)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 8837E896 )
 )
 
 game (
 	comment "Journey from Darkness - Strider Returns (USA)"
-	developer "Tiertex"
+	users 1
 	rom ( crc 42589B79 )
 )
 
 game (
 	comment "JuJu Densetsu (Japan) (En)"
-	developer "Tad Corporation"
+	users 2
 	rom ( crc D09B1EF1 )
 )
 
 game (
 	comment "Judge Dredd (World)"
-	developer "Probe Software"
+	users 1
 	rom ( crc EA342ED8 )
 )
 
 game (
 	comment "Junction (Japan, USA) (En)"
-	developer "Micronet"
+	users 1
 	rom ( crc 94CDCE8D )
 )
 
 game (
 	comment "Jungle Book, The (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc B9709A99 )
 )
 
 game (
 	comment "Jungle Book, The (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc 3FB6D92E )
 )
 
 game (
 	comment "Jungle Book, The (World) (Disney Classic Games)"
-	developer "Virgin"
+	users 1
 	rom ( crc f48eb5da )
 )
 
 game (
 	comment "Jungle Strike (USA, Europe)"
-	developer "High Score Productions"
+	users 1
 	rom ( crc A5D29735 )
 )
 
 game (
 	comment "Jungle Strike - Uketsugareta Kyouki (Japan)"
-	developer "High Score Productions"
+	users 1
 	rom ( crc BA7A870B )
 )
 
 game (
 	comment "Jurassic Park (Japan)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc EC8E5783 )
 )
 
 game (
 	comment "Jurassic Park (Europe)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc 448341F6 )
 )
 
 game (
 	comment "Jurassic Park (USA)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc 7B31DEEF )
 )
 
 game (
 	comment "Jurassic Park (Europe) (1993-06-14) (Sega Channel)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc 64B8BEB5 )
 )
 
 game (
 	comment "Jurassic Park (USA) (1993-05-26) (Sega Channel)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc B44968E7 )
 )
 
 game (
 	comment "Justice League Task Force (World)"
-	developer "Blizzard Entertainment"
+	users 2
 	rom ( crc 88bb241f )
 )
 
 game (
 	comment "Jurassic Park - Rampage Edition (USA, Europe)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc 98B4AA1B )
 )
 
 game (
 	comment "Juuouki (Japan) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc B2233E87 )
 )
 
 game (
 	comment "Juusou Kihei Leynos (Japan)"
-	developer "NCS Corporation"
+	users 1
 	rom ( crc 81A2C800 )
 )
 
 game (
 	comment "Juuouki (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc 1B7C96C0 )
 )
 
 game (
 	comment "Juusou Kihei Leynos (Japan) (Virtual Console)"
-	developer "NCS Corporation"
+	users 1
 	rom ( crc AF5018F6 )
 )
 
 game (
 	comment "Juusou Kihei Leynos (Japan) (Switch Online)"
-	developer "NCS Corporation"
+	users 1
 	rom ( crc 01278F1C )
 )
 
 game (
 	comment "Ka-Ge-Ki - Fists of Steel (USA)"
-	developer "Kaneko"
+	users 1
 	rom ( crc EFFC0FA6 )
 )
 
 game (
 	comment "Ka-Ge-Ki (Japan)"
-	developer "Kaneko"
+	users 1
 	rom ( crc 391866A1 )
 )
 
 game (
 	comment "Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It)"
-	developer "Tokai Engineering"
+	users 2
 	rom ( crc BC37401A )
 )
 
 game (
 	comment "Kawasaki Superbike Challenge (USA, Europe)"
-	developer "Lankhor"
+	users 2
 	rom ( crc 631CC8E9 )
 )
 
 game (
 	comment "Kick Boxing, The (Japan, Korea) (En)"
-	developer "Loriciels"
+	users 2
 	rom ( crc 9BDC230C )
 )
 
 game (
 	comment "Kid Chameleon (USA, Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc CE36E6CC )
 )
 
 game (
-	comment "Kidou Keisatsu Patlabor - 98-Shiki Kidou Seyo! (Japan)"
-	developer "Ma-Ba"
-	rom ( crc 21A0E749 )
-)
-
-game (
 	comment "Killing Game Show, The (Japan)"
-	developer "Bizarre Creations"
+	users 2
 	rom ( crc B8E7668A )
 )
 
 game (
 	comment "King of the Monsters (Japan)"
-	developer "SNK"
+	users 2
 	rom ( crc 3AF7E74E )
 )
 
 game (
 	comment "King of the Monsters (Europe)"
-	developer "SNK"
+	users 2
 	rom ( crc 7A94FD49 )
 )
 
 game (
 	comment "King of the Monsters 2 (USA)"
-	developer "Takara"
+	users 2
 	rom ( crc EE1638AC )
 )
 
 game (
 	comment "King of the Monsters (USA)"
-	developer "SNK"
+	users 2
 	rom ( crc F390D406 )
 )
 
 game (
 	comment "King Salmon (Japan)"
-	developer "SNK"
+	users 1
 	rom ( crc 2CFC9F61 )
 )
 
 game (
 	comment "King's Bounty - The Conqueror's Quest (USA, Europe)"
-	developer "New World Computing's"
+	users 1
 	rom ( crc AA68A92E )
 )
 
 game (
 	comment "King Salmon - The Big Catch (USA)"
-	developer "SNK"
+	users 1
 	rom ( crc F516E7D9 )
 )
 
 game (
 	comment "Kiss Shot (Japan) (SegaNet)"
-	developer "SEGA"
+	users 4
 	rom ( crc E487088C )
 )
 
 game (
-	comment "Kishi Densetsu (Japan)"
-	developer "Kodansha"
-	rom ( crc 22E1F04A )
-)
-
-game (
 	comment "Klax (Japan) (Namco)"
-	developer "Tengen"
+	users 1
 	rom ( crc 1AFCC1DA )
 )
 
 game (
 	comment "Klax (USA, Europe) (Tengen)"
-	developer "Tengen"
+	users 1
 	rom ( crc 248CD09E )
 )
 
 game (
 	comment "Koutetsu Teikoku (Japan)"
-	developer "Flying Edge"
+	users 1
 	rom ( crc 755D0B8A )
 )
 
 game (
 	comment "Krusty's Super Fun House (USA, Europe)"
-	developer "Acclaim"
+	users 1
 	rom ( crc F764005E )
 )
 
 game (
 	comment "Krusty's Super Fun House (USA, Europe) (Rev A)"
-	developer "Acclaim"
+	users 1
 	rom ( crc 56976261 )
 )
 
 game (
 	comment "Kujaku Ou 2 - Geneijou (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc AFFD56BC )
 )
 
 game (
 	comment "Kyuukai Douchuuki (Japan)"
-	developer "Namco"
+	users 2
 	rom ( crc DE48DCE3 )
 )
 
 game (
 	comment "Kuuga - Operation Code 'Vapor Trail' (Japan)"
-	developer "Data East"
+	users 2
 	rom ( crc 83B6B6BA )
 )
 
 game (
 	comment "Kyuukyoku Tiger (Japan)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 61276D21 )
 )
 
 game (
 	comment "La Russa Baseball 95 (USA, Australia)"
-	developer "High Score Productions"
+	users 2
 	rom ( crc 3F848A92 )
 )
 
 game (
 	comment "Lakers versus Celtics and the NBA Playoffs (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 0E33FC75 )
 )
 
 game (
 	comment "Landstalker (USA) (Genesis Mini)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc f2d14a6a )
 )
 
 game (
 	comment "Landstalker (USA) (1993-07-13) (Sega Channel)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 8866FB16 )
 )
 
 game (
 	comment "Landstalker - Die Schatze von Konig Nolo (Germany)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 10FEDB8F )
 )
 
 game (
 	comment "Landstalker (USA)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc FBBB5B97 )
 )
 
 game (
 	comment "Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc fc64bb8c )
 )
 
 game (
 	comment "Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc b0afa45a )
 )
 
 game (
 	comment "Landstalker - Le Tresor du Roi Nole (France)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 5DE7D917 )
 )
 
 game (
 	comment "Landstalker - Koutei no Zaihou (Japan)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 60D4CEDB )
 )
 
 game (
 	comment "Landstalker - The Treasures of King Nole (Europe)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc E3C65277 )
 )
 
 game (
 	comment "Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 365d282a )
 )
 
 game (
 	comment "Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 1ec0ec97 )
 )
 
 game (
 	comment "Langrisser (Japan)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc B6EA5016 )
 )
 
 game (
 	comment "Langrisser II (Japan)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 7F891DFC )
 )
 
 game (
 	comment "Langrisser II (Japan) (Rev A)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 0CAA0593 )
 )
 
 game (
 	comment "Langrisser II (Japan) (Rev B)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 4967C9F9 )
 )
 
 game (
 	comment "Lawnmower Man, The (USA, Europe)"
-	developer "Sales Curve"
+	users 2
 	rom ( crc A7CACD59 )
 )
 
 game (
 	comment "Last Battle (USA, Europe, Korea) (En)"
-	developer "SEGA"
+	users 1
 	rom ( crc BBFAAD77 )
 )
 
 game (
 	comment "Last Action Hero (USA)"
-	developer "Bits Studios"
+	users 1
 	rom ( crc 15357DDE )
 )
 
 game (
 	comment "Legend of Galahad, The ~ Galahad (USA, Europe)"
-	developer "Psygnosis"
+	users 1
 	rom ( crc 679557BC )
 )
 
 game (
 	comment "Legende de Thor, La (France)"
-	developer "SEGA"
+	users 1
 	rom ( crc B97CCA1C )
 )
 
 game (
 	comment "Lemmings (Europe)"
-	developer "DMA Design"
+	users 2
 	rom ( crc 6A1A4579 )
 )
 
 game (
 	comment "Legende de Thor, La (France) (Mega Drive Mini)"
-	developer "SEGA"
+	users 1
 	rom ( crc a9359029 )
 )
 
 game (
 	comment "Lemmings 2 - The Tribes (Europe)"
-	developer "DMA Design"
+	users 1
 	rom ( crc 741EB624 )
 )
 
 game (
 	comment "Lemmings (Japan, Korea) (En)"
-	developer "DMA Design"
+	users 2
 	rom ( crc 68C70362 )
 )
 
 game (
 	comment "Lemmings (USA)"
-	developer "DMA Design"
+	users 2
 	rom ( crc F015C2AD )
 )
 
 game (
 	comment "Lemmings 2 - The Tribes (USA)"
-	developer "DMA Design"
+	users 1
 	rom ( crc DE59A3A3 )
 )
 
 game (
 	comment "Lethal Enforcers (Europe)"
-	developer "Konami"
+	users 2
 	rom ( crc CA2BF99D )
 )
 
 game (
 	comment "Lethal Enforcers (Japan)"
-	developer "Konami"
+	users 2
 	rom ( crc F25F1E49 )
 )
 
 game (
 	comment "Lethal Enforcers (USA)"
-	developer "Konami"
+	users 2
 	rom ( crc 51D9A84A )
 )
 
 game (
 	comment "Lethal Enforcers II - Gun Fighters (Europe)"
-	developer "Konami"
+	users 2
 	rom ( crc 4BFE045C )
 )
 
 game (
 	comment "LHX Attack Chopper (Japan)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 224FF103 )
 )
 
 game (
 	comment "Lethal Enforcers II - Gun Fighters (USA)"
-	developer "Konami"
+	users 2
 	rom ( crc E5FDD28B )
 )
 
 game (
 	comment "LHX Attack Chopper (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 70C3428D )
 )
 
 game (
 	comment "Liberty or Death (USA)"
-	developer "Koei"
+	users 2
 	rom ( crc 2ADB0364 )
 )
 
 game (
 	comment "Light Crusader (Europe) (En,Fr,De,Es)"
-	developer "Treasure"
+	users 1
 	rom ( crc 52C7252B )
 )
 
 game (
 	comment "Light Crusader (Japan)"
-	developer "Treasure"
+	users 1
 	rom ( crc 237076A4 )
 )
 
 game (
 	comment "Light Crusader (USA)"
-	developer "Treasure"
+	users 1
 	rom ( crc BEB715DC )
 )
 
 game (
 	comment "Light Crusader (Korea) (En,Ko)"
-	developer "Treasure"
+	users 1
 	rom ( crc 6D0CBCB2 )
 )
 
 game (
 	comment "Light Crusader (USA) (Genesis Mini)"
-	developer "Treasure"
+	users 1
 	rom ( crc 84390291 )
 )
 
 game (
 	comment "Light Crusader (Europe) (En,Fr,De,Es) (Mega Drive Mini)"
-	developer "Treasure"
+	users 1
 	rom ( crc 600e5709 )
 )
 
 game (
 	comment "Light Crusader (Japan) (Mega Drive Mini)"
-	developer "Treasure"
+	users 1
 	rom ( crc f6550938 )
 )
 
 game (
 	comment "Lightening Force - Quest for the Darkstar (World) (Sega Ages)"
-	developer "Technosoft"
+	users 1
 	rom ( crc ca90ff51 )
 )
 
 game (
 	comment "Lightening Force - Quest for the Darkstar (USA)"
-	developer "Technosoft"
+	users 1
 	rom ( crc C8F8C0E0 )
 )
 
 game (
 	comment "Lion King, The (World)"
-	developer "Westwood Studios"
+	users 1
 	rom ( crc 5696A5BC )
 )
 
 game (
 	comment "Lion King, The (World) (Disney Classic Games)"
-	developer "Westwood Studios"
+	users 1
 	rom ( crc 5D4287E6 )
 )
 
 game (
 	comment "Lord Monarch - Tokoton Sentou Densetsu (Japan)"
-	developer "Nihon Falcom"
+	users 1
 	rom ( crc 238BF5DB )
 )
 
 game (
 	comment "Lost Vikings, The (Europe) (En,Fr,De)"
-	developer "Silicon & Synapse"
+	users 3
 	rom ( crc 1F14EFC6 )
 )
 
 game (
 	comment "Lost Vikings, The (USA) (November, 1993)"
-	developer "Silicon & Synapse"
+	users 3
 	rom ( crc 7BA49EDB )
 )
 
 game (
 	comment "Lost Vikings, The (USA) (October, 1995)"
-	developer "Silicon & Synapse"
+	users 3
 	rom ( crc 63729B74 )
 )
 
 game (
 	comment "Lost World, The - Jurassic Park (USA, Europe)"
-	developer "Appaloosa"
+	users 2
 	rom ( crc 140A284C )
 )
 
 game (
 	comment "Lotus Turbo Challenge (USA, Europe)"
-	developer "Gremlin Interactive"
+	users 2
 	rom ( crc A3CF6E9C )
 )
 
 game (
 	comment "Madden NFL '94 (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc D14B811B )
 )
 
 game (
 	comment "Lotus II (USA, Europe)"
-	developer "Gremlin Interactive"
+	users 2
 	rom ( crc 1D8EE010 )
 )
 
 game (
 	comment "M-1 Abrams Battle Tank (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1E2F74CF )
 )
 
 game (
 	comment "Madden NFL 95 (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc DB0BE0C2 )
 )
 
 game (
 	comment "Madden NFL 96 (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc F126918B )
 )
 
 game (
 	comment "Madden NFL 98 (USA)"
-	developer "Tiertex"
+	users 4
 	rom ( crc E051EA62 )
 )
 
 game (
 	comment "Madden NFL 97 (USA, Europe)"
-	developer "Electronic Arts"
+	users 4
 	rom ( crc C4B4E112 )
 )
 
 game (
 	comment "Madou Monogatari I (Japan)"
-	developer "Compile"
+	users 1
 	rom ( crc DD82C401 )
 )
 
 game (
 	comment "Magical Hat no Buttobi Turbo! Daibouken (Japan)"
-	developer "Tokai Engineering"
+	users 1
 	rom ( crc E43E853D )
 )
 
 game (
 	comment "Magic School Bus, The - Space Exploration Game (USA)"
-	developer "Novotrade Interactive"
+	users 1
 	rom ( crc 1A5D4412 )
 )
 
 game (
 	comment "Magical Taruruuto-kun (Japan)"
-	developer "Game Freak"
+	users 1
 	rom ( crc F11060A5 )
 )
 
 game (
 	comment "Mahjong Cop Ryuu - Shiro Ookami no Yabou (Japan)"
-	developer "Whiteboard"
+	users 1
 	rom ( crc 1CCBC782 )
 )
 
 game (
 	comment "Man Overboard! (Europe)"
-	developer "Codemasters"
+	users 1
 	rom ( crc CAE0E3A6 )
 )
 
 game (
 	comment "Mamono Hunter Youko - Dai 7 no Keishou (Japan)"
-	developer "NCsoft"
+	users 1
 	rom ( crc 10BB359B )
 )
 
 game (
 	comment "Marble Madness (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 79EBA28A )
 )
 
 game (
 	comment "Maou Renjishi (Japan)"
-	developer "Kindle Imagine Develop"
+	users 2
 	rom ( crc 24A7F28C )
 )
 
 game (
 	comment "Marble Madness (Japan)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 775BC464 )
 )
 
 game (
 	comment "Mario Andretti Racing (USA, Europe)"
-	developer "EA Sports"
+	users 2
 	rom ( crc 7F1DC0AA )
 )
 
 game (
 	comment "Mario Lemieux Hockey (USA, Europe)"
-	developer "Ringler Studios"
+	users 2
 	rom ( crc F664EB6C )
 )
 
 game (
 	comment "Marko (USA)"
-	developer "Domark"
+	users 1
 	rom ( crc 2B8C8CCE )
 )
 
 game (
 	comment "Marsupilami (Europe) (En,Fr,De,Es,It)"
-	developer "Apache"
+	users 1
 	rom ( crc E09BBD70 )
 )
 
 game (
 	comment "Marko's Magic Football (Europe) (En,Fr,De,Es)"
-	developer "Domark"
+	users 1
 	rom ( crc 2307B905 )
 )
 
 game (
 	comment "Marsupilami (USA) (En,Fr,De,Es,It)"
-	developer "Apache"
+	users 1
 	rom ( crc C76558DF )
 )
 
 game (
 	comment "Marvel Land (Japan)"
-	developer "Namco"
+	users 1
 	rom ( crc 5D162D21 )
 )
 
 game (
 	comment "Marvel Land (USA)"
-	developer "Namco"
+	users 1
 	rom ( crc CD7EEEB7 )
 )
 
 game (
 	comment "Mary Shelley's Frankenstein (USA)"
-	developer "Bit Corp."
+	users 1
 	rom ( crc 48993DC3 )
 )
 
 game (
 	comment "Master of Monsters (Japan)"
-	developer "Renovation Products"
+	users 4
 	rom ( crc D51EE8C2 )
 )
 
 game (
 	comment "Master of Monsters (USA)"
-	developer "Renovation Products"
+	users 4
 	rom ( crc 91354820 )
 )
 
 game (
 	comment "Master of Weapon (Japan)"
-	developer "Taito"
+	users 4
 	rom ( crc 12AD6178 )
 )
 
 game (
 	comment "Maten no Soumetsu (Japan)"
-	developer "Kodansha"
+	users 1
 	rom ( crc B804A105 )
 )
 
 game (
 	comment "Math Blaster - Episode 1 (USA)"
-	developer "Western Technologies"
+	users 1
 	rom ( crc D055A462 )
 )
 
 game (
 	comment "Mazin Saga (Asia) (En)"
-	developer "Almanic Corp."
+	users 1
 	rom ( crc 36459B59 )
 )
 
 game (
 	comment "Mazin Saga (Japan, Korea) (Ja)"
-	developer "Almanic Corp."
+	users 1
 	rom ( crc 45B3A34B )
 )
 
 game (
 	comment "Mazin Wars (Europe)"
-	developer "Almanic Corp."
+	users 1
 	rom ( crc 4B07A105 )
 )
 
 game (
 	comment "Mazin Saga - Mutant Fighter (USA)"
-	developer "Almanic Corp."
+	users 1
 	rom ( crc 1BD9FEF1 )
 )
 
 game (
 	comment "McDonald's Treasure Land Adventure (Europe)"
-	developer "Treasure"
+	users 1
 	rom ( crc 6AB6A8DA )
 )
 
 game (
 	comment "McDonald's Treasure Land Adventure (Japan)"
-	developer "Treasure"
+	users 1
 	rom ( crc FEBCFD06 )
 )
 
 game (
 	comment "McDonald's Treasure Land Adventure (USA)"
-	developer "Treasure"
+	users 1
 	rom ( crc 04EF4899 )
 )
 
 game (
 	comment "Medal City (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 3EF4135D )
 )
 
 game (
 	comment "Mega 6 Vol. 3 (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 80174799 )
 )
 
 game (
-	comment "Mega Anser (Japan) (Program)"
-	developer "SEGA"
-	rom ( crc 08ECE367 )
-)
-
-game (
 	comment "Mega Bomberman (USA)"
-	developer "Westone"
+	users 4
 	rom ( crc 4BD6667D )
 )
 
 game (
 	comment "Mega Games 2 (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 30D59F2F )
 )
 
 game (
 	comment "Mega Games 3 (Europe, Asia) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc B4247D98 )
 )
 
 game (
 	comment "Mega Bomberman (Europe, Korea) (En)"
-	developer "Westone"
+	users 4
 	rom ( crc 54AB3BEB )
 )
 
 game (
 	comment "Mega Games 6 (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc B66FB80D )
 )
 
 game (
 	comment "Mega Games 6 Vol. 2 (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc E8D10DB9 )
 )
 
 game (
 	comment "Mega Games I (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc DB753224 )
 )
 
 game (
 	comment "Mega SWIV (Europe)"
-	developer "Sales Curve"
+	users 1
 	rom ( crc 78C2F046 )
 )
 
 game (
 	comment "Mega lo Mania (Japan)"
-	developer "Sensible Software"
+	users 1
 	rom ( crc A60D8619 )
 )
 
 game (
 	comment "Mega Man - The Wily Wars (USA) (Genesis Mini)"
-	developer "Capcom"
+	users 1
 	rom ( crc 0CD405DB )
 )
 
 game (
 	comment "Mega Man - The Wily Wars (Europe)"
-	developer "Capcom"
+	users 1
 	rom ( crc DCF6E8B2 )
 )
 
 game (
 	comment "Mega Turrican (Europe)"
-	developer "Factor 5"
+	users 1
 	rom ( crc B1D15D0F )
 )
 
 game (
 	comment "Mega Turrican (USA)"
-	developer "Factor 5"
+	users 1
 	rom ( crc FE898CC9 )
 )
 
 game (
 	comment "Mega Turrican (USA, Europe) (Virtual Console)"
-	developer "Factor 5"
+	users 1
 	rom ( crc 11326504 )
 )
 
 game (
 	comment "Mega-lo-Mania (Europe)"
-	developer "Sensible Software"
+	users 1
 	rom ( crc 2148D56D )
 )
 
 game (
 	comment "Mega-lo-Mania (France)"
-	developer "Sensible Software"
+	users 1
 	rom ( crc 3B3231ED )
 )
 
 game (
 	comment "MegaMind (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 76DF2AE2 )
 )
 
 game (
 	comment "MegaPanel (Japan)"
-	developer "Namco"
+	users 2
 	rom ( crc 6240F579 )
 )
 
 game (
 	comment "MegaTrax (Japan)"
-	developer "Namco"
+	users 2
 	rom ( crc A0837741 )
 )
 
 game (
 	comment "Menacer - 6-Game Cartridge (USA, Europe)"
-	developer "Western Technologies"
+	users 1
 	rom ( crc 936B85F7 )
 )
 
 game (
 	comment "Metal Fangs (Japan)"
-	developer "Victor Interactive"
+	users 1
 	rom ( crc A8DF1C4C )
 )
 
 game (
 	comment "Michael Jackson's Moonwalker (Japan, USA) (En)"
-	developer "Ultimate"
+	users 2
 	rom ( crc 6A70791B )
 )
 
 game (
 	comment "Mick & Mack as the Global Gladiators (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc 40F17BB3 )
 )
 
 game (
 	comment "Michael Jackson's Moonwalker (World) (Rev A)"
-	developer "Ultimate"
+	users 2
 	rom ( crc 11CE1F9E )
 )
 
 game (
 	comment "Mickey Mania (Europe)"
-	developer "Travellers Tales"
+	users 1
 	rom ( crc CB5A8B85 )
 )
 
 game (
 	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)"
-	developer "Travellers Tales"
+	users 1
 	rom ( crc 23180CF7 )
 )
 
 game (
 	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)"
-	developer "Travellers Tales"
+	users 1
 	rom ( crc 629E5963 )
 )
 
 game (
 	comment "Mickey's Ultimate Challenge (USA)"
-	developer "HiTech Software"
+	users 1
 	rom ( crc 30B512EE )
 )
 
 game (
 	comment "Micro Machines (Europe)"
-	developer "Codemasters"
+	users 2
 	rom ( crc 7FFBD1AD )
 )
 
 game (
 	comment "Micro Machines (Europe) (Alt 2)"
-	developer "Codemasters"
+	users 2
 	rom ( crc 50081A0B )
 )
 
 game (
 	comment "Micro Machines (USA)"
-	developer "Codemasters"
+	users 2
 	rom ( crc 82FE2D3F )
 )
 
 game (
 	comment "Micro Machines (Europe) (Alt)"
-	developer "Codemasters"
+	users 2
 	rom ( crc E5CF560D )
 )
 
 game (
 	comment "Micro Machines (USA) (Rev 1)"
-	developer "Codemasters"
+	users 2
 	rom ( crc 54E4CFF1 )
 )
 
 game (
 	comment "Micro Machines - Military (Europe) (J-Cart)"
-	developer "Supersonic Software"
+	users 8
 	rom ( crc B3ABB15E )
 )
 
 game (
 	comment "Micro Machines - Military (Europe) (Beta) (1995)"
-	developer "Supersonic Software"
+	users 8
 	rom ( crc b33d01bc )
 )
 
 game (
 	comment "Micro Machines - Turbo Tournament 96 (Europe) (J-Cart)"
-	developer "Supersonic Software"
+	users 8
 	rom ( crc 7492B1DE )
 )
 
 game (
 	comment "Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart)"
-	developer "Supersonic Software"
+	users 8
 	rom ( crc 23319D0D )
 )
 
 game (
 	comment "Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)"
-	developer "Codemasters"
+	users 8
 	rom ( crc 42BFB7EB )
 )
 
 game (
 	comment "Micro Machines 2 - Turbo Tournament (Europe)"
-	developer "Codemasters"
+	users 8
 	rom ( crc 01C22A5D )
 )
 
 game (
 	comment "Midnight Resistance (Japan)"
-	developer "Data East"
+	users 1
 	rom ( crc 8F3F6E4D )
 )
 
 game (
 	comment "Midnight Resistance (USA)"
-	developer "Data East"
+	users 1
 	rom ( crc 187C6AF6 )
 )
 
 game (
 	comment "Midway Presents Arcade's Greatest Hits (Europe)"
-	developer "Williams"
+	users 2
 	rom ( crc C0DCE0E5 )
 )
 
 game (
 	comment "Mig-29 Fighter Pilot (Japan)"
-	developer "Domark"
+	users 1
 	rom ( crc 3D239046 )
 )
 
 game (
 	comment "Mig-29 Fighter Pilot (Europe) (En,Fr,De,Es,It,Nl,Sv,Fi)"
-	developer "Domark"
+	users 1
 	rom ( crc 70B0A5D7 )
 )
 
 game (
 	comment "Mig-29 Fighter Pilot (USA)"
-	developer "Domark"
+	users 1
 	rom ( crc 59CCABB2 )
 )
 
 game (
 	comment "Might and Magic - Gates to Another World (USA, Europe)"
-	developer "New World Computing's"
+	users 1
 	rom ( crc F509145F )
 )
 
 game (
 	comment "Mighty Morphin Power Rangers (Europe)"
-	developer "Bandai Namco"
+	users 2
 	rom ( crc 7F96E663 )
 )
 
 game (
 	comment "Mighty Morphin Power Rangers (USA)"
-	developer "Bandai Namco"
+	users 2
 	rom ( crc 715158A9 )
 )
 
 game (
 	comment "Mighty Morphin Power Rangers - The Movie (Europe)"
-	developer "Sims"
+	users 2
 	rom ( crc 254A4972 )
 )
 
 game (
 	comment "Mighty Morphin Power Rangers - The Movie (USA)"
-	developer "Sims"
+	users 2
 	rom ( crc AA941CBC )
 )
 
 game (
 	comment "Minato no Traysia (Japan)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc BD89FD09 )
 )
 
 game (
 	comment "Minnesota Fats - Pool Legend (USA)"
-	developer "Data East"
+	users 2
 	rom ( crc 38174F40 )
 )
 
 game (
 	comment "Miracle Piano Teaching System, The (USA)"
-	developer "The Software Toolworks"
+	users 1
 	rom ( crc A719542E )
 )
 
 game (
 	comment "MLBPA Baseball (USA)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc 14A8064D )
 )
 
 game (
 	comment "Monopoly (USA)"
-	developer "Parker Brothers"
+	users 8
 	rom ( crc C10268DA )
 )
 
 game (
 	comment "Monster World IV (Japan)"
-	developer "Westone"
+	users 1
 	rom ( crc 36A3AAA4 )
 )
 
 game (
 	comment "Monster World IV (USA) (Genesis Mini)"
-	developer "Westone"
+	users 1
 	rom ( crc D26A32B6 )
 )
 
 game (
 	comment "Monster World IV (USA, Europe) (En,Ja) (Virtual Console)"
-	developer "Westone"
+	users 1
 	rom ( crc AF050C46 )
 )
 
 game (
 	comment "Mortal Kombat (World)"
-	developer "Midway"
+	users 2
 	rom ( crc 1AA3A207 )
 )
 
 game (
 	comment "Mortal Kombat 3 (Europe)"
-	developer "Midway"
+	users 2
 	rom ( crc AF6DE3E8 )
 )
 
 game (
 	comment "Mortal Kombat 3 (USA)"
-	developer "Midway"
+	users 2
 	rom ( crc DD638AF6 )
 )
 
 game (
 	comment "Mortal Kombat II (World)"
-	developer "Midway"
+	users 2
 	rom ( crc A9E013D8 )
 )
 
 game (
 	comment "Ms. Pac-Man (USA, Europe)"
-	developer "Innerprise Software"
+	users 2
 	rom ( crc AF041BE6 )
 )
 
 game (
 	comment "Mr. Nutz (Europe)"
-	developer "Ocean"
+	users 1
 	rom ( crc 0786EA0B )
 )
 
 game (
 	comment "Mugen Senshi Valis (Japan)"
-	developer "Riot"
+	users 1
 	rom ( crc 24431625 )
 )
 
 game (
 	comment "Muhammad Ali Heavyweight Boxing (Europe)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc A920C852 )
 )
 
 game (
 	comment "Muhammad Ali Heavyweight Boxing (USA)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc B638B6A3 )
 )
 
 game (
 	comment "MUSHA - Metallic Uniframe Super Hybrid Armor (USA)"
-	developer "Compile"
+	users 1
 	rom ( crc 58A7F7B4 )
 )
 
 game (
 	comment "MUSHA - Metallic Uniframe Super Hybrid Armor (USA, Europe) (Switch Online)"
-	developer "Compile"
+	users 1
 	rom ( crc ee61baea )
 )
 
 game (
 	comment "Musha Aleste - Full Metal Fighter Ellinor (Japan) (Switch Online)"
-	developer "Compile"
+	users 1
 	rom ( crc 12c68eee )
 )
 
 game (
 	comment "Musha Aleste - Full Metal Fighter Ellinor (Japan)"
-	developer "Compile"
+	users 1
 	rom ( crc 8FDE18AB )
 )
 
 game (
 	comment "Mutant League Football (Japan)"
-	developer "Mutant Productions"
+	users 2
 	rom ( crc 2A97E6AF )
 )
 
 game (
 	comment "Mutant League Hockey (USA, Europe)"
-	developer "Mutant Productions"
+	users 4
 	rom ( crc 3529180F )
 )
 
 game (
 	comment "Mutant League Football (USA, Europe)"
-	developer "Mutant Productions"
+	users 2
 	rom ( crc DCE29C9D )
 )
 
 game (
 	comment "Mystic Defender (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc F9CE1AB8 )
 )
 
 game (
 	comment "Mystic Defender (USA, Europe) (Rev A)"
-	developer "SEGA"
+	users 1
 	rom ( crc 50FD5D93 )
 )
 
 game (
 	comment "Mystical Fighter (USA)"
-	developer "Kindle Imagine Develop"
+	users 2
 	rom ( crc B2F2A69B )
 )
 
 game (
 	comment "Nakajima Satoru Kanshuu - F-1 Grand Prix (Japan)"
-	developer "Varie Corporation"
+	users 1
 	rom ( crc 93BE47CF )
 )
 
 game (
 	comment "Nakajima Satoru Kanshuu - F-1 Hero MD (Japan)"
-	developer "Aisystem Tokyo"
+	users 2
 	rom ( crc 24F87987 )
 )
 
 game (
 	comment "Nakajima Satoru Kanshuu - F-1 Super License (Japan)"
-	developer "Aprinet"
+	users 1
 	rom ( crc 8774BC79 )
 )
 
 game (
 	comment "NBA Action '94 (USA)"
-	developer "SEGA"
+	users 5
 	rom ( crc 99C348BA )
 )
 
 game (
 	comment "NBA Action '95 Starring David Robinson (USA, Europe)"
-	developer "SEGA"
+	users 5
 	rom ( crc AA7006D6 )
 )
 
 game (
 	comment "NBA All-Star Challenge (USA, Europe)"
-	developer "LJN"
+	users 2
 	rom ( crc C4674ADF )
 )
 
 game (
 	comment "NBA Hang Time (Europe)"
-	developer "Funcom"
+	users 4
 	rom ( crc EDB4D4AA )
 )
 
 game (
 	comment "NBA Hang Time (USA)"
-	developer "Funcom"
+	users 4
 	rom ( crc 176B0338 )
 )
 
 game (
 	comment "NBA Jam (Japan)"
-	developer "Iguana Entertainment"
+	users 4
 	rom ( crc A6C6305A )
 )
 
 game (
 	comment "NBA Jam (USA, Europe)"
-	developer "Iguana Entertainment"
+	users 4
 	rom ( crc 10FA248F )
 )
 
 game (
 	comment "NBA Jam (USA, Europe) (Rev 1)"
-	developer "Iguana Entertainment"
+	users 4
 	rom ( crc EB8360E6 )
 )
 
 game (
 	comment "NBA Jam - Tournament Edition (World)"
-	developer "Iguana Entertainment"
+	users 4
 	rom ( crc E9FFCB37 )
 )
 
 game (
 	comment "NBA Live 95 (USA, Europe)"
-	developer "Hitmen Productions"
+	users 4
 	rom ( crc 66018ABC )
 )
 
 game (
 	comment "NBA Live 95 (Korea)"
-	developer "Hitmen Productions"
+	users 4
 	rom ( crc 779C1244 )
 )
 
 game (
 	comment "NBA Live 96 (USA, Europe)"
-	developer "EA Sports"
+	users 4
 	rom ( crc 49DE0062 )
 )
 
 game (
 	comment "NBA Live 98 (USA)"
-	developer "EA Sports"
+	users 2
 	rom ( crc 23473A8A )
 )
 
 game (
 	comment "NBA Live 97 (USA, Europe)"
-	developer "EA Sports"
+	users 4
 	rom ( crc 7024843A )
 )
 
 game (
 	comment "NBA Playoffs - Bulls vs Blazers (Japan)"
-	developer "EA Sports"
+	users 2
 	rom ( crc 4565CE1F )
 )
 
 game (
 	comment "NBA Pro Basketball - Bulls vs Lakers and the NBA Playoffs (Japan)"
-	developer "Capcom"
+	users 2
 	rom ( crc 4416CE39 )
 )
 
 game (
 	comment "NBA Pro Basketball '94 (Japan)"
-	developer "Electronic Arts"
+	users 4
 	rom ( crc EEA19BCE )
 )
 
 game (
 	comment "NBA Showdown '94 (USA, Europe)"
-	developer "Electronic Arts"
+	users 4
 	rom ( crc 160B7090 )
 )
 
 game (
 	comment "NCAA Football (USA)"
-	developer "The Software Toolworks"
+	users 2
 	rom ( crc 081012F0 )
 )
 
 game (
 	comment "NCAA Final Four Basketball (USA)"
-	developer "Bitmasters, Inc."
+	users 4
 	rom ( crc ED0C1303 )
 )
 
 game (
 	comment "New 3D Golf Simulation - Devil's Course (Japan)"
-	developer "T&E Soft"
+	users 4
 	rom ( crc BD090C67 )
 )
 
 game (
-	comment "Nekketsu Koukou Dodgeball-bu - Soccer Hen MD (Japan)"
-	developer "Technos Japan Corp."
-	rom ( crc F49C3A86 )
-)
-
-game (
-	comment "New 3D Golf Simulation - Harukanaru Augusta (Japan)"
-	developer "T&E Soft"
-	rom ( crc D2A9BF92 )
-)
-
-game (
 	comment "New 3D Golf Simulation - Pebble Beach no Hatou (Japan)"
-	developer "T&E Soft"
+	users 4
 	rom ( crc 96ED2E5D )
 )
 
 game (
-	comment "New 3D Golf Simulation - Waialae no Kiseki (Japan)"
-	developer "T&E Soft"
-	rom ( crc CBE2C1F6 )
-)
-
-game (
 	comment "New Horizons (USA)"
-	developer "Koei"
+	users 1
 	rom ( crc EAD69824 )
 )
 
 game (
 	comment "Newman Haas IndyCar featuring Nigel Mansell (World)"
-	developer "Acclaim"
+	users 2
 	rom ( crc 1233A229 )
 )
 
 game (
 	comment "NewZealand Story, The (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc 1C77AD21 )
 )
 
 game (
 	comment "NFL '95 (USA)"
-	developer "Double Diamond Sports"
+	users 4
 	rom ( crc B58E4A81 )
 )
 
 game (
 	comment "NFL 98 (USA)"
-	developer "FarSight Studios"
+	users 4
 	rom ( crc F73EC54C )
 )
 
 game (
 	comment "NFL Football '94 (Japan)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc E490DC4A )
 )
 
 game (
 	comment "NFL Football '94 (Japan) (1993-11-04) (Sega Channel)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc 2C50EBF6 )
 )
 
 game (
 	comment "NFL Football '94 Starring Joe Montana (USA)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc 0D486ED5 )
 )
 
 game (
 	comment "NFL Quarterback Club (World)"
-	developer "Iguana Entertainment"
+	users 5
 	rom ( crc 21979abb )
 )
 
 game (
 	comment "NFL Pro Football '94 (Japan)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc 96C947F3 )
 )
 
 game (
 	comment "NFL Quarterback Club 96 (USA, Europe)"
-	developer "Iguana Entertainment"
+	users 5
 	rom ( crc D5A37CAB )
 )
 
 game (
 	comment "NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc CE0B1FE1 )
 )
 
 game (
 	comment "NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe) (Rev A)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc 646AE909 )
 )
 
 game (
 	comment "NHL '94 (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc 9438F5DD )
 )
 
 game (
 	comment "NHK Taiga Drama - Taiheiki (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 09FBB30E )
 )
 
 game (
 	comment "NHL 95 (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc E8EE917E )
 )
 
 game (
 	comment "NHL '94 (USA, Europe) (Re-release)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc 7B344D0C )
 )
 
 game (
 	comment "NHL 97 (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc F067C103 )
 )
 
 game (
 	comment "NHL 96 (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc 8135702C )
 )
 
 game (
 	comment "NHL 98 (USA)"
-	developer "EA Sports"
+	users 4
 	rom ( crc 7B64CD98 )
 )
 
 game (
 	comment "NHL All-Star Hockey 95 (USA)"
-	developer "Gray Matter"
+	users 2
 	rom ( crc E6C0218B )
 )
 
 game (
 	comment "NHL Hockey (USA)"
-	developer "Park Place Production Team"
+	users 2
 	rom ( crc 2641653F )
 )
 
 game (
 	comment "NHLPA Hockey 93 (USA, Europe)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc CBBF4262 )
 )
 
 game (
 	comment "NHLPA Hockey 93 (USA, Europe) (Rev A)"
-	developer "Park Place Productions"
+	users 2
 	rom ( crc F361D0BF )
 )
 
 game (
 	comment "Nigel Mansell's World Championship Racing (USA)"
-	developer "Gremlin Interactive"
+	users 1
 	rom ( crc 6BC57B2C )
 )
 
 game (
 	comment "Nigel Mansell's World Championship Racing (Europe)"
-	developer "Gremlin Interactive"
+	users 1
 	rom ( crc 3FE3D63B )
 )
 
 game (
 	comment "Nightmare Circus (Brazil) (En)"
-	developer "Funcom"
+	users 2
 	rom ( crc 06DA3217 )
 )
 
 game (
 	comment "Ninja Burai Densetsu (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc A8D828A0 )
 )
 
 game (
 	comment "Nikkan Sports Pro Yakyuu VAN (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc C3655A59 )
 )
 
 game (
 	comment "No Escape (USA)"
-	developer "Bit Corp."
+	users 1
 	rom ( crc 44EE5F20 )
 )
 
 game (
-	comment "Nobunaga no Yabou - Bushou Fuuunroku (Japan)"
-	developer "Koei"
-	rom ( crc 30BF8637 )
-)
-
-game (
-	comment "Nobunaga no Yabou - Haouden (Japan)"
-	developer "Koei"
-	rom ( crc 96C01FC6 )
-)
-
-game (
 	comment "Nobunaga no Yabou - Zenkoku Ban (Japan)"
-	developer "Koei"
+	users 8
 	rom ( crc 1381B313 )
 )
 
 game (
 	comment "Nobunaga's Ambition (USA)"
-	developer "Koei"
+	users 8
 	rom ( crc B9BC07BC )
 )
 
 game (
+	comment "Nyuushi Chokuzen Check - Nanmon Kimon Kiki Kaikai (Japan) (Sega Channel)"
+	users 1
+	rom ( crc 47AEBFCB )
+)
+
+game (
 	comment "Normy's Beach Babe-O-Rama (USA, Europe)"
-	developer "Realtime Associates"
+	users 1
 	rom ( crc B56A8220 )
 )
 
 game (
 	comment "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc 924E57D3 )
 )
 
 game (
 	comment "Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc E9C925B8 )
 )
 
 game (
 	comment "Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc 339594B4 )
 )
 
 game (
 	comment "Olympic Summer Games (USA)"
-	developer "U.S. Gold"
+	users 8
 	rom ( crc 9E470FB9 )
 )
 
 game (
 	comment "Olympic Summer Games (Europe)"
-	developer "U.S. Gold"
+	users 8
 	rom ( crc cc506d37 )
 )
 
 game (
 	comment "On Dal Jang Goon (Korea)"
-	developer "SEGA"
+	users 1
 	rom ( crc 67CCB1CA )
 )
 
 game (
 	comment "Ooze, The (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc E16B102C )
 )
 
 game (
 	comment "Operation Europe - Path to Victory 1939-45 (USA)"
-	developer "Koei"
+	users 2
 	rom ( crc E7CBA1D8 )
 )
 
 game (
 	comment "Ooze, The (Japan, USA) (En)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1C0DD42F )
 )
 
 game (
 	comment "Osomatsu-kun Hachamecha Gekijou (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 2453350C )
 )
 
 game (
 	comment "Ottifants, The (Europe) (En,Fr,De,Es,It)"
-	developer "Graftgold"
+	users 1
 	rom ( crc 41AC8003 )
 )
 
 game (
 	comment "Out of This World (USA)"
-	developer "Delphine Software International"
+	users 1
 	rom ( crc 2DA36E01 )
 )
 
 game (
-	comment "Outback Joey (USA)"
-	developer "Western Technologies"
-	rom ( crc 10abd93f )
-)
-
-game (
 	comment "Outlander (USA)"
-	developer "Mindscape"
+	users 1
 	rom ( crc FE6F2350 )
 )
 
 game (
 	comment "OutRun (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc EE7D9F4A )
 )
 
 game (
 	comment "OutRun (USA, Europe) (Sega Smash Pack)"
-	developer "SEGA"
+	users 1
 	rom ( crc E6821FB1 )
 )
 
 game (
 	comment "OutRun (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc FDD9A8D2 )
 )
 
 game (
 	comment "OutRun 2019 (Europe)"
-	developer "Sims"
+	users 1
 	rom ( crc 5CB3536A )
 )
 
 game (
 	comment "OutRun 2019 (Japan)"
-	developer "Sims"
+	users 1
 	rom ( crc 0EAC7440 )
 )
 
 game (
 	comment "OutRun 2019 (USA)"
-	developer "Sims"
+	users 1
 	rom ( crc E32E17E2 )
 )
 
 game (
 	comment "OutRunners (Japan)"
-	developer "Data East"
+	users 2
 	rom ( crc E164A09F )
 )
 
 game (
 	comment "OutRunners (USA)"
-	developer "Data East"
+	users 2
 	rom ( crc EDE636B9 )
 )
 
 game (
 	comment "Ozaki Naomichi no Super Masters (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc 088BA825 )
 )
 
 game (
 	comment "P.T.O. - Pacific Theater of Operations (USA)"
-	developer "Koei"
+	users 2
 	rom ( crc D9D4C6E2 )
 )
 
 game (
 	comment "Pac-Attack (USA)"
-	developer "Namco"
+	users 2
 	rom ( crc 79587507 )
 )
 
 game (
 	comment "Pac-Man 2 - The New Adventures (USA)"
-	developer "Namco"
+	users 1
 	rom ( crc FE7A7ED1 )
 )
 
 game (
 	comment "Pac-Mania (USA, Europe)"
-	developer "Sculptured Software"
+	users 2
 	rom ( crc 74BBA09B )
 )
 
 game (
 	comment "Pac-Panic (Europe)"
-	developer "Namco"
+	users 2
 	rom ( crc EBD6D5BA )
 )
 
 game (
 	comment "Pachinko Kuunyan (Japan)"
-	developer "Soft Vision"
+	users 1
 	rom ( crc 9D137E7F )
 )
 
 game (
 	comment "Paddle Fighter (Japan) (SegaNet)"
-	developer "SEGA"
+	users 2
 	rom ( crc 3D8147E6 )
 )
 
 game (
 	comment "Paddle Fighter (Japan) (Game no Kanzume Otokuyou)"
-	developer "SEGA"
+	users 2
 	rom ( crc EBEF05A4 )
 )
 
 game (
 	comment "Pagemaster, The (Europe)"
-	developer "Probe Software"
+	users 1
 	rom ( crc 79A180E2 )
 )
 
 game (
 	comment "Pagemaster, The (USA)"
-	developer "Probe Software"
+	users 1
 	rom ( crc 75A96D4E )
 )
 
 game (
 	comment "Panorama Cotton (Japan)"
-	developer "Success"
+	users 1
 	rom ( crc 9E57D92E )
 )
 
 game (
 	comment "Paperboy (Japan)"
-	developer "Motivetime"
+	users 2
 	rom ( crc E14250AE )
 )
 
 game (
 	comment "Paperboy 2 (USA, Europe)"
-	developer "Tengen"
+	users 2
 	rom ( crc 1DE28BB1 )
 )
 
 game (
 	comment "Paperboy (USA, Europe)"
-	developer "Motivetime"
+	users 2
 	rom ( crc 0A44819B )
 )
 
 game (
 	comment "Party Quiz Mega Q (Japan)"
-	developer "Minato Giken"
+	users 4
 	rom ( crc 9D4B447A )
 )
 
 game (
 	comment "Pat Riley Basketball (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc 3D9318A7 )
 )
 
 game (
 	comment "Pebble Beach Golf Links (USA) (Rev A) (1994-02-14) (Sega Channel)"
-	developer "T&E Soft"
+	users 4
 	rom ( crc D124CE9C )
 )
 
 game (
 	comment "Pebble Beach Golf Links (Europe)"
-	developer "T&E Soft"
+	users 4
 	rom ( crc 6CFC7297 )
 )
 
 game (
 	comment "Pebble Beach Golf Links (USA)"
-	developer "T&E Soft"
+	users 4
 	rom ( crc 95823C43 )
 )
 
 game (
 	comment "Pele! (USA, Europe)"
-	developer "Radical Entertainment"
+	users 2
 	rom ( crc 5A8ABE51 )
 )
 
 game (
 	comment "Pepenga Pengo (Japan)"
-	developer "JSH"
+	users 4
 	rom ( crc D1E2324B )
 )
 
 game (
 	comment "Pele II - World Tournament Soccer (USA, Europe)"
-	developer "Radical Entertainment"
+	users 4
 	rom ( crc 05A486E9 )
 )
 
 game (
 	comment "Pete Sampras Tennis (USA, Europe) (Rev 1) (MDST17FF) (J-Cart)"
-	developer "Codemasters"
+	users 4
 	rom ( crc 9EF5BBD1 )
 )
 
 game (
 	comment "Pete Sampras Tennis (USA, Europe) (MDST6636) (J-Cart)"
-	developer "Codemasters"
+	users 4
 	rom ( crc 94E505B2 )
 )
 
 game (
 	comment "Pete Sampras Tennis (Europe) (Rev 2) (MDSTEE13)"
-	developer "Codemasters"
+	users 4
 	rom ( crc AA8B19BC )
 )
 
 game (
 	comment "PGA European Tour (USA, Europe)"
-	developer "Polygames"
+	users 4
 	rom ( crc 8CA45ACD )
 )
 
 game (
 	comment "PGA Tour 96 (USA, Europe)"
-	developer "Hitmen Productions"
+	users 4
 	rom ( crc 9698BBDE )
 )
 
 game (
 	comment "PGA Tour Golf (USA, Europe) (PGA09)"
-	developer "Sterling Silver Software"
+	users 4
 	rom ( crc C1F0B4E1 )
 )
 
 game (
 	comment "PGA Tour Golf (USA, Europe) (PGA07)"
-	developer "Sterling Silver Software"
+	users 4
 	rom ( crc 0489FF8E )
 )
 
 game (
 	comment "PGA Tour Golf II (Japan)"
-	developer "Polygames"
+	users 4
 	rom ( crc C05B7A4A )
 )
 
 game (
 	comment "PGA Tour Golf II (USA, Europe)"
-	developer "Polygames"
+	users 4
 	rom ( crc 16B2D816 )
 )
 
 game (
 	comment "PGA Tour Golf II (USA, Europe) (Rev A)"
-	developer "Polygames"
+	users 4
 	rom ( crc E82B8606 )
 )
 
 game (
 	comment "PGA Tour Golf III (USA, Europe)"
-	developer "High Score Productions"
+	users 4
 	rom ( crc AEB3F65F )
 )
 
 game (
 	comment "Phantasy Star - Sennenki no Owari ni (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc F0BFAD42 )
 )
 
 game (
 	comment "Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)"
-	developer "SEGA"
+	users 1
 	rom ( crc b23cd7aa )
 )
 
 game (
 	comment "Phantasy Star - Sennenki no Owari ni (Japan) (PC Rerelease)"
-	developer "SEGA"
+	users 1
 	rom ( crc FE45F95D )
 )
 
 game (
 	comment "Phantasy Star Fukkokuban (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 07301F83 )
 )
 
 game (
 	comment "Phantasy Star II (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 0D07D0EF )
 )
 
 game (
 	comment "Phantasy Star II (Brazil) (En)"
-	developer "SEGA"
+	users 1
 	rom ( crc E6688B66 )
 )
 
 game (
 	comment "Phantasy Star II - Amia's Adventure (Japan) (Game no Kanzume Vol. 1)"
-	developer "SEGA"
+	users 1
 	rom ( crc 80515DB1 )
 )
 
 game (
 	comment "Phantasy Star II (USA, Europe) (Rev A) (Virtual Console)"
-	developer "SEGA"
+	users 1
 	rom ( crc 67DB982A )
 )
 
 game (
 	comment "Phantasy Star II (USA, Europe) (Rev A)"
-	developer "SEGA"
+	users 1
 	rom ( crc 904FA047 )
 )
 
 game (
 	comment "Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)"
-	developer "SEGA"
+	users 1
 	rom ( crc 75AF3D59 )
 )
 
 game (
 	comment "Phantasy Star II - Amia's Adventure (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc A3A724AA )
 )
 
 game (
 	comment "Phantasy Star II - Anne's Adventure (Japan) (Game no Kanzume Vol. 2)"
-	developer "SEGA"
+	users 1
 	rom ( crc 2522E2BB )
 )
 
 game (
 	comment "Phantasy Star II - Anne's Adventure (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc FAFA5B6F )
 )
 
 game (
 	comment "Phantasy Star II - Huey's Adventure (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1A076F83 )
 )
 
 game (
 	comment "Phantasy Star II - Huey's Adventure (Japan) (Game no Kanzume Vol. 1)"
-	developer "SEGA"
+	users 1
 	rom ( crc 73938433 )
 )
 
 game (
 	comment "Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc C334F308 )
 )
 
 game (
 	comment "Phantasy Star II - Kaerazaru Toki no Owari ni (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc BEC8EB5A )
 )
 
 game (
 	comment "Phantasy Star II - Kinds's Adventure (Japan) (Game no Kanzume Vol. 2)"
-	developer "SEGA"
+	users 1
 	rom ( crc D714351C )
 )
 
 game (
 	comment "Phantasy Star II - Nei's Adventure (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 3D9AD465 )
 )
 
 game (
 	comment "Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 6B5916D2 )
 )
 
 game (
 	comment "Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1F83BEB2 )
 )
 
 game (
 	comment "Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc D40C76D6 )
 )
 
 game (
 	comment "Phantasy Star III - Generations of Doom (USA, Europe) (PC Rerelease)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1D1C62FB )
 )
 
 game (
 	comment "Phantasy Star III - Generations of Doom (Brazil) (En)"
-	developer "SEGA"
+	users 1
 	rom ( crc 2E9B4C23 )
 )
 
 game (
 	comment "Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)"
-	developer "SEGA"
+	users 1
 	rom ( crc C6B42B0F )
 )
 
 game (
 	comment "Phantasy Star IV (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc FE236442 )
 )
 
 game (
 	comment "Phantasy Star IV (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 389C2968 )
 )
 
 game (
 	comment "Phantasy Star IV (USA) (Genesis Mini)"
-	developer "SEGA"
+	users 1
 	rom ( crc 2ee18bc3 )
 )
 
 game (
 	comment "Phantom 2040 (Europe) (En,Fr,De)"
-	developer "Viacom New Media"
+	users 1
 	rom ( crc B024882E )
 )
 
 game (
 	comment "Phantom 2040 (USA)"
-	developer "Viacom New Media"
+	users 1
 	rom ( crc FB36E1F3 )
 )
 
 game (
 	comment "Phelios (Japan) (Virtual Console)"
-	developer "Namco"
+	users 1
 	rom ( crc 14DC2668 )
 )
 
 game (
 	comment "Phelios (Europe)"
-	developer "Namco"
+	users 1
 	rom ( crc 13ABC2B2 )
 )
 
 game (
 	comment "Phelios (Japan)"
-	developer "Namco"
+	users 1
 	rom ( crc 94596174 )
 )
 
 game (
 	comment "Phelios (USA)"
-	developer "Namco"
+	users 1
 	rom ( crc 11C79320 )
 )
 
 game (
 	comment "Pink Goes to Hollywood (USA, Europe)"
-	developer "Headgames"
+	users 1
 	rom ( crc B5804771 )
 )
 
 game (
 	comment "Pinocchio (USA)"
-	developer "Virgin Interactive"
+	users 1
 	rom ( crc CD4128D8 )
 )
 
 game (
 	comment "Pirates of Dark Water, The (USA)"
-	developer "Iguana Entertainment"
+	users 1
 	rom ( crc 0C45B9F7 )
 )
 
 game (
 	comment "Pinocchio (Europe)"
-	developer "Virgin Interactive"
+	users 1
 	rom ( crc 28014BDC )
 )
 
 game (
 	comment "Pirates of Dark Water, The (Europe)"
-	developer "Iguana Entertainment"
+	users 1
 	rom ( crc 1BDC1A5E )
 )
 
 game (
 	comment "Pirates! Gold (USA)"
-	developer "MicroProse"
+	users 1
 	rom ( crc ED50E75C )
 )
 
 game (
 	comment "Pit-Fighter (World) (En,Ja)"
-	developer "Sterling Silver Software"
+	users 2
 	rom ( crc D48A8B02 )
 )
 
 game (
 	comment "Pitfall - The Mayan Adventure (Europe)"
-	developer "Activision"
+	users 1
 	rom ( crc C9198E19 )
 )
 
 game (
 	comment "Pitfall - The Mayan Adventure (USA)"
-	developer "Activision"
+	users 1
 	rom ( crc F917E34F )
 )
 
 game (
 	comment "Pocahontas (Europe)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc 165E7987 )
 )
 
 game (
 	comment "Pocahontas (USA)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc 6DDD1C6D )
 )
 
 game (
 	comment "Populous (Europe)"
-	developer "Bullfrog"
+	users 1
 	rom ( crc 83D56F64 )
 )
 
 game (
 	comment "Populous (Japan)"
-	developer "Bullfrog"
+	users 1
 	rom ( crc 97C26818 )
 )
 
 game (
 	comment "Power Athlete (Japan, Korea) (Ja)"
-	developer "Kaneko"
+	users 2
 	rom ( crc B41B77CF )
 )
 
 game (
 	comment "Power Monger (Japan, Korea) (Ja)"
-	developer "Bullfrog"
+	users 1
 	rom ( crc 553289B3 )
 )
 
 game (
 	comment "Power Drive (Europe) (En,Fr,De,Es,Pt)"
-	developer "U.S. Gold"
+	users 1
 	rom ( crc 8C00AD61 )
 )
 
 game (
 	comment "Power Monger (USA, Europe)"
-	developer "Bullfrog"
+	users 1
 	rom ( crc FB599B86 )
 )
 
 game (
 	comment "Powerball (USA)"
-	developer "Namco"
+	users 2
 	rom ( crc 7ADF232F )
 )
 
 game (
 	comment "Predator 2 (USA, Europe)"
-	developer "Teeny Weeny Games"
+	users 1
 	rom ( crc BDBA113E )
 )
 
 game (
 	comment "Premier Manager (Europe)"
-	developer "Realms of Fantasy"
+	users 2
 	rom ( crc 303B889F )
 )
 
 game (
 	comment "Premier Manager 97 (Europe)"
-	developer "Gremlin Interactive"
+	users 2
 	rom ( crc FCCBF69B )
 )
 
 game (
 	comment "Primal Rage (USA, Europe)"
-	developer "Time Warner Interactive"
+	users 2
 	rom ( crc 2884C6D1 )
 )
 
 game (
 	comment "Primal Rage (USA) (Demo) (1995-08-01) (Sega Channel) (Test Drive)"
-	developer "Time Warner Interactive"
+	users 2
 	rom ( crc 9789EA79 )
 )
 
 game (
 	comment "Prime Time NFL Starring Deion Sanders (USA)"
-	developer "Spectacular Games, Inc."
+	users 4
 	rom ( crc 5AA53CBC )
 )
 
 game (
 	comment "Prince of Persia (Europe)"
-	developer "Domark"
+	users 1
 	rom ( crc 61DE6FE0 )
 )
 
 game (
 	comment "Prince of Persia (USA)"
-	developer "Domark"
+	users 1
 	rom ( crc 13C181A4 )
 )
 
 game (
 	comment "Pro Moves Soccer (USA)"
-	developer "ASCII Corporation"
+	users 2
 	rom ( crc 707017E5 )
 )
 
 game (
 	comment "Pro Quarterback (USA)"
-	developer "Leland Interactive Media"
+	users 2
 	rom ( crc CC8B2B69 )
 )
 
 game (
 	comment "Pro Striker - Final Stage (Japan)"
-	developer "SEGA"
+	users 4
 	rom ( crc E35E25FB )
 )
 
 game (
-	comment "Pro Yakyuu Super League '91 (Japan)"
-	developer "SEGA"
-	rom ( crc A948AB7E )
-)
-
-game (
 	comment "Probotector (Europe) (En,Fr,De)"
-	developer "Konami"
+	users 2
 	rom ( crc BC597D48 )
 )
 
 game (
 	comment "Probotector (Europe) (En,Fr,De) (Mega Drive Mini)"
-	developer "Konami"
+	users 2
 	rom ( crc 6ed9e471 )
 )
 
 game (
 	comment "Probotector (World) (En,Fr,De) (Contra Anniversary Collection)"
-	developer "Konami"
+	users 2
 	rom ( crc c14f4e78 )
 )
 
 game (
 	comment "Probotector (World) (En,Fr,De) (60 Hz) (Contra Anniversary Collection)"
-	developer "Konami"
+	users 2
 	rom ( crc 5e42179d )
 )
 
 game (
 	comment "Psy-O-Blade (Japan)"
-	developer "T&E Soft"
+	users 1
 	rom ( crc 8BA7E6C5 )
 )
 
 game (
 	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It) (Rev 1)"
-	developer "Codemasters"
+	users 4
 	rom ( crc 32dd8351 )
 )
 
 game (
 	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It)"
-	developer "Codemasters"
+	users 4
 	rom ( crc 1AB8F1A1 )
 )
 
 game (
 	comment "Puggsy (Europe)"
-	developer "Travellers Tales"
+	users 1
 	rom ( crc 5D5C9ADE )
 )
 
 game (
 	comment "Puggsy (USA)"
-	developer "Travellers Tales"
+	users 1
 	rom ( crc 70132168 )
 )
 
 game (
 	comment "Pulseman (Japan)"
-	developer "Game Freak"
+	users 1
 	rom ( crc 138A104E )
 )
 
 game (
 	comment "Punisher, The (USA)"
-	developer "Capcom"
+	users 2
 	rom ( crc 695CD8B8 )
 )
 
 game (
 	comment "Punisher, The (Europe)"
-	developer "Capcom"
+	users 2
 	rom ( crc 729EDD17 )
 )
 
 game (
 	comment "Putter Golf (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 20F168A6 )
 )
 
 game (
 	comment "Putter Golf (Japan) (Game no Kanzume Otokuyou)"
-	developer "SEGA"
+	users 1
 	rom ( crc A6557FAA )
 )
 
 game (
 	comment "Puyo Puyo (Japan)"
-	developer "Compile"
+	users 2
 	rom ( crc 7F26614E )
 )
 
 game (
 	comment "Puyo Puyo Tsuu (Japan)"
-	developer "Compile"
+	users 2
 	rom ( crc 51AD7797 )
 )
 
 game (
 	comment "Puyo Puyo Tsuu (Japan) (Rev A)"
-	developer "Compile"
+	users 2
 	rom ( crc 25B7B2AA )
 )
 
 game (
-	comment "Puzzle & Action - Ichidanto-R (World) (Ja) (Sega Ages)"
-	developer "SEGA"
-	rom ( crc 8c00dd10 )
-)
-
-game (
 	comment "Puyo Puyo Tsuu (World) (Ja) (Rev A) (Virtual Console)"
-	developer "Compile"
+	users 2
 	rom ( crc EB6E1894 )
 )
 
 game (
 	comment "Puzzle & Action - Ichidanto-R (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc 7BDEC762 )
 )
 
 game (
 	comment "Puzzle & Action - Tanto-R (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc D2D2D437 )
 )
 
 game (
 	comment "Pyramid Magic (Japan) (Game no Kanzume Otokuyou)"
-	developer "SEGA"
+	users 1
 	rom ( crc B20272EA )
 )
 
 game (
 	comment "Pyramid Magic (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 306D839E )
 )
 
 game (
 	comment "Pyramid Magic II (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc C9DDAC72 )
 )
 
 game (
 	comment "Pyramid Magic Special (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 153A3AFA )
 )
 
 game (
 	comment "Pyramid Magic III (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 8329820A )
 )
 
 game (
 	comment "QuackShot Starring Donald Duck (World)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc 88C8DD94 )
 )
 
 game (
 	comment "QuackShot Starring Donald Duck (World) (Rev A) (Alt)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc A5C946B3 )
 )
 
 game (
 	comment "QuackShot Starring Donald Duck (World) (Rev A)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc 5DD28DD7 )
 )
 
 game (
 	comment "Quad Challenge (USA)"
-	developer "Namco"
+	users 2
 	rom ( crc 74736A80 )
 )
 
 game (
 	comment "R.B.I. Baseball '93 (USA)"
-	developer "Tengen"
+	users 2
 	rom ( crc BEAFCE84 )
 )
 
 game (
 	comment "R.B.I. Baseball 3 (USA)"
-	developer "Tengen"
+	users 2
 	rom ( crc 4840348C )
 )
 
 game (
 	comment "R.B.I. Baseball '94 (USA, Europe)"
-	developer "Tengen"
+	users 2
 	rom ( crc 4EB4D5E4 )
 )
 
 game (
 	comment "R.B.I. Baseball 4 (USA)"
-	developer "Tengen"
+	users 2
 	rom ( crc FECF9B94 )
 )
 
 game (
 	comment "R.B.I. Baseball 4 (Japan)"
-	developer "Tengen"
+	users 2
 	rom ( crc 8F4E1005 )
 )
 
 game (
 	comment "Race Drivin' (USA)"
-	developer "Tengen"
+	users 1
 	rom ( crc D737CF3D )
 )
 
 game (
 	comment "Radical Rex (Europe)"
-	developer "Beam Software"
+	users 2
 	rom ( crc D02D3282 )
 )
 
 game (
 	comment "Radical Rex (USA)"
-	developer "Beam Software"
+	users 2
 	rom ( crc 2E6EEC7E )
 )
 
 game (
 	comment "Raiden Densetsu ~ Raiden Trad (Japan, USA) (En)"
-	developer "Micronet"
+	users 1
 	rom ( crc F839A811 )
 )
 
 game (
 	comment "Rainbow Islands Extra (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc C74DCB35 )
 )
 
 game (
 	comment "Rambo III (Japan) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 2232F03D )
 )
 
 game (
 	comment "Rambo III (USA, Europe, Korea) (En) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc 4D47A647 )
 )
 
 game (
 	comment "Rampart (USA)"
-	developer "Tengen"
+	users 2
 	rom ( crc 9C4DD057 )
 )
 
 game (
 	comment "Rampart (Japan, Korea) (Ja)"
-	developer "Tengen"
+	users 2
 	rom ( crc 16EAD64C )
 )
 
 game (
 	comment "Ranger X (Europe)"
-	developer "GAU Entertainment"
+	users 1
 	rom ( crc B8C04804 )
 )
 
 game (
 	comment "Ranger X (USA)"
-	developer "GAU Entertainment"
+	users 1
 	rom ( crc 55915915 )
 )
 
 game (
-	comment "Ransei no Hasha (Japan)"
-	developer "Asmik"
-	rom ( crc A9A0083D )
-)
-
-game (
 	comment "Rastan Saga II (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc EBACFB5A )
 )
 
 game (
 	comment "Red Zone (USA, Europe)"
-	developer "Time Warner Interactive"
+	users 1
 	rom ( crc 56512EE5 )
 )
 
 game (
 	comment "Rastan Saga II (USA)"
-	developer "Taito"
+	users 1
 	rom ( crc C7EE8965 )
 )
 
 game (
 	comment "Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc C276C220 )
 )
 
 game (
 	comment "Ren & Stimpy Show Presents, The - Stimpy's Invention (USA)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc D9503BA5 )
 )
 
 game (
 	comment "Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe) (1993-12-09) (Sega Channel)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc 1B475ED3 )
 )
 
 game (
 	comment "Rent a Hero (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 2E515F82 )
 )
 
 game (
 	comment "Revenge of Shinobi, The (World) (Rev B) (Virtual Console)"
-	developer "SEGA"
+	users 1
 	rom ( crc 5CA24F66 )
 )
 
 game (
 	comment "Revenge of Shinobi, The (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 05F27994 )
 )
 
 game (
 	comment "Revenge of Shinobi, The (USA, Europe) (Rev A)"
-	developer "SEGA"
+	users 1
 	rom ( crc FE91AB7E )
 )
 
 game (
 	comment "Revolution X (USA, Europe)"
-	developer "Midway"
+	users 2
 	rom ( crc 5FB0C5D4 )
 )
 
 game (
 	comment "Revenge of Shinobi, The (USA, Europe) (Rev B)"
-	developer "SEGA"
+	users 1
 	rom ( crc 4D35EBE4 )
 )
 
 game (
 	comment "Richard Scarry's Busytown (USA)"
-	developer "Novotrade"
+	users 2
 	rom ( crc 7BB60C3F )
 )
 
 game (
 	comment "Riddle Wired (Japan) (SegaNet)"
-	developer "SEGA"
+	users 2
 	rom ( crc FAE3D720 )
 )
 
 game (
 	comment "Rings of Power (USA, Europe)"
-	developer "Naughty Dog"
+	users 1
 	rom ( crc 41FCC497 )
 )
 
 game (
 	comment "Rise of the Robots (Europe)"
-	developer "Time Warner Interactive"
+	users 2
 	rom ( crc 5650780B )
 )
 
 game (
 	comment "Risk (USA)"
-	developer "Parker Brothers"
+	users 6
 	rom ( crc 80416D0D )
 )
 
 game (
 	comment "Risky Woods (USA, Europe)"
-	developer "Dinamic Software"
+	users 1
 	rom ( crc D975E93C )
 )
 
 game (
 	comment "Ristar (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 6511AA61 )
 )
 
 game (
 	comment "Ristar - The Shooting Star (Japan, Korea) (Ja)"
-	developer "SEGA"
+	users 1
 	rom ( crc CE464F0E )
 )
 
 game (
 	comment "Road Rash (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc DEA53D19 )
 )
 
 game (
 	comment "Road Rash (Japan)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 256A21D2 )
 )
 
 game (
 	comment "Road Rash 3 (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 15785956 )
 )
 
 game (
 	comment "Road Rash II (Japan)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 9A5723B6 )
 )
 
 game (
 	comment "Road Rash II (USA, Europe) (RR205)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 7B29C209 )
 )
 
 game (
 	comment "Road Rash II (USA, Europe) (RR206)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 0876E992 )
 )
 
 game (
 	comment "Road Rash II (Japan) (Mega Drive Mini)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc 6cfa9048 )
 )
 
 game (
 	comment "Road Rash II (USA) (Genesis Mini)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc c25abd9e )
 )
 
 game (
 	comment "RoadBlasters (USA)"
-	developer "Sterling Silver Software"
+	users 1
 	rom ( crc EC6CD5F0 )
 )
 
 game (
 	comment "RoadBlasters (Japan)"
-	developer "Sterling Silver Software"
+	users 1
 	rom ( crc A0015440 )
 )
 
 game (
 	comment "RoboCop 3 (USA, Europe)"
-	developer "Flying Edge"
+	users 1
 	rom ( crc 34FB7B27 )
 )
 
 game (
 	comment "RoboCop Versus The Terminator (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc BBAD77A4 )
 )
 
 game (
 	comment "RoboCop Versus The Terminator (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc 85A93F8D )
 )
 
 game (
 	comment "RoboCop Versus The Terminator (Japan, Korea) (En)"
-	developer "Virgin"
+	users 1
 	rom ( crc D444E1F0 )
 )
 
 game (
 	comment "Robot Battler (Japan) (SegaNet)"
-	developer "SEGA"
+	users 2
 	rom ( crc FDF23EFF )
 )
 
 game (
 	comment "Rock 'n' Roll Racing (Europe)"
-	developer "Blizzard Entertainment"
+	users 2
 	rom ( crc BC5A0562 )
 )
 
 game (
 	comment "Rock n' Roll Racing (USA)"
-	developer "Blizzard Entertainment"
+	users 2
 	rom ( crc 6ABAB577 )
 )
 
 game (
 	comment "Rocket Knight Adventures (Europe)"
-	developer "Konami"
+	users 1
 	rom ( crc 8EEDFD51 )
 )
 
 game (
 	comment "Rocket Knight Adventures (Japan)"
-	developer "Konami"
+	users 1
 	rom ( crc D1C8C1C5 )
 )
 
 game (
 	comment "Rocket Knight Adventures (USA)"
-	developer "Konami"
+	users 1
 	rom ( crc A6EFEC47 )
 )
 
 game (
 	comment "Rockman - Mega World (Japan)"
-	developer "Capcom"
+	users 1
 	rom ( crc 85C956EF )
 )
 
 game (
 	comment "Rockman - Mega World (Japan) (Mega Drive Mini)"
-	developer "Capcom"
+	users 1
 	rom ( crc E8F5668E )
 )
 
 game (
 	comment "Roger Clemens' MVP Baseball (USA)"
-	developer "Flying Edge"
+	users 2
 	rom ( crc 83699E34 )
 )
 
 game (
 	comment "Rolling Thunder 2 (Europe)"
-	developer "Namco"
+	users 2
 	rom ( crc C440F292 )
 )
 
 game (
 	comment "Rolling Thunder 2 (Japan)"
-	developer "Namco"
+	users 2
 	rom ( crc 965B2628 )
 )
 
 game (
 	comment "Rolling Thunder 2 (USA)"
-	developer "Namco"
+	users 2
 	rom ( crc 3ACE429B )
 )
 
 game (
 	comment "Rolling Thunder 3 (USA)"
-	developer "Namco"
+	users 1
 	rom ( crc 64FB13AA )
 )
 
 game (
 	comment "Rolo to the Rescue (USA, Europe)"
-	developer "Vectordean"
+	users 1
 	rom ( crc 306861A2 )
 )
 
 game (
 	comment "Romance of the Three Kingdoms II (USA)"
-	developer "Koei"
+	users 8
 	rom ( crc 3D842478 )
 )
 
 game (
 	comment "Romance of the Three Kingdoms III - Dragon of Destiny (USA)"
-	developer "Koei"
+	users 8
 	rom ( crc 7E41C8FE )
 )
 
 game (
 	comment "Royal Blood (Japan)"
-	developer "Koei"
+	users 2
 	rom ( crc 0E0107F1 )
 )
 
 game (
 	comment "Rugby World Cup 95 (USA, Europe) (En,Fr,It)"
-	developer "EA Sports"
+	users 4
 	rom ( crc 61F90A8A )
 )
 
 game (
 	comment "Ryuuko no Ken (Japan)"
-	developer "SNK"
+	users 2
 	rom ( crc 054CF5F6 )
 )
 
 game (
 	comment "Runark (Japan, Korea) (En)"
-	developer "Taito"
+	users 1
 	rom ( crc 0894D8FB )
 )
 
 game (
 	comment "Sagaia (USA)"
-	developer "Taito"
+	users 1
 	rom ( crc F1E22F43 )
 )
 
 game (
 	comment "Saint Sword (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc 3960A00F )
 )
 
 game (
 	comment "Saint Sword (USA)"
-	developer "Taito"
+	users 1
 	rom ( crc 44F66BFF )
 )
 
 game (
 	comment "Sampras Tennis 96 (Europe) (J-Cart)"
-	developer "Codemasters"
+	users 4
 	rom ( crc 14E3FB7B )
 )
 
 game (
 	comment "Same! Same! Same! (Japan)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 77BBD841 )
 )
 
 game (
 	comment "Samurai Shodown (USA)"
-	developer "SNK"
+	users 2
 	rom ( crc 5BB8B2D4 )
 )
 
 game (
 	comment "Samurai Shodown (Europe)"
-	developer "SNK"
+	users 2
 	rom ( crc C972014F )
 )
 
 game (
 	comment "Samurai Spirits (Japan)"
-	developer "SNK"
+	users 2
 	rom ( crc 0EA2AE36 )
 )
 
 game (
 	comment "San Guo Zhi Lie Zhuan - Luan Shi Qun Ying (Hong Kong)"
-	developer "Koei"
+	users 8
 	rom ( crc 3B5CC398 )
 )
 
 game (
 	comment "Sangokushi II (Japan)"
-	developer "Koei"
+	users 8
 	rom ( crc 437BA326 )
 )
 
 game (
 	comment "Sangokushi III (Japan)"
-	developer "Koei"
+	users 8
 	rom ( crc A8DE6AEA )
 )
 
 game (
 	comment "Sangokushi Retsuden - Ransei no Eiyuutachi (Japan)"
-	developer "SEGA"
+	users 3
 	rom ( crc 0F56785A )
 )
 
 game (
 	comment "Sansan (Japan)"
-	developer "Sansan"
+	users 2
 	rom ( crc 5B85DEED )
 )
 
 game (
 	comment "Saturday Night Slammasters (Europe)"
-	developer "Capcom"
+	users 2
 	rom ( crc 08FA5A3F )
 )
 
 game (
 	comment "Saturday Night Slammasters (USA)"
-	developer "Capcom"
+	users 2
 	rom ( crc 2FB4EABA )
 )
 
 game (
 	comment "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)"
-	developer "Virtual Studio"
+	users 1
 	rom ( crc B28BDD69 )
 )
 
 game (
 	comment "Scooby-Doo Mystery (USA)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 7BB9DD9B )
 )
 
 game (
 	comment "seaQuest DSV (USA)"
-	developer "Black Pearl Software"
+	users 1
 	rom ( crc 25B05480 )
 )
 
 game (
 	comment "SD Valis (Japan)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc 1AEF72EA )
 )
 
 game (
 	comment "Second Samurai (Europe)"
-	developer "Vivid Image"
+	users 2
 	rom ( crc 78E92143 )
 )
 
 game (
 	comment "seaQuest DSV (Europe)"
-	developer "Black Pearl Software"
+	users 1
 	rom ( crc BAC87612 )
 )
 
 game (
 	comment "Sega Sports 1 (Europe)"
-	developer "SEGA"
+	users 8
 	rom ( crc 07FEDAF1 )
 )
 
 game (
+	comment "Sega Top Five (Brazil) (En)"
+	users 2
+	rom ( crc 61069069 )
+)
+
+game (
 	comment "Sesame Street Counting Cafe (USA)"
-	developer "Electronic Arts"
+	users 1
 	rom ( crc 0A4F48C3 )
 )
 
 game (
 	comment "Sensible Soccer (Europe) (En,Fr,De,It)"
-	developer "Sensible Software"
+	users 2
 	rom ( crc F9B396B8 )
 )
 
 game (
 	comment "Senjou no Ookami II ~ Mercs (World)"
-	developer "Capcom"
+	users 1
 	rom ( crc 16113A72 )
 )
 
 game (
 	comment "Shadow Blasters (USA)"
-	developer "Sigma-team"
+	users 2
 	rom ( crc 713D377B )
 )
 
 game (
 	comment "Shadow Dancer - The Secret of Shinobi (World)"
-	developer "SEGA"
+	users 1
 	rom ( crc EBE9AD10 )
 )
 
 game (
 	comment "Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease)"
-	developer "SEGA"
+	users 1
 	rom ( crc 5CD3E295 )
 )
 
 game (
 	comment "Shadow of the Beast (USA, Europe)"
-	developer "Reflections Interactive Limited"
+	users 1
 	rom ( crc BD385C27 )
 )
 
 game (
 	comment "Shadow of the Beast - Mashou no Okite (Japan)"
-	developer "Reflections Interactive Limited"
+	users 1
 	rom ( crc 0CD09D31 )
 )
 
 game (
 	comment "Shadow of the Beast II (USA, Europe)"
-	developer "Reflections Interactive Limited"
+	users 1
 	rom ( crc 2DEDE3DB )
 )
 
 game (
 	comment "Shadowrun (Asia) (En)"
-	developer "Sky Fallen"
+	users 1
 	rom ( crc D32199F7 )
 )
 
 game (
 	comment "Shadowrun (USA)"
-	developer "Sky Fallen"
+	users 1
 	rom ( crc FBB92909 )
 )
 
 game (
 	comment "Shane Warne Cricket (Australia)"
-	developer "Audiogenic Software"
+	users 4
 	rom ( crc 68865F6F )
 )
 
 game (
 	comment "Shanghai II - Dragon's Eye (USA)"
-	developer "Activision"
+	users 2
 	rom ( crc EBE9E840 )
 )
 
 game (
 	comment "Shaq-Fu (USA, Europe)"
-	developer "Delphine Software International"
+	users 2
 	rom ( crc 499955F2 )
 )
 
 game (
 	comment "Shi no Meikyuu - Labyrinth of Death (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc A6D7E02D )
 )
 
 game (
 	comment "Shi no Meikyuu - Labyrinth of Death (Japan) (Game no Kanzume Otokuyou)"
-	developer "SEGA"
+	users 1
 	rom ( crc 40C44CD3 )
 )
 
 game (
 	comment "Shijou Saidai no Soukoban (Japan)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 40F4AACC )
 )
 
 game (
 	comment "Shikinjou (Japan)"
-	developer "Scap Trust"
+	users 1
 	rom ( crc 5EA0C97D )
 )
 
 game (
 	comment "Shin Souseiki Ragnacenty (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 6A3F5AE2 )
 )
 
 game (
 	comment "Shin Changsegi - Ragnacenty (Korea)"
-	developer "SEGA"
+	users 1
 	rom ( crc 77B5B10B )
 )
 
 game (
 	comment "Shining and the Darkness (Japan)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 496AF51C )
 )
 
 game (
 	comment "Shining Force (USA)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc E82ACDFC )
 )
 
 game (
 	comment "Shining Force (Europe)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc b7278199 )
 )
 
 game (
 	comment "Shining Force (USA) (Genesis Mini)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 4391175e )
 )
 
 game (
 	comment "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 45416aa9 )
 )
 
 game (
 	comment "Shining Force II (Europe)"
-	developer "Camelot Software"
+	users 1
 	rom ( crc 83CB46D1 )
 )
 
 game (
 	comment "Shining Force - Kamigami no Isan (Japan)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 9378FBCD )
 )
 
 game (
 	comment "Shining Force II (USA, Europe) (Switch Online)"
-	developer "Camelot Software"
+	users 1
 	rom ( crc d677edd1 )
 )
 
 game (
 	comment "Shining Force II (USA)"
-	developer "Camelot Software"
+	users 1
 	rom ( crc 4815E075 )
 )
 
 game (
 	comment "Shining Force II - Inishie no Fuuin (Japan) (Switch Online)"
-	developer "Camelot Software"
+	users 1
 	rom ( crc 78d4640a )
 )
 
 game (
 	comment "Shining Force II - Inishie no Fuuin (Japan)"
-	developer "Camelot Software"
+	users 1
 	rom ( crc 0288F3E1 )
 )
 
 game (
 	comment "Shining in the Darkness (Brazil) (En)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 3EE2BBC4 )
 )
 
 game (
 	comment "Shining in the Darkness (USA, Europe)"
-	developer "Climax Studios"
+	users 1
 	rom ( crc 4D2785BC )
 )
 
 game (
 	comment "Shinobi III - Return of the Ninja Master (Europe)"
-	developer "Megasoft"
+	users 1
 	rom ( crc 0B6D3EB5 )
 )
 
 game (
 	comment "Shinobi III - Return of the Ninja Master (USA)"
-	developer "Megasoft"
+	users 1
 	rom ( crc 5381506F )
 )
 
 game (
 	comment "Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)"
-	developer "Megasoft"
+	users 1
 	rom ( crc c0f1de3c )
 )
 
 game (
 	comment "Shiten Myouou (Japan)"
-	developer "Sigma-team"
+	users 2
 	rom ( crc 7E729693 )
 )
 
 game (
 	comment "Shougi no Hoshi (Japan)"
-	developer "Home Data"
+	users 1
 	rom ( crc 4148F816 )
 )
 
 game (
 	comment "Shove It! ...The Warehouse Game (USA)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc C51F40CB )
 )
 
 game (
 	comment "Show do Milhao (Brazil)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc 0A22DF04 )
 )
 
 game (
 	comment "Show do Milhao Volume 2 (Brazil)"
-	developer "Tec Toy"
+	users 1
 	rom ( crc 48EE66CB )
 )
 
 game (
 	comment "Shura no Mon (Japan)"
-	developer "Sims"
+	users 1
 	rom ( crc E19DA6E5 )
 )
 
 game (
 	comment "Side Pocket (Japan, Korea) (Ja)"
-	developer "Data East"
+	users 2
 	rom ( crc 336BBF3E )
 )
 
 game (
 	comment "Side Pocket (Europe)"
-	developer "Data East"
+	users 2
 	rom ( crc 36E08145 )
 )
 
 game (
 	comment "Side Pocket (USA)"
-	developer "Data East"
+	users 2
 	rom ( crc AF9F275D )
 )
 
 game (
 	comment "Simpsons, The - Bart vs. the Space Mutants (USA, Europe)"
-	developer "Arc Developments"
+	users 1
 	rom ( crc C8620574 )
 )
 
 game (
 	comment "Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A)"
-	developer "Arc Developments"
+	users 1
 	rom ( crc DB70E8CA )
 )
 
 game (
 	comment "Simpsons, The - Bart's Nightmare (USA, Europe)"
-	developer "Sculptured Software"
+	users 1
 	rom ( crc 24D7507C )
 )
 
 game (
 	comment "Skeleton Krew (Europe)"
-	developer "Front Street Publishing"
+	users 2
 	rom ( crc 5F872737 )
 )
 
 game (
 	comment "Skeleton Krew (USA)"
-	developer "Front Street Publishing"
+	users 2
 	rom ( crc C2E05ACB )
 )
 
 game (
 	comment "Slap Fight MD (Japan)"
-	developer "Toaplan"
+	users 1
 	rom ( crc D6695695 )
 )
 
 game (
 	comment "Skitchin' (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc F785F9D7 )
 )
 
 game (
 	comment "Slaughter Sport (USA)"
-	developer "Brian A. Rice, Inc."
+	users 2
 	rom ( crc AF9F9D9C )
 )
 
 game (
 	comment "Slime World (Japan)"
-	developer "Micro World"
+	users 2
 	rom ( crc 7FF5529F )
 )
 
 game (
 	comment "Smurfs, The (Brazil) (En,Fr,De,Es,It)"
-	developer "Infogrames"
+	users 1
 	rom ( crc C991668D )
 )
 
 game (
 	comment "Smurfs, The (Europe) (En,Fr,De,Es,It)"
-	developer "Infogrames"
+	users 1
 	rom ( crc 88B30EFF )
 )
 
 game (
 	comment "Snake Rattle n Roll (Europe)"
-	developer "Rareware"
+	users 2
 	rom ( crc 543BED30 )
 )
 
 game (
 	comment "Snow Bros. - Nick & Tom (Japan)"
-	developer "Toaplan"
+	users 2
 	rom ( crc 11B56228 )
 )
 
 game (
 	comment "Socket (USA)"
-	developer "Vic Tokai Corporation"
+	users 1
 	rom ( crc 3C14E15A )
 )
 
 game (
 	comment "Sol-Deace (USA)"
-	developer "Wolf Team"
+	users 1
 	rom ( crc A77E4E9F )
 )
 
 game (
 	comment "Soldiers of Fortune (USA)"
-	developer "The Bitmap Brothers"
+	users 2
 	rom ( crc A84D28A1 )
 )
 
 game (
 	comment "Soleil (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc A30EBDB1 )
 )
 
 game (
 	comment "Soleil (Germany)"
-	developer "SEGA"
+	users 1
 	rom ( crc 332B9ECD )
 )
 
 game (
 	comment "Soleil (France)"
-	developer "SEGA"
+	users 1
 	rom ( crc 08DC1EAD )
 )
 
 game (
 	comment "Soleil (Spain)"
-	developer "SEGA"
+	users 1
 	rom ( crc 9ED4C323 )
 )
 
 game (
 	comment "Sonic & Knuckles (World)"
-	developer "SEGA"
+	users 1
 	rom ( crc 0658F691 )
 )
 
 game (
 	comment "Sonic & Knuckles (World) (Sonic Classic Collection)"
-	developer "SEGA"
+	users 1
 	rom ( crc c7249cdf )
 )
 
 game (
 	comment "Sonic & Knuckles + Sonic The Hedgehog (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc E01F6ED5 )
 )
 
 game (
 	comment "Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En)"
-	developer "SEGA"
+	users 1
 	rom ( crc B6C67EAC )
 )
 
 game (
 	comment "Sonic & Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3 (World) (Virtual Console)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc 198DE33E )
 )
 
 game (
 	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (USA)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc 63522553 )
 )
 
 game (
 	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (Europe)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc 92F0929E )
 )
 
 game (
 	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En) (Sonic Mega Collection)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc 0C06AA82 )
 )
 
 game (
 	comment "Sonic 3 (Europe)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc 6A632503 )
 )
 
 game (
 	comment "Sonic 3D Blast (USA, Europe, Korea) (En)"
-	developer "Travellers Tales"
+	users 1
 	rom ( crc 44A2CA44 )
 )
 
 game (
 	comment "Sonic Compilation (Europe)"
-	developer "Compile"
+	users 2
 	rom ( crc 8C70B84E )
 )
 
 game (
 	comment "Sonic Eraser (Japan) (SegaNet)"
-	developer "SEGA"
+	users 2
 	rom ( crc 62D8A0E7 )
 )
 
 game (
 	comment "Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (En) (Rev A)"
-	developer "Compile"
+	users 2
 	rom ( crc 95B5E8D7 )
 )
 
 game (
 	comment "Sonic Spinball (Japan)"
-	developer "SEGA"
+	users 4
 	rom ( crc ACD08CE8 )
 )
 
 game (
 	comment "Sonic Spinball (Europe)"
-	developer "SEGA"
+	users 4
 	rom ( crc AEA0786D )
 )
 
 game (
 	comment "Sonic Spinball (USA)"
-	developer "SEGA"
+	users 4
 	rom ( crc 677206CB )
 )
 
 game (
 	comment "Sonic Spinball (USA) (1993-09-22) (Sega Channel)"
-	developer "SEGA"
+	users 4
 	rom ( crc 82C55A36 )
 )
 
 game (
 	comment "Sonic Spinball (Europe) (Mega Drive Mini)"
-	developer "SEGA"
+	users 4
 	rom ( crc 2c828e46 )
 )
 
 game (
 	comment "Sonic The Hedgehog (USA, Europe) (Sonic Classic Collection)"
-	developer "SEGA"
+	users 1
 	rom ( crc 27e22795 )
 )
 
 game (
 	comment "Sonic The Hedgehog (Japan, Europe, Korea) (En)"
-	developer "SEGA"
+	users 1
 	rom ( crc AFE05EEE )
 )
 
 game (
 	comment "Sonic The Hedgehog (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc F9394E97 )
 )
 
 game (
 	comment "Sonic The Hedgehog (World) (Sonic Mega Collection)"
-	developer "SEGA"
+	users 1
 	rom ( crc 6382B2C5 )
 )
 
 game (
 	comment "Sonic The Hedgehog 2 (World)"
-	developer "SEGA"
+	users 2
 	rom ( crc 24AB4C3A )
 )
 
 game (
 	comment "Sonic The Hedgehog 2 (World) (Rev B)"
-	developer "SEGA"
+	users 2
 	rom ( crc F23AD4B3 )
 )
 
 game (
 	comment "Sonic The Hedgehog 2 (World) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc 7B905383 )
 )
 
 game (
 	comment "Sonic The Hedgehog 2 (World) (Rev A) (Sonic Mega Collection)"
-	developer "SEGA"
+	users 2
 	rom ( crc 92D8817D )
 )
 
 game (
 	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-08-21)"
-	developer "SEGA"
+	users 2
 	rom ( crc 370B3CE5 )
 )
 
 game (
 	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-09-14)"
-	developer "SEGA"
+	users 2
 	rom ( crc 0BE8AFA7 )
 )
 
 game (
 	comment "Sonic The Hedgehog 2 (World) (Rev A) (Sonic Classic Collection)"
-	developer "SEGA"
+	users 2
 	rom ( crc 582e0bf7 )
 )
 
 game (
 	comment "Sonic The Hedgehog 3 (USA) (1993-11-20) (Sega Channel)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc EBC0AF69 )
 )
 
 game (
 	comment "Sonic The Hedgehog 3 (USA) (Sonic Classic Collection)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc fc0429dd )
 )
 
 game (
 	comment "Sonic The Hedgehog 3 (Japan, Korea) (Ja)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc F4951D1F )
 )
 
 game (
 	comment "Sonic The Hedgehog 3 (USA)"
-	developer "Sonic Team"
+	users 2
 	rom ( crc 9BC192CE )
 )
 
 game (
 	comment "Sorcer Kingdom (Japan)"
-	developer "Technical Wave"
+	users 1
 	rom ( crc 944135CA )
 )
 
 game (
 	comment "Sorcerer's Kingdom (USA)"
-	developer "Technical Wave"
+	users 1
 	rom ( crc BB1FC9CE )
 )
 
 game (
 	comment "Sorcerian (Japan)"
-	developer "Nihon Falcom"
+	users 1
 	rom ( crc A143A8C5 )
 )
 
 game (
 	comment "Sorcerian (Japan) (Rev 1) (Virtual Console)"
-	developer "Nihon Falcom"
+	users 1
 	rom ( crc B60137E0 )
 )
 
 game (
 	comment "Space Funky B.O.B. (Japan)"
-	developer "Gray Matter"
+	users 1
 	rom ( crc E9310D3B )
 )
 
 game (
 	comment "Space Harrier II (World)"
-	developer "SEGA"
+	users 1
 	rom ( crc E5C9CBB0 )
 )
 
 game (
 	comment "Space Invaders '91 (USA)"
-	developer "Taito"
+	users 1
 	rom ( crc BB83B528 )
 )
 
 game (
 	comment "Space Invaders 90 (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc 22ADBD66 )
 )
 
 game (
 	comment "Sparkster (Europe)"
-	developer "Konami"
+	users 1
 	rom ( crc D63E9F2D )
 )
 
 game (
 	comment "Sparkster (USA)"
-	developer "Konami"
+	users 1
 	rom ( crc 6BDB14ED )
 )
 
 game (
 	comment "Sparkster - Rocket Knight Adventures 2 (Japan)"
-	developer "Konami"
+	users 1
 	rom ( crc 914EC662 )
 )
 
 game (
 	comment "Speedball 2 (Europe)"
-	developer "Image Works"
+	users 2
 	rom ( crc 056A6E03 )
 )
 
 game (
 	comment "Speedball 2 (Japan)"
-	developer "Image Works"
+	users 2
 	rom ( crc F5442334 )
 )
 
 game (
 	comment "Speedball 2 - Brutal Deluxe (USA)"
-	developer "Image Works"
+	users 2
 	rom ( crc 9FC340A7 )
 )
 
 game (
 	comment "Spider-Man (USA, Europe) (Acclaim)"
-	developer "Western Technologies"
+	users 1
 	rom ( crc 11B5B590 )
 )
 
 game (
 	comment "Spider-Man (World) (Sega)"
-	developer "Technopop"
+	users 1
 	rom ( crc 70AB775F )
 )
 
 game (
 	comment "Spider-Man X-Men - Arcade's Revenge (Europe)"
-	developer "Software Creations"
+	users 1
 	rom ( crc E7014092 )
 )
 
 game (
 	comment "Spider-Man . Venom - Maximum Carnage (World)"
-	developer "Software Creations"
+	users 1
 	rom ( crc 8FA0B6E6 )
 )
 
 game (
 	comment "Spirou (Europe) (En,Fr,De,Es)"
-	developer "Infogrames"
+	users 1
 	rom ( crc 6634B130 )
 )
 
 game (
 	comment "Spider-Man X-Men - Arcade's Revenge (USA, Europe)"
-	developer "Software Creations"
+	users 1
 	rom ( crc 4A4414EA )
 )
 
 game (
 	comment "Splatterhouse 2 (Europe)"
-	developer "Namco"
+	users 1
 	rom ( crc 2559E03C )
 )
 
 game (
 	comment "Splatterhouse 2 (USA)"
-	developer "Namco"
+	users 1
 	rom ( crc 2D1766E9 )
 )
 
 game (
 	comment "Splatterhouse 3 (USA)"
-	developer "Now Production"
+	users 1
 	rom ( crc 00F05D07 )
 )
 
 game (
 	comment "Splatterhouse Part 2 (Japan)"
-	developer "Namco"
+	users 1
 	rom ( crc 9FB70301 )
 )
 
 game (
 	comment "Splatterhouse Part 3 (Japan, Korea) (Ja)"
-	developer "Now Production"
+	users 1
 	rom ( crc 31B83D22 )
 )
 
 game (
 	comment "Sport Games (Brazil) (En)"
-	developer "Tec Toy"
+	users 4
 	rom ( crc BC61AA50 )
 )
 
 game (
 	comment "Sports Talk Baseball (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc 0DEB79C2 )
 )
 
 game (
 	comment "Spot Goes to Hollywood (Europe)"
-	developer "Virgin"
+	users 1
 	rom ( crc FBE254EA )
 )
 
 game (
 	comment "Spot Goes to Hollywood (USA)"
-	developer "Virgin"
+	users 1
 	rom ( crc BDAD1CBC )
 )
 
 game (
 	comment "Star Cruiser (Japan)"
-	developer "Arsys"
+	users 1
 	rom ( crc 2B75B52F )
 )
 
 game (
 	comment "Star Trek - Deep Space Nine - Crossroads of Time (USA)"
-	developer "Novotrade"
+	users 1
 	rom ( crc A771E1A4 )
 )
 
 game (
 	comment "Star Trek - Deep Space Nine - Crossroads of Time (Europe)"
-	developer "Novotrade"
+	users 1
 	rom ( crc D4B122F9 )
 )
 
 game (
 	comment "Star Trek - The Next Generation - Echoes from the Past (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc 272153FB )
 )
 
 game (
 	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A)"
-	developer "SEGA"
+	users 1
 	rom ( crc EF840EF2 )
 )
 
 game (
 	comment "Starflight (USA, Europe)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc D550C928 )
 )
 
 game (
 	comment "Starflight (USA, Europe) (Rev A)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc 1217DBEA )
 )
 
 game (
 	comment "Stargate (USA, Europe)"
-	developer "Probe Software"
+	users 1
 	rom ( crc E587069E )
 )
 
 game (
 	comment "Steel Empire (USA)"
-	developer "Flying Edge"
+	users 1
 	rom ( crc D0E7A0B6 )
 )
 
 game (
 	comment "Steel Talons (Japan, Korea) (Ja)"
-	developer "Tengen"
+	users 1
 	rom ( crc 04F388E6 )
 )
 
 game (
 	comment "Steel Talons (USA, Europe)"
-	developer "Tengen"
+	users 1
 	rom ( crc 10E4EC63 )
 )
 
 game (
 	comment "Stormlord (Japan)"
-	developer "Razorsoft"
+	users 1
 	rom ( crc 0B440FED )
 )
 
 game (
 	comment "Stormlord (USA)"
-	developer "Razorsoft"
+	users 1
 	rom ( crc 39AB50A5 )
 )
 
 game (
 	comment "Story of Thor, The (Germany)"
-	developer "SEGA"
+	users 1
 	rom ( crc FA20D011 )
 )
 
 game (
 	comment "Story of Thor, The (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 1110B0DB )
 )
 
 game (
 	comment "Story of Thor, The (Korea)"
-	developer "SEGA"
+	users 1
 	rom ( crc EE1603C5 )
 )
 
 game (
 	comment "Story of Thor, The (Spain)"
-	developer "SEGA"
+	users 1
 	rom ( crc 4631F941 )
 )
 
 game (
 	comment "Story of Thor, The (Europe) (Mega Drive Mini)"
-	developer "SEGA"
+	users 1
 	rom ( crc 8cd9053f )
 )
 
 game (
 	comment "Story of Thor, The (Germany) (Mega Drive Mini)"
-	developer "SEGA"
+	users 1
 	rom ( crc 244d768b )
 )
 
 game (
 	comment "Story of Thor, The (Spain) (Mega Drive Mini)"
-	developer "SEGA"
+	users 1
 	rom ( crc dbf84ca5 )
 )
 
 game (
 	comment "Street Fighter II' - Special Champion Edition (USA) (Virtual Console)"
-	developer "Capcom"
+	users 2
 	rom ( crc A81527B7 )
 )
 
 game (
 	comment "Story of Thor, The - Hikari o Tsugumono (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 4F39783C )
 )
 
 game (
 	comment "Street Fighter II' - Special Champion Edition (Europe) (Virtual Console)"
-	developer "Capcom"
+	users 2
 	rom ( crc ED3F3E20 )
 )
 
 game (
 	comment "Street Fighter II' - Special Champion Edition (Europe)"
-	developer "Capcom"
+	users 2
 	rom ( crc 56D41136 )
 )
 
 game (
 	comment "Street Fighter II' - Special Champion Edition (USA)"
-	developer "Capcom"
+	users 2
 	rom ( crc 13FE08A1 )
 )
 
 game (
 	comment "Street Fighter II' Plus - Champion Edition (Japan, Korea) (Ja)"
-	developer "Capcom"
+	users 2
 	rom ( crc 2E487EE3 )
 )
 
 game (
 	comment "Street Fighter II' Plus - Champion Edition (Japan) (Virtual Console)"
-	developer "Capcom"
+	users 2
 	rom ( crc 95A351F5 )
 )
 
 game (
 	comment "Street Smart (Japan, USA) (En)"
-	developer "SNK"
+	users 2
 	rom ( crc B1DEDFAD )
 )
 
 game (
 	comment "Street Racer (Europe)"
-	developer "Vivid Image"
+	users 4
 	rom ( crc 1A58D5FE )
 )
 
 game (
 	comment "Streets of Rage (World)"
-	developer "SEGA"
+	users 2
 	rom ( crc BFF227C6 )
 )
 
 game (
 	comment "Streets of Rage (World) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc 4052E845 )
 )
 
 game (
 	comment "Streets of Rage 2 (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc E01FA526 )
 )
 
 game (
 	comment "Streets of Rage 2 (Japan) (En,Ja) (Mega Drive Mini)"
-	developer "SEGA"
+	users 2
 	rom ( crc c48b3698 )
 )
 
 game (
 	comment "Streets of Rage 3 (Asia) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 90EF991E )
 )
 
 game (
 	comment "Streets of Rage 3 (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 3B78135F )
 )
 
 game (
 	comment "Streets of Rage 3 (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc D5BB15D9 )
 )
 
 game (
 	comment "Strider (USA, Europe)"
-	developer "Capcom"
+	users 1
 	rom ( crc B9D099A4 )
 )
 
 game (
 	comment "Streets of Rage II (Japan, Europe) (En,Ja)"
-	developer "SEGA"
+	users 2
 	rom ( crc 42E3EFDC )
 )
 
 game (
 	comment "Strider (USA, Europe) (Virtual Console)"
-	developer "Capcom"
+	users 1
 	rom ( crc 5B96A532 )
 )
 
 game (
 	comment "Strider Hiryuu (Japan) (Rev A) (Virtual Console)"
-	developer "Capcom"
+	users 1
 	rom ( crc 62B2FD97 )
 )
 
 game (
 	comment "Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)"
-	developer "Capcom"
+	users 1
 	rom ( crc f38c0ed3 )
 )
 
 game (
 	comment "Strider Hiryuu (Japan, Korea) (Ja)"
-	developer "Capcom"
+	users 1
 	rom ( crc 859173F2 )
 )
 
 game (
 	comment "Strider II (Europe)"
-	developer "Tiertex"
+	users 1
 	rom ( crc E85E5270 )
 )
 
 game (
 	comment "Striker (Europe) (En,Fr,De,Es,It)"
-	developer "SEGA"
+	users 2
 	rom ( crc CC5D7AB2 )
 )
 
 game (
 	comment "Sub-Terrania (Europe)"
-	developer "Zyrinx"
+	users 1
 	rom ( crc E8CED28D )
 )
 
 game (
 	comment "Sub-Terrania (Asia) (En)"
-	developer "Zyrinx"
+	users 1
 	rom ( crc 7638EA91 )
 )
 
 game (
 	comment "Sub-Terrania (USA)"
-	developer "Zyrinx"
+	users 1
 	rom ( crc DC3C6C45 )
 )
 
 game (
 	comment "Sub-Terrania (USA) (Beta 3) (October, 1993)"
-	developer "Zyrinx"
+	users 1
 	rom ( crc 707fa63c )
 )
 
 game (
 	comment "Sunset Riders (Europe)"
-	developer "Konami"
+	users 2
 	rom ( crc 0FF33054 )
 )
 
 game (
 	comment "Sunset Riders (USA)"
-	developer "Konami"
+	users 2
 	rom ( crc AC30C297 )
 )
 
 game (
 	comment "Super Airwolf (Japan)"
-	developer "Kyugo Boueki"
+	users 1
 	rom ( crc FA451982 )
 )
 
 game (
 	comment "Super Baseball 2020 (USA, Europe)"
-	developer "SNK"
+	users 2
 	rom ( crc C17ACEE5 )
 )
 
 game (
 	comment "Super Battleship - The Classic Naval Combat Game (USA)"
-	developer "Mindscape"
+	users 1
 	rom ( crc 99CA1BFB )
 )
 
 game (
 	comment "Super Daisenryaku (Japan)"
-	developer "Systemsoft"
+	users 4
 	rom ( crc D50A166F )
 )
 
 game (
 	comment "Super Daisenryaku (Japan) (Rev A)"
-	developer "Systemsoft"
+	users 4
 	rom ( crc 11645D6E )
 )
 
 game (
 	comment "Super Fantasy Zone (Europe)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 927975BE )
 )
 
 game (
 	comment "Super Fantasy Zone (Japan)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 767780D7 )
 )
 
 game (
 	comment "Super Fantasy Zone (USA) (Ja) (Genesis Mini)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc D97D913D )
 )
 
 game (
 	comment "Super H.Q. (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc AB2C52B0 )
 )
 
 game (
 	comment "Super Hang-On (Europe) (En,Ja) (Rev A)"
-	developer "SEGA"
+	users 1
 	rom ( crc 3877D107 )
 )
 
 game (
 	comment "Super Hang-On (Japan, USA) (En,Ja)"
-	developer "SEGA"
+	users 1
 	rom ( crc CB2201A3 )
 )
 
 game (
 	comment "Super Hang-On (World) (Sega Smash Pack 2)"
-	developer "SEGA"
+	users 1
 	rom ( crc 7E892199 )
 )
 
 game (
 	comment "Super High Impact (USA)"
-	developer "Iguana Entertainment"
+	users 2
 	rom ( crc B870C2F7 )
 )
 
 game (
 	comment "Super Hydlide (Europe)"
-	developer "Seismic"
+	users 1
 	rom ( crc 1FE2D90B )
 )
 
 game (
 	comment "Super Hydlide (Japan)"
-	developer "Seismic"
+	users 1
 	rom ( crc 599BE386 )
 )
 
 game (
 	comment "Super Hydlide (USA)"
-	developer "Seismic"
+	users 1
 	rom ( crc 1335DDAA )
 )
 
 game (
 	comment "Super Kick Off (Europe)"
-	developer "U.S. Gold"
+	users 2
 	rom ( crc F43793FF )
 )
 
 game (
 	comment "Super League (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 55BAEC6E )
 )
 
 game (
 	comment "Super League (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc EA13CB1D )
 )
 
 game (
 	comment "Super Monaco GP (USA) (En,Ja)"
-	developer "SEGA"
+	users 1
 	rom ( crc 725018EE )
 )
 
 game (
 	comment "Super Monaco GP (Japan, USA) (En,Ja)"
-	developer "SEGA"
+	users 1
 	rom ( crc 90F9BAB3 )
 )
 
 game (
 	comment "Super Monaco GP (World) (En,Ja)"
-	developer "SEGA"
+	users 1
 	rom ( crc B1823595 )
 )
 
 game (
 	comment "Super Monaco GP (World) (En,Ja) (Rev A)"
-	developer "SEGA"
+	users 1
 	rom ( crc BE91B28A )
 )
 
 game (
 	comment "Super Real Basketball (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc F04765BA )
 )
 
 game (
 	comment "Super Real Basketball (Japan, Korea) (Ja)"
-	developer "SEGA"
+	users 2
 	rom ( crc 4346E11A )
 )
 
 game (
 	comment "Super Shinobi, The (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 5C7E5EA6 )
 )
 
 game (
 	comment "Super Shinobi II, The (Japan, Korea) (Ja)"
-	developer "Megasoft"
+	users 1
 	rom ( crc 5B412816 )
 )
 
 game (
 	comment "Super Skidmarks (Europe) (J-Cart)"
-	developer "Acid"
+	users 4
 	rom ( crc 4A9C62F9 )
 )
 
 game (
 	comment "Super Smash T.V. (USA, Europe)"
-	developer "Probe Entertainment"
+	users 2
 	rom ( crc F22412B6 )
 )
 
 game (
 	comment "Super Street Fighter II (Europe)"
-	developer "Capcom"
+	users 2
 	rom ( crc 682C192F )
 )
 
 game (
 	comment "Super Street Fighter II (USA)"
-	developer "Capcom"
+	users 2
 	rom ( crc 165DEFBF )
 )
 
 game (
 	comment "Super Street Fighter II (USA) (Virtual Console)"
-	developer "Capcom"
+	users 2
 	rom ( crc 0BDCCC83 )
 )
 
 game (
 	comment "Super Street Fighter II (Europe) (Virtual Console)"
-	developer "Capcom"
+	users 2
 	rom ( crc BFDE41C8 )
 )
 
 game (
 	comment "Super Street Fighter II - The New Challengers (Japan) (Virtual Console)"
-	developer "Capcom"
+	users 2
 	rom ( crc EA6E8AFC )
 )
 
 game (
 	comment "Super Street Fighter II - The New Challengers (Japan)"
-	developer "Capcom"
+	users 2
 	rom ( crc D8EEB2BD )
 )
 
 game (
 	comment "Super Thunder Blade (World)"
-	developer "SEGA"
+	users 1
 	rom ( crc B13087EE )
 )
 
 game (
 	comment "Super Volley Ball (Japan)"
-	developer "Microforum"
+	users 2
 	rom ( crc 9B5C28EA )
 )
 
 game (
 	comment "Super Volleyball (USA)"
-	developer "Microforum"
+	users 2
 	rom ( crc 85102799 )
 )
 
 game (
 	comment "Surging Aura (Japan)"
-	developer "Japan Media Programming Inc."
+	users 1
 	rom ( crc 65AC1D2B )
 )
 
 game (
 	comment "Superman (USA)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 543A5869 )
 )
 
 game (
 	comment "Superman - The Man of Steel (Europe)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 7DB434BA )
 )
 
 game (
 	comment "Sword of Sodan (Japan)"
-	developer "Soren Gronbech"
+	users 1
 	rom ( crc 58EDB3F3 )
 )
 
 game (
 	comment "Sword of Sodan (USA, Europe)"
-	developer "Soren Gronbech"
+	users 1
 	rom ( crc 9CB8468F )
 )
 
 game (
 	comment "Sword of Vermilion (USA, Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc EA1BC9AB )
 )
 
 game (
 	comment "Sword of Vermilion (USA, Europe) (1993-11-18) (Sega Channel)"
-	developer "SEGA"
+	users 1
 	rom ( crc F38C50BF )
 )
 
 game (
 	comment "Syd of Valis (USA)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc 37DC0108 )
 )
 
 game (
 	comment "Sylvester & Tweety in Cagey Capers (USA, Europe)"
-	developer "Time Warner Interactive"
+	users 1
 	rom ( crc 89FC54CE )
 )
 
 game (
 	comment "Syndicate (USA, Europe) (En,Fr,De)"
-	developer "Bullfrog"
+	users 1
 	rom ( crc 95BBF87B )
 )
 
 game (
 	comment "T2 - Terminator 2 - Judgment Day (USA, Europe)"
-	developer "Flying Edge"
+	users 1
 	rom ( crc 2F75E896 )
 )
 
 game (
 	comment "T2 - The Arcade Game (USA, Europe)"
-	developer "Arena Entertainment"
+	users 2
 	rom ( crc A1264F17 )
 )
 
 game (
 	comment "T2 - The Arcade Game (Japan)"
-	developer "Arena Entertainment"
+	users 2
 	rom ( crc 5E6FE52C )
 )
 
 game (
-	comment "Taikou Risshiden (Japan)"
-	developer "Koei"
-	rom ( crc F96FE15B )
-)
-
-game (
 	comment "TaleSpin (USA, Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc F5C0C8D0 )
 )
 
 game (
 	comment "Talmit's Adventure (Europe)"
-	developer "Namco"
+	users 1
 	rom ( crc 05DC3FFC )
 )
 
 game (
 	comment "Target Earth (USA, Europe) (Switch Online)"
-	developer "NCS Corporation"
+	users 1
 	rom ( crc F1CDCDCD )
 )
 
 game (
 	comment "Target Earth (USA)"
-	developer "NCS Corporation"
+	users 1
 	rom ( crc CDDF62D3 )
 )
 
 game (
 	comment "Task Force Harrier EX (Japan)"
-	developer "UPL"
+	users 1
 	rom ( crc E9A54EED )
 )
 
 game (
 	comment "Task Force Harrier EX (USA)"
-	developer "UPL"
+	users 1
 	rom ( crc C8BB0257 )
 )
 
 game (
 	comment "Tatsujin ~ Truxton (World)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 5BD0882D )
 )
 
 game (
 	comment "Taz in Escape from Mars (Europe)"
-	developer "SEGA"
+	users 1
 	rom ( crc 62100099 )
 )
 
 game (
 	comment "Taz in Escape from Mars (USA)"
-	developer "SEGA"
+	users 1
 	rom ( crc 62009F8C )
 )
 
 game (
 	comment "Taz-Mania (World)"
-	developer "SEGA"
+	users 1
 	rom ( crc 0E901F45 )
 )
 
 game (
 	comment "Team USA Basketball (USA, Europe)"
-	developer "Electronic Arts"
+	users 2
 	rom ( crc A0CAF97E )
 )
 
 game (
 	comment "TechnoClash (USA, Europe)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc 4E65E483 )
 )
 
 game (
 	comment "Technocop (USA)"
-	developer "Gray Matter"
+	users 1
 	rom ( crc 7459AD06 )
 )
 
 game (
 	comment "Tecmo Super Baseball (USA)"
-	developer "Sculptured Software"
+	users 2
 	rom ( crc 227A1178 )
 )
 
 game (
 	comment "Tecmo Super Bowl (Japan)"
-	developer "Tecmo"
+	users 2
 	rom ( crc 90C6E20C )
 )
 
 game (
 	comment "Tecmo Super Bowl (USA)"
-	developer "Tecmo"
+	users 2
 	rom ( crc BD5933EE )
 )
 
 game (
 	comment "Tecmo Super Bowl II - Special Edition (Japan)"
-	developer "Tecmo"
+	users 2
 	rom ( crc 32FB633D )
 )
 
 game (
 	comment "Tecmo Super Bowl II - Special Edition (USA)"
-	developer "Tecmo"
+	users 2
 	rom ( crc 0A0E67D8 )
 )
 
 game (
 	comment "Tecmo Super Bowl III - Final Edition (USA)"
-	developer "Tecmo"
+	users 2
 	rom ( crc AAE4089F )
 )
 
 game (
 	comment "Tecmo Super Hockey (USA)"
-	developer "Tecmo"
+	users 2
 	rom ( crc 5F86DDC9 )
 )
 
 game (
 	comment "Tecmo Super NBA Basketball (Japan)"
-	developer "Tecmo"
+	users 2
 	rom ( crc 79F33EB6 )
 )
 
 game (
 	comment "Tecmo Super NBA Basketball (USA)"
-	developer "Tecmo"
+	users 2
 	rom ( crc 53913991 )
 )
 
 game (
 	comment "Tecmo World Cup (USA)"
-	developer "Sims"
+	users 2
 	rom ( crc CAF8EB2C )
 )
 
 game (
 	comment "Tecmo World Cup '92 (Japan)"
-	developer "Sims"
+	users 2
 	rom ( crc 5E93C8B0 )
 )
 
 game (
 	comment "Teddy Boy Blues (Japan) (SegaNet)"
-	developer "SEGA"
+	users 1
 	rom ( crc 733D2EB3 )
 )
 
 game (
 	comment "Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe)"
-	developer "Konami"
+	users 2
 	rom ( crc 966D5286 )
 )
 
 game (
 	comment "Teenage Mutant Hero Turtles - Tournament Fighters (Europe)"
-	developer "Konami"
+	users 2
 	rom ( crc 3CD2B7E6 )
 )
 
 game (
 	comment "Teenage Mutant Ninja Turtles - Return of the Shredder (Japan)"
-	developer "Konami"
+	users 2
 	rom ( crc 1B003498 )
 )
 
 game (
 	comment "Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)"
-	developer "Konami"
+	users 2
 	rom ( crc 679C41DE )
 )
 
 game (
 	comment "Teenage Mutant Ninja Turtles - Tournament Fighters (Japan)"
-	developer "Konami"
+	users 2
 	rom ( crc 8843F2C9 )
 )
 
 game (
 	comment "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)"
-	developer "Konami"
+	users 2
 	rom ( crc 95B5484D )
 )
 
 game (
 	comment "Teitoku no Ketsudan (Japan)"
-	developer "Koei"
+	users 2
 	rom ( crc 9B08E4E4 )
 )
 
 game (
 	comment "Tel-Tel Stadium (Japan)"
-	developer "Sunsoft"
+	users 2
 	rom ( crc 54CF8C29 )
 )
 
 game (
 	comment "Tel-Tel Mahjong (Japan)"
-	developer "Sunsoft"
+	users 1
 	rom ( crc 44817E92 )
 )
 
 game (
 	comment "Terminator, The (Europe)"
-	developer "Probe Software"
+	users 1
 	rom ( crc 15F4D302 )
 )
 
 game (
 	comment "Tetris (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc 4CE90DB0 )
 )
 
 game (
 	comment "Terminator, The (USA)"
-	developer "Probe Software"
+	users 1
 	rom ( crc 31A629BE )
 )
 
 game (
 	comment "Tetris (USA) (Genesis Mini)"
-	developer "SEGA"
+	users 2
 	rom ( crc C8DD8841 )
 )
 
 game (
 	comment "Thomas the Tank Engine & Friends (USA)"
-	developer "Malibu Games"
+	users 1
 	rom ( crc 1A406299 )
 )
 
 game (
 	comment "Tetris (Japan) (Mega Drive Mini)"
-	developer "SEGA"
+	users 2
 	rom ( crc b6fb7a7d )
 )
 
 game (
 	comment "Theme Park (USA, Europe) (En,Fr,De,Es)"
-	developer "Bullfrog"
+	users 1
 	rom ( crc 289DA2C5 )
 )
 
 game (
 	comment "Thunder Force II (USA, Europe)"
-	developer "Technosoft"
+	users 1
 	rom ( crc 9B1561B3 )
 )
 
 game (
 	comment "Thunder Force III (Japan, USA) (En)"
-	developer "Technosoft"
+	users 1
 	rom ( crc 1B3F399A )
 )
 
 game (
 	comment "Thunder Force II MD (Japan)"
-	developer "Technosoft"
+	users 1
 	rom ( crc E75EC3E0 )
 )
 
 game (
 	comment "Thunder Force IV (World) (Sega Ages)"
-	developer "Technosoft"
+	users 1
 	rom ( crc 311d9d4a )
 )
 
 game (
 	comment "Thunder Force IV (Europe)"
-	developer "Technosoft"
+	users 1
 	rom ( crc E7E3C05B )
 )
 
 game (
 	comment "Thunder Force IV (Japan)"
-	developer "Technosoft"
+	users 1
 	rom ( crc 8D606480 )
 )
 
 game (
 	comment "Thunder Fox (Japan)"
-	developer "Aisystem Tokyo"
+	users 1
 	rom ( crc ECA6CFFA )
 )
 
 game (
 	comment "Thunder Fox (USA)"
-	developer "Aisystem Tokyo"
+	users 1
 	rom ( crc 5463F50F )
 )
 
 game (
 	comment "Tick, The (USA)"
-	developer "Software Creations"
+	users 1
 	rom ( crc 425132F0 )
 )
 
 game (
 	comment "Thunder Pro Wrestling Retsuden (Japan)"
-	developer "Human"
+	users 1
 	rom ( crc 24408C73 )
 )
 
 game (
 	comment "Time Dominator 1st (Japan, Korea) (Ja)"
-	developer "Vic Tokai Corporation"
+	users 1
 	rom ( crc 7EBA7A5C )
 )
 
 game (
 	comment "Time Killers (Europe)"
-	developer "Black Pearl Software"
+	users 2
 	rom ( crc A4F48A1A )
 )
 
 game (
 	comment "Time Killers (USA)"
-	developer "Black Pearl Software"
+	users 2
 	rom ( crc 4B5F52AC )
 )
 
 game (
 	comment "Tinhead (USA) (Ballistic) (April, 1994)"
-	developer "MicroProse"
+	users 1
 	rom ( crc D6724B84 )
 )
 
 game (
 	comment "Tinhead (USA) (Spectrum HoloByte) (October, 1995)"
-	developer "MicroProse"
+	users 1
 	rom ( crc ADA75F2F )
 )
 
 game (
 	comment "Tiny Toon Adventures (Korea) (En)"
-	developer "Konami"
+	users 4
 	rom ( crc 4CA3A8FB )
 )
 
 game (
 	comment "Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)"
-	developer "Infogrames"
+	users 1
 	rom ( crc 4243CAF3 )
 )
 
 game (
 	comment "Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)"
-	developer "Konami"
+	users 4
 	rom ( crc 1227B2B2 )
 )
 
 game (
 	comment "Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En)"
-	developer "Konami"
+	users 4
 	rom ( crc 2F9FAA1D )
 )
 
 game (
 	comment "Tiny Toon Adventures - Buster's Hidden Treasure (Europe)"
-	developer "Konami"
+	users 1
 	rom ( crc D10FBA51 )
 )
 
 game (
 	comment "Tiny Toon Adventures - Buster's Hidden Treasure (USA)"
-	developer "Konami"
+	users 1
 	rom ( crc A26D3AE0 )
 )
 
 game (
 	comment "TNN Bass Tournament of Champions (USA)"
-	developer "Imagitec Design"
+	users 1
 	rom ( crc C83FFA1B )
 )
 
 game (
 	comment "TNN Outdoors Bass Tournament '96 (USA)"
-	developer "Imagitec Design"
+	users 1
 	rom ( crc 5C523C0B )
 )
 
 game (
 	comment "Todd's Adventures in Slime World (USA)"
-	developer "Micro World"
+	users 2
 	rom ( crc 652E8B7D )
 )
 
 game (
 	comment "ToeJam & Earl (USA, Europe, Korea) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc D1B36786 )
 )
 
 game (
 	comment "ToeJam & Earl (Japan, Europe) (En) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc 7A588F4B )
 )
 
 game (
 	comment "ToeJam & Earl in Panic on Funkotron (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 47B0A871 )
 )
 
 game (
 	comment "ToeJam & Earl in Panic on Funkotron (Asia) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc E1B36850 )
 )
 
 game (
 	comment "ToeJam & Earl in Panic on Funkotron (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc AA021BDD )
 )
 
 game (
 	comment "ToeJam & Earl in Panic on Funkotron (USA) (1993-09-11) (Sega Channel)"
-	developer "SEGA"
+	users 2
 	rom ( crc D9DFBB5C )
 )
 
 game (
 	comment "ToeJam & Earl in Panik auf Funkotron (Germany)"
-	developer "SEGA"
+	users 2
 	rom ( crc 4081B9F2 )
 )
 
 game (
 	comment "Toki - Going Ape Spit (USA, Europe)"
-	developer "Tad Corporation"
+	users 2
 	rom ( crc 7362C3F4 )
 )
 
 game (
 	comment "Toki no Keishousha - Phantasy Star III (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 6C48C06F )
 )
 
 game (
 	comment "Tom and Jerry - Frantic Antics (Japan) (En)"
-	developer "Beam Software"
+	users 2
 	rom ( crc F800C814 )
 )
 
 game (
 	comment "Tom and Jerry - Frantic Antics! (USA)"
-	developer "Beam Software"
+	users 2
 	rom ( crc 3044460C )
 )
 
 game (
 	comment "Tom Mason's Dinosaurs for Hire (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc 39351146 )
 )
 
 game (
 	comment "Tommy Lasorda Baseball (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc AA3965DB )
 )
 
 game (
 	comment "Tommy Lasorda Baseball (USA) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc 4FB50304 )
 )
 
 game (
 	comment "Tony La Russa Baseball (USA, Australia)"
-	developer "Beyond Software, Inc."
+	users 2
 	rom ( crc 24629C78 )
 )
 
 game (
 	comment "Top Pro Golf (Japan)"
-	developer "Coconuts Japan"
+	users 2
 	rom ( crc 62BAD606 )
 )
 
 game (
 	comment "Top Pro Golf 2 (Japan)"
-	developer "Virgin"
+	users 4
 	rom ( crc B8CE98B3 )
 )
 
 game (
 	comment "Top Gear 2 (USA)"
-	developer "Gremlin Interactive"
+	users 2
 	rom ( crc BD3074D2 )
 )
 
 game (
 	comment "Total Football (Europe)"
-	developer "Domark"
+	users 2
 	rom ( crc 8360B66A )
 )
 
 game (
 	comment "Toughman Contest (USA, Europe)"
-	developer "EA Sports"
+	users 2
 	rom ( crc E19FBC93 )
 )
 
 game (
 	comment "Tougiou King Colossus (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc FFE7B3C7 )
 )
 
 game (
 	comment "Toxic Crusaders (USA)"
-	developer "Infogrames"
+	users 2
 	rom ( crc 11FD46CE )
 )
 
 game (
 	comment "Toys - Let the Toy Wars begin! (USA)"
-	developer "Imagineer"
+	users 1
 	rom ( crc CBC9951B )
 )
 
 game (
 	comment "Toy Story (Europe)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc 8E89A9F3 )
 )
 
 game (
 	comment "Toy Story (USA)"
-	developer "Disney Interactive"
+	users 1
 	rom ( crc 829FE313 )
 )
 
 game (
 	comment "Trampoline Terror! (USA)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc AABB349F )
 )
 
 game (
 	comment "Traysia (USA)"
-	developer "Renovation Products"
+	users 1
 	rom ( crc 96184F4F )
 )
 
 game (
 	comment "Triple Play - Gold Edition (USA)"
-	developer "Treyarch Corporation"
+	users 4
 	rom ( crc C25FF3F2 )
 )
 
 game (
 	comment "Triple Play 96 (USA)"
-	developer "Extended Play Productions"
+	users 4
 	rom ( crc 565E2F2E )
 )
 
 game (
 	comment "True Lies (World)"
-	developer "Beam Software"
+	users 1
 	rom ( crc 18C09468 )
 )
 
 game (
 	comment "Troy Aikman NFL Football (USA)"
-	developer "Williams"
+	users 2
 	rom ( crc 015F2713 )
 )
 
 game (
 	comment "Trouble Shooter (USA)"
-	developer "Tokai Engineering"
+	users 1
 	rom ( crc BECFC39B )
 )
 
 game (
 	comment "Turbo OutRun (Japan, Europe) (En)"
-	developer "AM2"
+	users 1
 	rom ( crc 0C661369 )
 )
 
 game (
 	comment "Turma da Monica na Terra dos Monstros (Brazil)"
-	developer "Westone"
+	users 1
 	rom ( crc F8288DE1 )
 )
 
 game (
 	comment "Twin Cobra - Desert Attack Helicopter (USA)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 2C708248 )
 )
 
 game (
 	comment "Twinkle Tale (Japan)"
-	developer "ZAP"
+	users 1
 	rom ( crc D757F924 )
 )
 
 game (
 	comment "Two Crude Dudes (Europe)"
-	developer "Data East"
+	users 2
 	rom ( crc B6D90A10 )
 )
 
 game (
 	comment "Two Crude Dudes (USA)"
-	developer "Data East"
+	users 2
 	rom ( crc 721B5744 )
 )
 
 game (
 	comment "Two Tribes - Populous II (Europe)"
-	developer "Bullfrog"
+	users 1
 	rom ( crc EE988BD9 )
 )
 
 game (
 	comment "Tyrants - Fight Through Time (USA)"
-	developer "Sensible Software"
+	users 1
 	rom ( crc A744921E )
 )
 
 game (
 	comment "Ultimate Mortal Kombat 3 (Europe)"
-	developer "Midway"
+	users 2
 	rom ( crc ECFB5CB4 )
 )
 
 game (
 	comment "Ultimate Mortal Kombat 3 (USA)"
-	developer "Midway"
+	users 2
 	rom ( crc 7290770D )
 )
 
 game (
 	comment "Uchuu Senkan Gomora (Japan)"
-	developer "Aisystem Tokyo"
+	users 2
 	rom ( crc C511E8D2 )
 )
 
 game (
 	comment "Ultimate QIX (USA)"
-	developer "Taito"
+	users 1
 	rom ( crc D83369D9 )
 )
 
 game (
 	comment "Ultimate Soccer (Europe) (En,Fr,De,Es,It)"
-	developer "SEGA"
+	users 8
 	rom ( crc 83DB6E58 )
 )
 
 game (
 	comment "Ultraman (Japan)"
-	developer "BEC"
+	users 8
 	rom ( crc 83B4D5FB )
 )
 
 game (
 	comment "Uncharted Waters (USA)"
-	developer "Koei"
+	users 1
 	rom ( crc 4EDAEC59 )
 )
 
 game (
 	comment "Unnecessary Roughness '95 (USA)"
-	developer "Accolade"
+	users 4
 	rom ( crc 9920E7B7 )
 )
 
 game (
 	comment "Undead Line (Japan)"
-	developer "T&E Soft"
+	users 1
 	rom ( crc FB3CA1E6 )
 )
 
 game (
 	comment "Urban Strike (USA, Europe)"
-	developer "Electronic Arts"
+	users 1
 	rom ( crc CF690A75 )
 )
 
 game (
-	comment "Uzu Keobukseon (Korea)"
-	developer "Samsung"
-	rom ( crc A7255BA8 )
-)
-
-game (
 	comment "V-V (Japan)"
-	developer "Toaplan"
+	users 1
 	rom ( crc AD9D0EC0 )
 )
 
 game (
 	comment "Valis (USA)"
-	developer "Riot"
+	users 1
 	rom ( crc 13BC5B72 )
 )
 
 game (
 	comment "Valis III (Japan)"
-	developer "Telenet"
+	users 1
 	rom ( crc 4D49A166 )
 )
 
 game (
 	comment "Vampire Killer (Japan) (Castlevania Anniversary Collection)"
-	developer "Konami"
+	users 1
 	rom ( crc 238a9b8f )
 )
 
 game (
 	comment "Valis III (USA)"
-	developer "Telenet"
+	users 1
 	rom ( crc 59A2A368 )
 )
 
 game (
 	comment "Vampire Killer (Japan) (Mega Drive Mini)"
-	developer "Konami"
+	users 1
 	rom ( crc db03961b )
 )
 
 game (
 	comment "Vampire Killer (Japan)"
-	developer "Konami"
+	users 1
 	rom ( crc 91B57D2B )
 )
 
 game (
 	comment "Vapor Trail (USA)"
-	developer "Data East"
+	users 2
 	rom ( crc C49E3A0A )
 )
 
 game (
 	comment "Vectorman (USA) (Genesis Mini)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc b0f8c546 )
 )
 
 game (
 	comment "Vectorman (USA, Europe)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc D38B3354 )
 )
 
 game (
 	comment "Vectorman 2 (USA)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc C1A24088 )
 )
 
 game (
 	comment "Vectorman (USA, Europe) (Sega Smash Pack 2)"
-	developer "BlueSky Software"
+	users 1
 	rom ( crc 5C680397 )
 )
 
 game (
 	comment "Venom . Spider-Man - Separation Anxiety (USA, Europe)"
-	developer "Software Creations"
+	users 2
 	rom ( crc 512ADE32 )
 )
 
 game (
 	comment "Vermilion (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc E400DFC3 )
 )
 
 game (
 	comment "Verytex (Japan)"
-	developer "Asmik"
+	users 1
 	rom ( crc BAFC375F )
 )
 
 game (
 	comment "Vermilion (Japan) (Mega Drive Mini)"
-	developer "SEGA"
+	users 1
 	rom ( crc 5af97a22 )
 )
 
 game (
 	comment "Viewpoint (USA)"
-	developer "Sammy Studios"
+	users 2
 	rom ( crc 59C71866 )
 )
 
 game (
 	comment "Virtua Fighter 2 (Korea) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc A95D0949 )
 )
 
 game (
 	comment "Virtua Fighter 2 (USA, Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 937380F3 )
 )
 
 game (
 	comment "Virtua Racing (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 9624D4EF )
 )
 
 game (
 	comment "Virtua Racing (Japan)"
-	developer "SEGA"
+	users 2
 	rom ( crc 53A293B5 )
 )
 
 game (
 	comment "Virtua Racing (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc 7E1A324A )
 )
 
 game (
 	comment "Virtual Bart (World)"
-	developer "Sculptured Software"
+	users 1
 	rom ( crc 8DB9F378 )
 )
 
 game (
 	comment "Virtual Pinball (USA, Europe)"
-	developer "Headgames"
+	users 4
 	rom ( crc D63473AA )
 )
 
 game (
 	comment "Vixen 357 (Japan)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 3AFA2D7B )
 )
 
 game (
 	comment "Volfied (Japan)"
-	developer "Taito"
+	users 1
 	rom ( crc B0C5E3F7 )
 )
 
 game (
 	comment "VR Troopers (USA, Europe)"
-	developer "Syrox Developments, Ltd."
+	users 1
 	rom ( crc 2F35516E )
 )
 
 game (
 	comment "Wacky Worlds Creativity Studio (USA)"
-	developer "Jar Head Games"
+	users 1
 	rom ( crc 8AF4552D )
 )
 
 game (
 	comment "Wani Wani World (Japan)"
-	developer "Kaneko"
+	users 2
 	rom ( crc 56F0DBB2 )
 )
 
 game (
 	comment "Wardner (USA)"
-	developer "Mentrix Software"
+	users 1
 	rom ( crc 1E369AE2 )
 )
 
 game (
 	comment "Wardner no Mori Special (Japan)"
-	developer "Mentrix Software"
+	users 1
 	rom ( crc 80F1035C )
 )
 
 game (
 	comment "Warlock (USA, Europe)"
-	developer "Realtime Associates"
+	users 1
 	rom ( crc 0A46539B )
 )
 
 game (
 	comment "Warrior of Rome (USA)"
-	developer "Micronet"
+	users 1
 	rom ( crc 5BE10C6A )
 )
 
 game (
 	comment "Warrior of Rome II (USA)"
-	developer "Micronet"
+	users 2
 	rom ( crc CD8C472A )
 )
 
 game (
 	comment "Warsong (USA)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 4B680285 )
 )
 
 game (
 	comment "Wayne Gretzky and the NHLPA All-Stars (USA, Europe)"
-	developer "Time Warner Interactive"
+	users 4
 	rom ( crc C2C13B81 )
 )
 
 game (
 	comment "WeaponLord (USA)"
-	developer "Visual Concepts"
+	users 2
 	rom ( crc B9895365 )
 )
 
 game (
 	comment "Wayne's World (USA)"
-	developer "Gray Matter"
+	users 1
 	rom ( crc D2CF6EBE )
 )
 
 game (
 	comment "Wheel of Fortune (USA)"
-	developer "Imagitec Design"
+	users 3
 	rom ( crc C8D8EFC3 )
 )
 
 game (
 	comment "Where in the World Is Carmen Sandiego (Brazil) (Es,Pt)"
-	developer "Brøderbund Software"
+	users 1
 	rom ( crc 7D4450AD )
 )
 
 game (
 	comment "Where in Time Is Carmen Sandiego (Brazil) (Es,Pt)"
-	developer "Brøderbund Software"
+	users 1
 	rom ( crc D523B552 )
 )
 
 game (
 	comment "Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)"
-	developer "Brøderbund Software"
+	users 1
 	rom ( crc EEF372E8 )
 )
 
 game (
 	comment "Where in Time Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)"
-	developer "Brøderbund Software"
+	users 1
 	rom ( crc EA19D4A4 )
 )
 
 game (
 	comment "Whip Rush (USA)"
-	developer "Vic Tokai Corporation"
+	users 1
 	rom ( crc 7EB6B86B )
 )
 
 game (
 	comment "Whip Rush - Wakusei Voltegas no Nazo (Japan)"
-	developer "Vic Tokai Corporation"
+	users 1
 	rom ( crc 8084B4D1 )
 )
 
 game (
 	comment "Williams Arcade's Greatest Hits (USA)"
-	developer "Williams"
+	users 2
 	rom ( crc D68E9C00 )
 )
 
 game (
 	comment "Wimbledon (Europe)"
-	developer "SEGA"
+	users 4
 	rom ( crc B791A435 )
 )
 
 game (
 	comment "Wimbledon Championship Tennis (USA)"
-	developer "SEGA"
+	users 4
 	rom ( crc F9142AEE )
 )
 
 game (
 	comment "Wimbledon Championship Tennis (Japan)"
-	developer "SEGA"
+	users 4
 	rom ( crc 3E0C9DAF )
 )
 
 game (
 	comment "Wings of Wor (USA)"
-	developer "Masaya Games"
+	users 1
 	rom ( crc 210A2FCD )
 )
 
 game (
 	comment "Winter Challenge (USA, Europe) (Rev 1)"
-	developer "MindSpan"
+	users 8
 	rom ( crc F57C7068 )
 )
 
 game (
 	comment "Winter Olympic Games (USA) (En,Fr,De,Es,It,Pt,Sv,No)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc C5834437 )
 )
 
 game (
 	comment "Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc FA537A45 )
 )
 
 game (
 	comment "Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc 654A4684 )
 )
 
 game (
 	comment "Wiz 'N' Liz (USA)"
-	developer "Psygnosis"
+	users 2
 	rom ( crc DF036B62 )
 )
 
 game (
 	comment "Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)"
-	developer "Psygnosis"
+	users 2
 	rom ( crc F09353B4 )
 )
 
 game (
 	comment "Wolfchild (USA)"
-	developer "Core Design"
+	users 1
 	rom ( crc EB5B1CBF )
 )
 
 game (
 	comment "Wizard of the Immortal (Japan)"
-	developer "Sandcastle"
+	users 1
 	rom ( crc C99FAD92 )
 )
 
 game (
 	comment "Wolverine - Adamantium Rage (USA, Europe)"
-	developer "Teeny Weeny Games"
+	users 1
 	rom ( crc D2437BB7 )
 )
 
 game (
 	comment "Wonder Boy III - Monster Lair (Japan, Europe) (En)"
-	developer "Westone"
+	users 2
 	rom ( crc C24BC5E4 )
 )
 
 game (
 	comment "Wonder Boy in Monster World (USA, Europe)"
-	developer "Westone"
+	users 1
 	rom ( crc 0d901482 )
 )
 
 game (
-	comment "Wonder Library (Japan) (Program)"
-	developer "Victor Entertainment"
-	rom ( crc 9350E754 )
-)
-
-game (
 	comment "Wonder Boy V - Monster World III (Japan, Korea) (Ja)"
-	developer "Westone"
+	users 1
 	rom ( crc 45A50F96 )
 )
 
 game (
 	comment "World Championship Soccer II (USA)"
-	developer "SEGA"
+	users 4
 	rom ( crc C1DD1C8E )
 )
 
 game (
 	comment "World Championship Soccer II (Europe)"
-	developer "SEGA"
+	users 4
 	rom ( crc 6065774D )
 )
 
 game (
 	comment "World Class Leader Board (Europe)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc DACA01C3 )
 )
 
 game (
 	comment "World Class Leaderboard Golf (USA)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc 53434BAB )
 )
 
 game (
 	comment "World Cup Italia '90 (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc DD95F829 )
 )
 
 game (
 	comment "World Cup Soccer (Japan) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc B01C3D70 )
 )
 
 game (
 	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev B)"
-	developer "SEGA"
+	users 2
 	rom ( crc BF272BCB )
 )
 
 game (
 	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 6363EF45 )
 )
 
 game (
 	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev A)"
-	developer "SEGA"
+	users 2
 	rom ( crc BF84EDE6 )
 )
 
 game (
 	comment "World Cup USA 94 (USA, Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv)"
-	developer "U.S. Gold"
+	users 4
 	rom ( crc 0171B47F )
 )
 
 game (
 	comment "World Heroes (Asia) (En)"
-	developer "ADK"
+	users 2
 	rom ( crc 56E3CEFF )
 )
 
 game (
 	comment "World Heroes (USA)"
-	developer "ADK"
+	users 2
 	rom ( crc 0F4D22EC )
 )
 
 game (
 	comment "World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 921EBD1C )
 )
 
 game (
 	comment "World of Illusion Starring Mickey Mouse and Donald Duck (Europe)"
-	developer "SEGA"
+	users 2
 	rom ( crc 121C6A49 )
 )
 
 game (
 	comment "World Series Baseball (USA)"
-	developer "SEGA"
+	users 2
 	rom ( crc 57C1D5EC )
 )
 
 game (
 	comment "World Series Baseball '96 (USA)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc 04EE8272 )
 )
 
 game (
 	comment "World Series Baseball '95 (USA)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc 25130077 )
 )
 
 game (
 	comment "World Series Baseball 98 (USA)"
-	developer "BlueSky Software"
+	users 2
 	rom ( crc 05B1AB53 )
 )
 
 game (
 	comment "World Trophy Soccer (USA)"
-	developer "Krisalis Software"
+	users 2
 	rom ( crc 6E3EDC7C )
 )
 
 game (
 	comment "Worms (Europe) (Beta)"
-	developer "Ocean"
+	users 4
 	rom ( crc 5f9e85df )
 )
 
 game (
 	comment "Worms (Europe)"
-	developer "Ocean"
+	users 4
 	rom ( crc B9A8B299 )
 )
 
 game (
 	comment "Wrestle War (Japan, Europe) (En)"
-	developer "SEGA"
+	users 2
 	rom ( crc 2D162A85 )
 )
 
 game (
 	comment "Wrestleball (Japan)"
-	developer "Namco"
+	users 2
 	rom ( crc D563E07F )
 )
 
 game (
 	comment "WWF RAW (World)"
-	developer "Sculptured Software"
+	users 4
 	rom ( crc fbb1e120 )
 )
 
 game (
 	comment "WWF Royal Rumble (World)"
-	developer "Sculptured Software"
+	users 2
 	rom ( crc B69DC53E )
 )
 
 game (
 	comment "WWF Super WrestleMania (USA, Europe)"
-	developer "Flying Edge"
+	users 2
 	rom ( crc B929D6C5 )
 )
 
 game (
 	comment "WWF WrestleMania - The Arcade Game (USA, Europe)"
-	developer "Sculptured Software"
+	users 2
 	rom ( crc A5D023F9 )
 )
 
 game (
 	comment "X-Men (Europe)"
-	developer "Western Technologies"
+	users 2
 	rom ( crc 0B78CA97 )
 )
 
 game (
 	comment "X-Men (USA)"
-	developer "Western Technologies"
+	users 2
 	rom ( crc F71B21B4 )
 )
 
 game (
 	comment "X-Men 2 - Clone Wars (USA, Europe)"
-	developer "Headgames"
+	users 2
 	rom ( crc 710BC628 )
 )
 
 game (
 	comment "X-Perts (USA)"
-	developer "Abalone"
+	users 1
 	rom ( crc 57E8ABFD )
 )
 
 game (
 	comment "Xenon 2 - Megablast (Europe)"
-	developer "The Bitmap Brothers"
+	users 2
 	rom ( crc 59ABE7F9 )
 )
 
 game (
 	comment "XDR - X-Dazedly-Ray (Japan)"
-	developer "Affect"
+	users 1
 	rom ( crc AB22D002 )
 )
 
 game (
 	comment "Yogi Bear - Cartoon Capers (Europe)"
-	developer "Blue Turtle"
+	users 2
 	rom ( crc 204F97D8 )
 )
 
 game (
 	comment "Ys - Wanderers from Ys (Japan)"
-	developer "Nihon Falcom"
+	users 1
 	rom ( crc 52DA4E76 )
 )
 
 game (
 	comment "Ys III (USA)"
-	developer "Nihon Falcom"
+	users 1
 	rom ( crc EA27976E )
 )
 
 game (
 	comment "Yu Yu Hakusho Gaiden (Japan)"
-	developer "SEGA"
+	users 1
 	rom ( crc 7DC98176 )
 )
 
 game (
 	comment "Yu Yu Hakusho - Makyou Toitsusen (Japan)"
-	developer "Treasure"
+	users 4
 	rom ( crc 71CEAC6F )
 )
 
 game (
 	comment "YuYu Hakusho - Sunset Fighters (Brazil)"
-	developer "Treasure"
+	users 4
 	rom ( crc FE3FB8EE )
 )
 
 game (
 	comment "Zan Yasha Enbukyoku (Japan)"
-	developer "Wolf Team"
+	users 2
 	rom ( crc 637FE8F3 )
 )
 
 game (
 	comment "Zany Golf (USA, Europe)"
-	developer "Sandcastle"
+	users 4
 	rom ( crc 74ED7607 )
 )
 
 game (
 	comment "Zero the Kamikaze Squirrel (Europe)"
-	developer "Iguana Entertainment"
+	users 1
 	rom ( crc 45FF0B4B )
 )
 
 game (
 	comment "Zero the Kamikaze Squirrel (USA)"
-	developer "Iguana Entertainment"
+	users 1
 	rom ( crc 423968DF )
 )
 
 game (
 	comment "Zero Tolerance (USA, Europe) (Rev A)"
-	developer "Accolade"
+	users 1
 	rom ( crc 23F603F5 )
 )
 
 game (
 	comment "Zero Wing (Europe)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 89B744A3 )
 )
 
 game (
 	comment "Zombies (Europe)"
-	developer "LucasArts"
+	users 2
 	rom ( crc 179A1AA2 )
 )
 
 game (
 	comment "Zero Wing (Japan)"
-	developer "Toaplan"
+	users 1
 	rom ( crc 7E203D2B )
 )
 
 game (
 	comment "Zombies Ate My Neighbors (USA)"
-	developer "LucasArts"
+	users 2
 	rom ( crc 2BF3626F )
 )
 
 game (
 	comment "Zool - Ninja of the 'Nth' Dimension (Europe)"
-	developer "Gremlin Interactive"
+	users 1
 	rom ( crc 1EE58B03 )
 )
 
 game (
 	comment "Zool - Ninja of the 'Nth' Dimension (USA)"
-	developer "Gremlin Interactive"
+	users 1
 	rom ( crc CB2939F1 )
 )
 
 game (
 	comment "Zoop (Europe)"
-	developer "Viacom New Media"
+	users 1
 	rom ( crc 0764139f )
 )
 
 game (
 	comment "Zoom! (World)"
-	developer "Sigma Pro-Tech"
+	users 2
 	rom ( crc 724D6965 )
 )
 
 game (
 	comment "Zoop (USA)"
-	developer "Viacom New Media"
+	users 1
 	rom ( crc faa490dc )
 )
 
 game (
 	comment "Zou! Zou! Zou! Rescue Daisakusen (Japan)"
-	developer "Vectordean"
+	users 1
 	rom ( crc 1A761E67 )
 )
 

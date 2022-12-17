@@ -1,4 +1,9569 @@
 clrmamepro (
-	name "Sega Genesis/Mega Drive"
+	name "Sega - Mega Drive - Genesis"
+	description "Sega - Mega Drive - Genesis"
+)
+
+game (
+	comment "16t (Japan) (Game no Kanzume Otokuyou)"
+	publisher "SEGA"
+	rom ( crc 98149EAF )
+)
+
+game (
+	comment "10 Super Jogos (Brazil) (En)"
+	publisher "Tec Toy"
+	rom ( crc C19AE368 )
+)
+
+game (
+	comment "16t (Japan) (Game no Kanzume Vol. 2)"
+	publisher "SEGA"
+	rom ( crc 0FFFE8E4 )
+)
+
+game (
+	comment "2020 Nen Super Baseball (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 2BBEE127 )
+)
+
+game (
+	comment "007 Shitou - The Duel (Japan)"
+	publisher "Domark"
+	rom ( crc AEB4B262 )
+)
+
+game (
+	comment "16t (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 537F04B6 )
+)
+
+game (
+	comment "6-Pak (USA)"
+	publisher "SEGA"
+	rom ( crc 1A6F45DC )
+)
+
+game (
+	comment "3 Ninjas Kick Back (USA)"
+	publisher "Psygnosis"
+	rom ( crc E5A24999 )
+)
+
+game (
+	comment "688 Attack Sub (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc F2C58BF7 )
+)
+
+game (
+	comment "A Ressha de Ikou MD (Japan)"
+	publisher "SEGA"
+	rom ( crc 3D45DE4F )
+)
+
+game (
+	comment "Aaahh!!! Real Monsters (Europe)"
+	publisher "Realtime Associates"
+	rom ( crc 7AD115FF )
+)
+
+game (
+	comment "Aaahh!!! Real Monsters (USA)"
+	publisher "Realtime Associates"
+	rom ( crc FDC80BFC )
+)
+
+game (
+	comment "Aa Harimanada (Japan)"
+	publisher "SEGA"
+	rom ( crc 065F6021 )
+)
+
+game (
+	comment "Addams Family Values (Europe) (En,Fr,De)"
+	publisher "Ocean"
+	rom ( crc B906B992 )
+)
+
+game (
+	comment "Addams Family, The (USA, Europe)"
+	publisher "Ocean"
+	rom ( crc 71F58614 )
+)
+
+game (
+	comment "Advanced Daisenryaku - Deutsch Dengeki Sakusen (Japan) (Rev A)"
+	publisher "SEGA"
+	rom ( crc E0D5E18A )
+)
+
+game (
+	comment "Adventures of Batman & Robin, The (Europe)"
+	publisher "SEGA"
+	rom ( crc 355E8C39 )
+)
+
+game (
+	comment "Adventures of Mighty Max, The (USA)"
+	publisher "Ocean"
+	rom ( crc 55F13A00 )
+)
+
+game (
+	comment "Adventures of Batman & Robin, The (USA)"
+	publisher "SEGA"
+	rom ( crc 0CAAA4AC )
+)
+
+game (
+	comment "Adventures of Mighty Max, The (Europe)"
+	publisher "Ocean"
+	rom ( crc 24F1A3BB )
+)
+
+game (
+	comment "Adventures of Rocky and Bullwinkle and Friends, The (USA)"
+	publisher "Imagineer"
+	rom ( crc EF02D57B )
+)
+
+game (
+	comment "Aero Blasters (Japan)"
+	publisher "Kaneko"
+	rom ( crc A00DA987 )
+)
+
+game (
+	comment "Aero the Acro-Bat (USA)"
+	publisher "Iguana Entertainment"
+	rom ( crc A3A7A8B5 )
+)
+
+game (
+	comment "Aero the Acro-Bat (Europe)"
+	publisher "Iguana Entertainment"
+	rom ( crc 1A3EAF57 )
+)
+
+game (
+	comment "Aerobiz (USA)"
+	publisher "Koei"
+	rom ( crc CFAA9BCE )
+)
+
+game (
+	comment "Aero the Acro-Bat 2 (Europe)"
+	publisher "Iguana Entertainment"
+	rom ( crc A451F9A1 )
+)
+
+game (
+	comment "Aero the Acro-Bat 2 (USA)"
+	publisher "Iguana Entertainment"
+	rom ( crc 39EB74EB )
+)
+
+game (
+	comment "Aerobiz Supersonic (USA)"
+	publisher "Koei"
+	rom ( crc 9377F1B5 )
+)
+
+game (
+	comment "After Burner II (Japan)"
+	publisher "SEGA"
+	rom ( crc 4FF37E66 )
+)
+
+game (
+	comment "After Burner II (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc CCAFE00E )
+)
+
+game (
+	comment "Air Buster (USA)"
+	publisher "Kaneko"
+	rom ( crc F3D65BAA )
+)
+
+game (
+	comment "Air Diver (Japan)"
+	publisher "Seismic"
+	rom ( crc 9E2D5B91 )
+)
+
+game (
+	comment "Air Diver (USA)"
+	publisher "Seismic"
+	rom ( crc 2041885E )
+)
+
+game (
+	comment "Air Management - Oozora ni Kakeru (Japan)"
+	publisher "Koei"
+	rom ( crc B3DB0C71 )
+)
+
+game (
+	comment "Air Management II - Koukuuou o Mezase (Japan)"
+	publisher "Koei"
+	rom ( crc 4582817B )
+)
+
+game (
+	comment "Aladdin (Europe)"
+	publisher "SEGA"
+	rom ( crc D1845E8F )
+)
+
+game (
+	comment "Aladdin (USA)"
+	publisher "SEGA"
+	rom ( crc ED427EA9 )
+)
+
+game (
+	comment "Aladdin (USA) (Final Cut)"
+	publisher "SEGA"
+	rom ( crc DD66B3FA )
+)
+
+game (
+	comment "Aladdin (Japan)"
+	publisher "SEGA"
+	rom ( crc FB5AACF0 )
+)
+
+game (
+	comment "Aladdin (World) (Disney Classic Games)"
+	publisher "SEGA"
+	rom ( crc e4a7aa54 )
+)
+
+game (
+	comment "Aladdin (World) (Ja) (Disney Classic Games)"
+	publisher "SEGA"
+	rom ( crc c4616dcb )
+)
+
+game (
+	comment "Alex Kidd - Cheongong Maseong (Korea)"
+	publisher "SEGA"
+	rom ( crc 5B0678FB )
+)
+
+game (
+	comment "Alex Kidd in the Enchanted Castle (Europe)"
+	publisher "SEGA"
+	rom ( crc 778A0F00 )
+)
+
+game (
+	comment "Alex Kidd - Tenkuu Majou (Japan)"
+	publisher "SEGA"
+	rom ( crc 8A5ED856 )
+)
+
+game (
+	comment "Alex Kidd in the Enchanted Castle (USA)"
+	publisher "SEGA"
+	rom ( crc 47DBA0AC )
+)
+
+game (
+	comment "Alien 3 (USA, Europe) (Rev A)"
+	publisher "Arena Entertainment"
+	rom ( crc B327FD1B )
+)
+
+game (
+	comment "Alien 3 (USA, Europe)"
+	publisher "Arena Entertainment"
+	rom ( crc A3B00D6E )
+)
+
+game (
+	comment "Alien Soldier (USA, Europe) (Switch Online)"
+	publisher "SEGA"
+	rom ( crc 560cf8bb )
+)
+
+game (
+	comment "Alien Soldier (USA) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc 9B1A1D7F )
+)
+
+game (
+	comment "Alien Storm (World)"
+	publisher "SEGA"
+	rom ( crc F5AC8DE5 )
+)
+
+game (
+	comment "Alien Soldier (Europe)"
+	publisher "SEGA"
+	rom ( crc 0496E06C )
+)
+
+game (
+	comment "Alien Soldier (Japan)"
+	publisher "SEGA"
+	rom ( crc 90FA1539 )
+)
+
+game (
+	comment "Alisia Dragoon (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc 4bfdfe9c )
+)
+
+game (
+	comment "Alien Storm (World) (SEGA Classic Collection)"
+	publisher "SEGA"
+	rom ( crc 5ab9c9f8 )
+)
+
+game (
+	comment "Alisia Dragoon (Japan) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 3a6bf605 )
+)
+
+game (
+	comment "Alisia Dragoon (Japan)"
+	publisher "SEGA"
+	rom ( crc 4D476722 )
+)
+
+game (
+	comment "Alisia Dragoon (Europe)"
+	publisher "SEGA"
+	rom ( crc 28165BD1 )
+)
+
+game (
+	comment "Altered Beast (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 154D59BB )
+)
+
+game (
+	comment "Alisia Dragoon (USA)"
+	publisher "SEGA"
+	rom ( crc D28D5C40 )
+)
+
+game (
+	comment "American Gladiators (USA)"
+	publisher "GameTek"
+	rom ( crc 9952FA85 )
+)
+
+game (
+	comment "Andre Agassi Tennis (Europe)"
+	publisher "Tecmagik"
+	rom ( crc 224256C7 )
+)
+
+game (
+	comment "Andre Agassi Tennis (USA)"
+	publisher "Tecmagik"
+	rom ( crc E755DD51 )
+)
+
+game (
+	comment "Aoki Ookami to Shiroki Mejika - Genchou Hishi (Japan)"
+	publisher "Koei"
+	rom ( crc 10BE1D93 )
+)
+
+game (
+	comment "Animaniacs (Europe) (En,Fr,De)"
+	publisher "Konami"
+	rom ( crc 92B6F255 )
+)
+
+game (
+	comment "Another World (Europe)"
+	publisher "Delphine Software International"
+	rom ( crc E9742041 )
+)
+
+game (
+	comment "Animaniacs (USA)"
+	publisher "Konami"
+	rom ( crc 86224D86 )
+)
+
+game (
+	comment "Aquatic Games Starring James Pond and the Aquabats, The (USA, Europe)"
+	publisher "Millenium Interactive"
+	rom ( crc 400F4BA7 )
+)
+
+game (
+	comment "Arcade Classics (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 8AED2090 )
+)
+
+game (
+	comment "Arch Rivals - The Arcade Game (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc E389D7E7 )
+)
+
+game (
+	comment "Arcus Odyssey (USA)"
+	publisher "Renovation Products"
+	rom ( crc BC4D9B20 )
+)
+
+game (
+	comment "Arcus Odyssey (Japan)"
+	publisher "Renovation Products"
+	rom ( crc 41C5FB4F )
+)
+
+game (
+	comment "Ariel the Little Mermaid (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 58E297DF )
+)
+
+game (
+	comment "Arnold Palmer Tournament Golf (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 35B995EF )
+)
+
+game (
+	comment "Ariel the Little Mermaid (USA, Europe) (1992-10-10) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc 2B3F375E )
+)
+
+game (
+	comment "Arrow Flash (Japan, Europe) (En)"
+	publisher "Renovation Products"
+	rom ( crc D49F8444 )
+)
+
+game (
+	comment "Art Alive (World)"
+	publisher "SEGA"
+	rom ( crc F1B72CDD )
+)
+
+game (
+	comment "Arrow Flash (USA)"
+	publisher "Renovation Products"
+	rom ( crc 4D89E66B )
+)
+
+game (
+	comment "Art of Fighting (Europe)"
+	publisher "SEGA"
+	rom ( crc 9970C422 )
+)
+
+game (
+	comment "Art of Fighting (USA)"
+	publisher "SEGA"
+	rom ( crc C9A57E07 )
+)
+
+game (
+	comment "Asterix and the Great Rescue (Europe) (En,Fr,De,Es,It)"
+	publisher "SEGA"
+	rom ( crc 4735FEE6 )
+)
+
+game (
+	comment "Asterix and the Great Rescue (USA)"
+	publisher "SEGA"
+	rom ( crc 7F112CD8 )
+)
+
+game (
+	comment "Asterix and the Power of the Gods (Europe) (En,Fr,De,Es)"
+	publisher "SEGA"
+	rom ( crc 4FF1D83F )
+)
+
+game (
+	comment "Atomic Robo-Kid (Japan)"
+	publisher "SEGA"
+	rom ( crc E833067E )
+)
+
+game (
+	comment "Atomic Runner (Europe)"
+	publisher "Data East"
+	rom ( crc B3C05418 )
+)
+
+game (
+	comment "Atomic Robo-Kid (USA)"
+	publisher "SEGA"
+	rom ( crc 7CD8169E )
+)
+
+game (
+	comment "Atomic Runner (USA)"
+	publisher "Data East"
+	rom ( crc 0677C210 )
+)
+
+game (
+	comment "ATP Tour Championship Tennis (USA)"
+	publisher "SEGA"
+	rom ( crc 8C822884 )
+)
+
+game (
+	comment "ATP Tour (Europe)"
+	publisher "SEGA"
+	rom ( crc 1A3DA8C5 )
+)
+
+game (
+	comment "Australian Rugby League (Europe)"
+	publisher "EA Sports"
+	rom ( crc AC5BC26A )
+)
+
+game (
+	comment "Aworg (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 069C27C1 )
+)
+
+game (
+	comment "Awesome Possum (Japan) (En)"
+	publisher "Tengen"
+	rom ( crc 8C64445E )
+)
+
+game (
+	comment "Awesome Possum... ...Kicks Dr. Machino's Butt (USA)"
+	publisher "Tengen"
+	rom ( crc 1F07577F )
+)
+
+game (
+	comment "Ayrton Senna's Super Monaco GP II (Japan, Europe) (En,Ja)"
+	publisher "SEGA"
+	rom ( crc 60AF0F76 )
+)
+
+game (
+	comment "B.O.B. (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc EAA2ACB7 )
+)
+
+game (
+	comment "Ayrton Senna's Super Monaco GP II (USA) (En,Ja)"
+	publisher "SEGA"
+	rom ( crc EAC8DED6 )
+)
+
+game (
+	comment "Back to the Future Part III (USA)"
+	publisher "Image Works"
+	rom ( crc 66A388C3 )
+)
+
+game (
+	comment "Back to the Future Part III (Europe)"
+	publisher "Image Works"
+	rom ( crc 2737F92E )
+)
+
+game (
+	comment "Bad Omen (Japan, Korea) (En)"
+	publisher "Genki"
+	rom ( crc 975693CE )
+)
+
+game (
+	comment "Bahamut Senki (Japan)"
+	publisher "SEGA"
+	rom ( crc B1E268DA )
+)
+
+game (
+	comment "Ball Jacks (Japan, Europe) (En)"
+	publisher "SEGA"
+	rom ( crc F5C3C54F )
+)
+
+game (
+	comment "Ballz 3D - The Battle of the Ballz (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc B362B705 )
+)
+
+game (
+	comment "Barbie Super Model (USA)"
+	publisher "Hi Tech Expressions"
+	rom ( crc 81C9662B )
+)
+
+game (
+	comment "Barkley Shut Up and Jam 2 (USA)"
+	publisher "Accolade"
+	rom ( crc 321BB6BD )
+)
+
+game (
+	comment "Bare Knuckle III (Japan)"
+	publisher "SEGA"
+	rom ( crc 5D09236F )
+)
+
+game (
+	comment "Barkley Shut Up and Jam! (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc 63FBF497 )
+)
+
+game (
+	comment "Barney's Hide & Seek Game (USA)"
+	publisher "SEGA"
+	rom ( crc 1EFA9D53 )
+)
+
+game (
+	comment "Bass Masters Classic (USA)"
+	publisher "Black Pearl Software"
+	rom ( crc CF1FF00A )
+)
+
+game (
+	comment "Bass Masters Classic - Pro Edition (USA)"
+	publisher "Black Pearl Software"
+	rom ( crc 9EDDEB3D )
+)
+
+game (
+	comment "Batman (Europe)"
+	publisher "Sunsoft"
+	rom ( crc 61C60C35 )
+)
+
+game (
+	comment "Batman (Japan)"
+	publisher "Sunsoft"
+	rom ( crc D7B4FEBF )
+)
+
+game (
+	comment "Batman - Revenge of the Joker (USA)"
+	publisher "Sunsoft"
+	rom ( crc CAA044A1 )
+)
+
+game (
+	comment "Batman - The Video Game (USA)"
+	publisher "Sunsoft"
+	rom ( crc 017410AE )
+)
+
+game (
+	comment "Batman Forever (World)"
+	publisher "Acclaim"
+	rom ( crc db41f2d5 )
+)
+
+game (
+	comment "Batman Returns (World)"
+	publisher "SEGA"
+	rom ( crc 4A3225C0 )
+)
+
+game (
+	comment "Battle Golfer Yui (Japan)"
+	publisher "SEGA"
+	rom ( crc 4AA03E4E )
+)
+
+game (
+	comment "Battle Mania (Japan)"
+	publisher "Tokai Engineering"
+	rom ( crc A76C4A29 )
+)
+
+game (
+	comment "Battle Mania Daiginjou (Japan, Korea) (Ja)"
+	publisher "Tokai Engineering"
+	rom ( crc 312FA0F2 )
+)
+
+game (
+	comment "Battle Squadron (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 0FEAA8BF )
+)
+
+game (
+	comment "Battle Squadron (USA, Europe) (Rev 1) (Beta) (1991-01-18) (Sega Channel)"
+	publisher "Electronic Arts"
+	rom ( crc 43A76B45 )
+)
+
+game (
+	comment "Battlemaster (USA)"
+	publisher "Arena Entertainment"
+	rom ( crc FD2B35E3 )
+)
+
+game (
+	comment "Battletech - A Game of Armored Combat (USA)"
+	publisher "Malibu Games"
+	rom ( crc 409E5D14 )
+)
+
+game (
+	comment "Battletoads-Double Dragon (USA)"
+	publisher "Tradewest"
+	rom ( crc 8239DD17 )
+)
+
+game (
+	comment "Battletoads (World)"
+	publisher "Tradewest"
+	rom ( crc D10E103A )
+)
+
+game (
+	comment "Beast Warriors (Japan)"
+	publisher "Renovation Products"
+	rom ( crc 4646C694 )
+)
+
+game (
+	comment "Beast Wrestler (USA)"
+	publisher "Renovation Products"
+	rom ( crc 0CA5BB64 )
+)
+
+game (
+	comment "Beauty and the Beast - Belle's Quest (USA)"
+	publisher "Sunsoft"
+	rom ( crc BEFB6FAE )
+)
+
+game (
+	comment "Beauty and the Beast - Roar of the Beast (USA)"
+	publisher "Sunsoft"
+	rom ( crc 13E7B519 )
+)
+
+game (
+	comment "Berenstain Bears' Camping Adventure, The (USA)"
+	publisher "SEGA"
+	rom ( crc 1F86237B )
+)
+
+game (
+	comment "Beavis and Butt-Head (Europe)"
+	publisher "Viacom New Media"
+	rom ( crc C7B6435E )
+)
+
+game (
+	comment "Beavis and Butt-Head (USA)"
+	publisher "Viacom New Media"
+	rom ( crc F5D7B948 )
+)
+
+game (
+	comment "Best of the Best - Championship Karate (USA)"
+	publisher "Electro Brain Corp."
+	rom ( crc C3D6A5D4 )
+)
+
+game (
+	comment "Bill Walsh College Football (USA, Europe)"
+	publisher "Visual Concepts"
+	rom ( crc 3ED83362 )
+)
+
+game (
+	comment "Beyond Oasis (USA)"
+	publisher "SEGA"
+	rom ( crc C4728225 )
+)
+
+game (
+	comment "Bill Walsh College Football 95 (USA)"
+	publisher "EA Sports"
+	rom ( crc A582F45A )
+)
+
+game (
+	comment "Bimini Run (USA)"
+	publisher "Nuvision Entertainment"
+	rom ( crc D4DC5188 )
+)
+
+game (
+	comment "Bishoujo Senshi Sailor Moon (Japan)"
+	publisher "Ma-Ba"
+	rom ( crc 5E246938 )
+)
+
+game (
+	comment "Bio Hazard Battle (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 95B0EA2B )
+)
+
+game (
+	comment "Blades of Vengeance (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 74C65A49 )
+)
+
+game (
+	comment "Blaster Master 2 (USA)"
+	publisher "Sunsoft"
+	rom ( crc C11E4BA1 )
+)
+
+game (
+	comment "Blockbuster World Video Game Championship II (USA)"
+	publisher "Acclaim"
+	rom ( crc 4385E366 )
+)
+
+game (
+	comment "Blockout (World)"
+	publisher "Electronic Arts"
+	rom ( crc 5E2966F1 )
+)
+
+game (
+	comment "Bloodshot (Europe) (En,Fr,De,Es)"
+	publisher "Acclaim"
+	rom ( crc F9F2BCEB )
+)
+
+game (
+	comment "Blue Almanac (Japan)"
+	publisher "Hot-B"
+	rom ( crc 7222EBB3 )
+)
+
+game (
+	comment "Body Count (Europe) (En,Fr,De,Es,It)"
+	publisher "SEGA"
+	rom ( crc 3575A030 )
+)
+
+game (
+	comment "Body Count (Brazil) (En)"
+	publisher "SEGA"
+	rom ( crc 649607D1 )
+)
+
+game (
+	comment "Bonanza Bros. (USA, Europe, Korea) (En) (Rev B)"
+	publisher "SEGA"
+	rom ( crc 20D1AD4C )
+)
+
+game (
+	comment "Bonanza Bros. (Japan, Europe) (En)"
+	publisher "SEGA"
+	rom ( crc ADF6476C )
+)
+
+game (
+	comment "Bonanza Bros. (Japan, Europe) (En) (Rev A)"
+	publisher "SEGA"
+	rom ( crc C6AAC589 )
+)
+
+game (
+	comment "Bonkers (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc D1E66017 )
+)
+
+game (
+	comment "Boogerman - A Pick and Flick Adventure (Europe)"
+	publisher "Interplay"
+	rom ( crc DBC4340C )
+)
+
+game (
+	comment "Boogerman - A Pick and Flick Adventure (USA)"
+	publisher "Interplay"
+	rom ( crc 1A7A2BEC )
+)
+
+game (
+	comment "Boogie Woogie Bowling (Japan)"
+	publisher "Visco"
+	rom ( crc CCF52828 )
+)
+
+game (
+	comment "Boxing Legends of the Ring (USA)"
+	publisher "Sculptured Software"
+	rom ( crc 00F225AC )
+)
+
+game (
+	comment "Bram Stoker's Dracula (Europe)"
+	publisher "Travellers Tales"
+	rom ( crc 9BA5A063 )
+)
+
+game (
+	comment "Bram Stoker's Dracula (USA)"
+	publisher "Travellers Tales"
+	rom ( crc 077084A6 )
+)
+
+game (
+	comment "Brett Hull Hockey 95 (USA)"
+	publisher "Accolade"
+	rom ( crc F7775A09 )
+)
+
+game (
+	comment "Brian Lara Cricket (Australia)"
+	publisher "Codemasters"
+	rom ( crc 408CF5C3 )
+)
+
+game (
+	comment "Brian Lara Cricket (Europe)"
+	publisher "Codemasters"
+	rom ( crc 90F5C2B7 )
+)
+
+game (
+	comment "Brian Lara Cricket 96 (Europe)"
+	publisher "Codemasters"
+	rom ( crc FA3024AF )
+)
+
+game (
+	comment "Brutal - Paws of Fury (Europe) (En,Fr,De)"
+	publisher "GameTek"
+	rom ( crc 7E9A8D32 )
+)
+
+game (
+	comment "Brian Lara Cricket 96 (Europe) (Rev 1)"
+	publisher "Codemasters"
+	rom ( crc FE52F7E1 )
+)
+
+game (
+	comment "Brutal - Paws of Fury (USA)"
+	publisher "GameTek"
+	rom ( crc 98D502CD )
+)
+
+game (
+	comment "Bubba 'N' Stix (Europe)"
+	publisher "Core Design"
+	rom ( crc B467432E )
+)
+
+game (
+	comment "Bubba 'N' Stix (USA)"
+	publisher "Core Design"
+	rom ( crc D45CB46F )
+)
+
+game (
+	comment "Bubble and Squeak (USA)"
+	publisher "Audiogenic Software"
+	rom ( crc 28C4A006 )
+)
+
+game (
+	comment "Bubsy in - Claws Encounters of the Furred Kind (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc 3E30D365 )
+)
+
+game (
+	comment "Bubble and Squeak (Europe)"
+	publisher "Audiogenic Software"
+	rom ( crc 86151BF1 )
+)
+
+game (
+	comment "Bubsy II (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc F8BEFF56 )
+)
+
+game (
+	comment "Buck Rogers - Countdown to Doomsday (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 44E3BFFF )
+)
+
+game (
+	comment "Budokan - The Martial Spirit (Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 97ADD5BD )
+)
+
+game (
+	comment "Bugs Bunny in Double Trouble (USA)"
+	publisher "SEGA"
+	rom ( crc 365305A2 )
+)
+
+game (
+	comment "Bugs Bunny in Double Trouble (Europe) (En,Fr,De,Es,It)"
+	publisher "SEGA"
+	rom ( crc CEC0A0BB )
+)
+
+game (
+	comment "Bulls versus Blazers and the NBA Playoffs (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc D4E4B4E8 )
+)
+
+game (
+	comment "Bulls vs Lakers and the NBA Playoffs (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc E56023A0 )
+)
+
+game (
+	comment "Burning Force (Europe)"
+	publisher "Namco"
+	rom ( crc 776FF6FF )
+)
+
+game (
+	comment "Burning Force (Japan)"
+	publisher "Namco"
+	rom ( crc 0C1DEB47 )
+)
+
+game (
+	comment "Burning Force (USA)"
+	publisher "Namco"
+	rom ( crc BDC8F02C )
+)
+
+game (
+	comment "Cadash (USA, Korea) (En)"
+	publisher "Taito"
+	rom ( crc 13BDF374 )
+)
+
+game (
+	comment "Caesar no Yabou (Japan)"
+	publisher "Micronet"
+	rom ( crc 69796E93 )
+)
+
+game (
+	comment "Caesar no Yabou II (Japan)"
+	publisher "Caesar No Yabou 2"
+	rom ( crc 4F327B3A )
+)
+
+game (
+	comment "Cal Ripken Jr. Baseball (USA)"
+	publisher "Beam Software"
+	rom ( crc 9B1C96C0 )
+)
+
+game (
+	comment "Caesars Palace (USA)"
+	publisher "Virgin"
+	rom ( crc 8FDAA9BB )
+)
+
+game (
+	comment "Caliber.50 (USA)"
+	publisher "Visco"
+	rom ( crc 44F4FA05 )
+)
+
+game (
+	comment "California Games (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 43B1B672 )
+)
+
+game (
+	comment "Cannon Fodder (Europe)"
+	publisher "Virgin Interactive"
+	rom ( crc 3F440D3F )
+)
+
+game (
+	comment "Captain America and the Avengers (Europe)"
+	publisher "Data East"
+	rom ( crc 43225612 )
+)
+
+game (
+	comment "Captain Planet and the Planeteers (Europe)"
+	publisher "Novalogic"
+	rom ( crc 7672EFA5 )
+)
+
+game (
+	comment "Captain America and the Avengers (USA)"
+	publisher "Data East"
+	rom ( crc E0639CA2 )
+)
+
+game (
+	comment "Captain Lang (Japan) (En,Ja)"
+	publisher "Codemasters"
+	rom ( crc 61BA8199 )
+)
+
+game (
+	comment "Castle of Illusion Starring Mickey Mouse (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc BA4E9FD0 )
+)
+
+game (
+	comment "Castlevania - Bloodlines (USA)"
+	publisher "Konami"
+	rom ( crc FB1EA6DF )
+)
+
+game (
+	comment "Castlevania - Bloodlines (USA) (Castlevania Anniversary Collection)"
+	publisher "Konami"
+	rom ( crc e949fbe5 )
+)
+
+game (
+	comment "Castlevania - Bloodlines (USA, Europe) (Switch Online)"
+	publisher "Konami"
+	rom ( crc 2e8597f2 )
+)
+
+game (
+	comment "Centurion - Defender of Rome (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 21283B14 )
+)
+
+game (
+	comment "Castlevania - The New Generation (Europe)"
+	publisher "Konami"
+	rom ( crc 4DD4E4A5 )
+)
+
+game (
+	comment "Castlevania - The New Generation (Europe) (Mega Drive Mini)"
+	publisher "Konami"
+	rom ( crc 6a5e58cd )
+)
+
+game (
+	comment "Centurion - Defender of Rome (USA, Europe) (Sega Channel)"
+	publisher "Electronic Arts"
+	rom ( crc A7C83919 )
+)
+
+game (
+	comment "Chakan (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 046A48DE )
+)
+
+game (
+	comment "Chakan (USA, Europe) (1992-10-06) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc 77B7E85F )
+)
+
+game (
+	comment "Chameleon Kid (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc 50217C80 )
+)
+
+game (
+	comment "Championship Pool (USA)"
+	publisher "Mindscape"
+	rom ( crc 253512CF )
+)
+
+game (
+	comment "Champions World Class Soccer (World) (En,Fr,De,Es)"
+	publisher "Flying Edge"
+	rom ( crc 883E33DB )
+)
+
+game (
+	comment "Championship Bowling (USA)"
+	publisher "Visco"
+	rom ( crc 1BF92520 )
+)
+
+game (
+	comment "Championship Pro-Am (USA)"
+	publisher "Tradewest"
+	rom ( crc B496DE28 )
+)
+
+game (
+	comment "Chaos Engine, The (Europe)"
+	publisher "MicroProse"
+	rom ( crc a6e1d401 )
+)
+
+game (
+	comment "Chase H.Q. II (USA)"
+	publisher "Taito"
+	rom ( crc F39E4BF2 )
+)
+
+game (
+	comment "Chavez II (Mexico)"
+	publisher "Electro Brain Corp."
+	rom ( crc 5BC0DBB8 )
+)
+
+game (
+	comment "Cheese Cat-Astrophe Starring Speedy Gonzales (Europe) (En,Fr,De,Es)"
+	publisher "Time Warner Interactive"
+	rom ( crc FF634B28 )
+)
+
+game (
+	comment "Chester Cheetah - Too Cool to Fool (USA)"
+	publisher "Kaneko"
+	rom ( crc 250E3EC3 )
+)
+
+game (
+	comment "Chelnov (Japan)"
+	publisher "Data East"
+	rom ( crc B2FE74D8 )
+)
+
+game (
+	comment "Chester Cheetah - Wild Wild Quest (USA)"
+	publisher "Kaneko"
+	rom ( crc B97B735D )
+)
+
+game (
+	comment "Chibi Maruko-chan - Wakuwaku Shopping (Japan)"
+	publisher "Namco"
+	rom ( crc 91A144B8 )
+)
+
+game (
+	comment "Chi Chi's Pro Challenge Golf (USA)"
+	publisher "Virgin"
+	rom ( crc 9C3973A4 )
+)
+
+game (
+	comment "Chiki Chiki Boys (Japan, Korea) (Ja)"
+	publisher "SEGA"
+	rom ( crc 06918C17 )
+)
+
+game (
+	comment "Chiki Chiki Boys (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 813A7D62 )
+)
+
+game (
+	comment "Chou Touryuu Retsuden - Dino Land (Japan)"
+	publisher "Wolf Team"
+	rom ( crc 81F939DE )
+)
+
+game (
+	comment "Chou Kyuukai Miracle Nine (Japan)"
+	publisher "SEGA"
+	rom ( crc 6D8C2206 )
+)
+
+game (
+	comment "Chuck Rock (Europe)"
+	publisher "Core Design"
+	rom ( crc 7CD40BEA )
+)
+
+game (
+	comment "Chuck Rock (USA)"
+	publisher "Core Design"
+	rom ( crc F8AC454A )
+)
+
+game (
+	comment "Chuck Rock II (Japan)"
+	publisher "Core Design"
+	rom ( crc BFD24BE8 )
+)
+
+game (
+	comment "Chuck Rock II - Son of Chuck (Europe)"
+	publisher "Core Design"
+	rom ( crc 1ADE9488 )
+)
+
+game (
+	comment "Classic Collection (Europe)"
+	publisher "SEGA"
+	rom ( crc 73F948B1 )
+)
+
+game (
+	comment "Chuck Rock II - Son of Chuck (USA)"
+	publisher "Core Design"
+	rom ( crc 408B1CDB )
+)
+
+game (
+	comment "ClayFighter (USA)"
+	publisher "Interplay"
+	rom ( crc B12C1BC1 )
+)
+
+game (
+	comment "ClayFighter (Europe)"
+	publisher "Interplay"
+	rom ( crc 1AAF7707 )
+)
+
+game (
+	comment "Cliffhanger (Europe)"
+	publisher "Sony"
+	rom ( crc EB5E0B28 )
+)
+
+game (
+	comment "Cliffhanger (USA)"
+	publisher "Sony"
+	rom ( crc 9CBF44D3 )
+)
+
+game (
+	comment "Clue (USA)"
+	publisher "Sculptured Software"
+	rom ( crc 7753A296 )
+)
+
+game (
+	comment "Coach K College Basketball (USA)"
+	publisher "Electronic Arts"
+	rom ( crc 67C309C6 )
+)
+
+game (
+	comment "College Football USA 96 (USA)"
+	publisher "EA Sports"
+	rom ( crc B9075385 )
+)
+
+game (
+	comment "College Football USA 97 (USA)"
+	publisher "EA Sports"
+	rom ( crc 2EBB90A3 )
+)
+
+game (
+	comment "College Football's National Championship (USA)"
+	publisher "SEGA"
+	rom ( crc 172C5DBB )
+)
+
+game (
+	comment "College Slam (USA)"
+	publisher "Acclaim"
+	rom ( crc 96A42431 )
+)
+
+game (
+	comment "College Football's National Championship II (USA)"
+	publisher "SEGA"
+	rom ( crc 65B64413 )
+)
+
+game (
+	comment "Columns (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc 03163D7A )
+)
+
+game (
+	comment "Columns (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc D783C244 )
+)
+
+game (
+	comment "Columns (World) (Sega Ages)"
+	publisher "SEGA"
+	rom ( crc 0a0d1d51 )
+)
+
+game (
+	comment "Columns (USA, Europe) (1990-06-21) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc 7EEC1A45 )
+)
+
+game (
+	comment "Columns III (USA)"
+	publisher "SEGA"
+	rom ( crc DC678F6D )
+)
+
+game (
+	comment "Columns III - Taiketsu! Columns World (Japan, Korea) (Ja)"
+	publisher "SEGA"
+	rom ( crc CD07462F )
+)
+
+game (
+	comment "Combat Cars (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc E439B101 )
+)
+
+game (
+	comment "Comix Zone (Europe) (En,Fr,De,Es)"
+	publisher "SEGA"
+	rom ( crc 1318E923 )
+)
+
+game (
+	comment "Comix Zone (Japan) (En,Ja)"
+	publisher "SEGA"
+	rom ( crc 7A6027B8 )
+)
+
+game (
+	comment "Comix Zone (USA)"
+	publisher "SEGA"
+	rom ( crc 17DA0354 )
+)
+
+game (
+	comment "Comix Zone (USA) (Sega Smash Pack 2)"
+	publisher "SEGA"
+	rom ( crc 2BB02A7D )
+)
+
+game (
+	comment "Comix Zone (USA) (Demo) (1995-06-12) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc C77DB9E1 )
+)
+
+game (
+	comment "Comix Zone (USA) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc E45A15F4 )
+)
+
+game (
+	comment "Contra - Hard Corps (USA, Korea) (En)"
+	publisher "Konami"
+	rom ( crc C579F45E )
+)
+
+game (
+	comment "Contra - Hard Corps (USA) (Genesis Mini)"
+	publisher "Konami"
+	rom ( crc 042a81b0 )
+)
+
+game (
+	comment "Contra - Hard Corps (World) (Contra Anniversary Collection)"
+	publisher "Konami"
+	rom ( crc 74dded00 )
+)
+
+game (
+	comment "Contra - The Hard Corps (Japan) (Mega Drive Mini)"
+	publisher "Konami"
+	rom ( crc 76c211cb )
+)
+
+game (
+	comment "Contra - The Hard Corps (World) (Ja) (Contra Anniversary Collection)"
+	publisher "Konami"
+	rom ( crc f1f4b361 )
+)
+
+game (
+	comment "Contra - The Hard Corps (Japan)"
+	publisher "Konami"
+	rom ( crc 2AB26380 )
+)
+
+game (
+	comment "Cool Spot (Europe)"
+	publisher "Virgin"
+	rom ( crc 5F09FA41 )
+)
+
+game (
+	comment "Cool Spot (USA)"
+	publisher "Virgin"
+	rom ( crc F024C1A1 )
+)
+
+game (
+	comment "Cool Spot (Japan, Korea) (Ja)"
+	publisher "Virgin"
+	rom ( crc E869EFB1 )
+)
+
+game (
+	comment "Corporation (Europe)"
+	publisher "Core Design"
+	rom ( crc A80D18AA )
+)
+
+game (
+	comment "Cosmic Spacehead (USA, Europe) (En,Fr,De,Es)"
+	publisher "Codemasters"
+	rom ( crc C593D31C )
+)
+
+game (
+	comment "Cosmic Spacehead (Europe) (En,Fr,De,Es) (Rev 1)"
+	publisher "Codemasters"
+	rom ( crc CB89E605 )
+)
+
+game (
+	comment "Crack Down (Europe)"
+	publisher "SEGA"
+	rom ( crc D012A47A )
+)
+
+game (
+	comment "Crack Down (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc 538AAA5D )
+)
+
+game (
+	comment "Crack Down (USA)"
+	publisher "SEGA"
+	rom ( crc B9CE9051 )
+)
+
+game (
+	comment "Crayon Shin-chan - Arashi o Yobu Enji (Japan)"
+	publisher "Ma-Ba"
+	rom ( crc 97FC42D2 )
+)
+
+game (
+	comment "CrossFire (USA)"
+	publisher "Kyugo Boueki"
+	rom ( crc CC73F3A9 )
+)
+
+game (
+	comment "Crude Buster (Japan)"
+	publisher "Data East"
+	rom ( crc AFFB4B00 )
+)
+
+game (
+	comment "Crue Ball (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 514C53E2 )
+)
+
+game (
+	comment "Crue Ball - Heavy Metal Pinball (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 4B195FC0 )
+)
+
+game (
+	comment "Crusader of Centy (USA)"
+	publisher "Atlus"
+	rom ( crc 41858F6F )
+)
+
+game (
+	comment "Crystal's Pony Tale (USA)"
+	publisher "Artech Studios"
+	rom ( crc 6CF7A4DF )
+)
+
+game (
+	comment "Crying - Aseimei Sensou (Japan)"
+	publisher "SEGA"
+	rom ( crc 4ABA1D6A )
+)
+
+game (
+	comment "Curse (Japan)"
+	publisher "Micronet"
+	rom ( crc A4FBF9A9 )
+)
+
+game (
+	comment "Cutie Suzuki no Ringside Angel (Japan)"
+	publisher "Asmik"
+	rom ( crc 13795DCA )
+)
+
+game (
+	comment "CutThroat Island (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc EBABBC70 )
+)
+
+game (
+	comment "Cyber Police - ESWAT (Japan)"
+	publisher "SEGA"
+	rom ( crc 87B636A2 )
+)
+
+game (
+	comment "Cyber-Cop (USA)"
+	publisher "Core Design"
+	rom ( crc 01E719C8 )
+)
+
+game (
+	comment "Cyberball (World)"
+	publisher "SEGA"
+	rom ( crc 76120E96 )
+)
+
+game (
+	comment "Cyborg Justice (USA, Europe)"
+	publisher "Capcom"
+	rom ( crc AB0D1269 )
+)
+
+game (
+	comment "Daffy Duck in Hollywood (Europe) (En,Fr,De,Es,It)"
+	publisher "Probe Software"
+	rom ( crc 1FDC66B0 )
+)
+
+game (
+	comment "Dahna (Korea)"
+	publisher "IGS"
+	rom ( crc 10829EA1 )
+)
+
+game (
+	comment "Dahna - Megami Tanjou (Japan)"
+	publisher "IGS"
+	rom ( crc 4602584F )
+)
+
+game (
+	comment "Daikoukai Jidai (Japan)"
+	publisher "Koei"
+	rom ( crc 5A652458 )
+)
+
+game (
+	comment "Daikoukai Jidai II (Japan)"
+	publisher "Koei"
+	rom ( crc E040F0DA )
+)
+
+game (
+	comment "Daimakaimura (Japan)"
+	publisher "Capcom"
+	rom ( crc 5659F379 )
+)
+
+game (
+	comment "Daimakaimura ~ Ghouls'n Ghosts (Japan, USA) (En)"
+	publisher "Capcom"
+	rom ( crc D31BD910 )
+)
+
+game (
+	comment "Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A)"
+	publisher "Capcom"
+	rom ( crc 4F2561D5 )
+)
+
+game (
+	comment "Daimakaimura ~ Ghouls'n Ghosts (World) (Rev A) (Sega Channel)"
+	publisher "Capcom"
+	rom ( crc 4552A3DE )
+)
+
+game (
+	comment "Daisenpuu ~ Twin Hawk (Japan, Europe) (En)"
+	publisher "SEGA"
+	rom ( crc A2EC8C67 )
+)
+
+game (
+	comment "Dangerous Seed (Japan)"
+	publisher "Namco"
+	rom ( crc A2990031 )
+)
+
+game (
+	comment "Darius (World) (Genesis Mini, Mega Drive Mini)"
+	publisher "Taito"
+	rom ( crc 26CA4234 )
+)
+
+game (
+	comment "Dark Castle (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 0464ACA4 )
+)
+
+game (
+	comment "Darius II (World) (Darius Cozmic Collection)"
+	publisher "Taito"
+	rom ( crc e8e29be2 )
+)
+
+game (
+	comment "Darius II (Japan)"
+	publisher "Taito"
+	rom ( crc 25DFE62A )
+)
+
+game (
+	comment "Darwin 4081 (Japan, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc 7A33B0CB )
+)
+
+game (
+	comment "Dashin' Desperadoes (USA)"
+	publisher "Data East"
+	rom ( crc DCB76FB7 )
+)
+
+game (
+	comment "David Crane's Amazing Tennis (USA)"
+	publisher "SEGA"
+	rom ( crc 9177088C )
+)
+
+game (
+	comment "David Robinson Basketball (Japan)"
+	publisher "SEGA"
+	rom ( crc 56164B00 )
+)
+
+game (
+	comment "David Robinson's Supreme Court (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 512B7599 )
+)
+
+game (
+	comment "Davis Cup Tennis (Japan)"
+	publisher "Loriciels"
+	rom ( crc 802CD123 )
+)
+
+game (
+	comment "Davis Cup Tennis ~ Davis Cup World Tour (USA, Europe)"
+	publisher "Loriciels"
+	rom ( crc 894686F0 )
+)
+
+game (
+	comment "Daze Before Christmas (Australia)"
+	publisher "Funcom"
+	rom ( crc B95E25C9 )
+)
+
+game (
+	comment "Deadly Moves (USA)"
+	publisher "Kaneko"
+	rom ( crc 35CBD237 )
+)
+
+game (
+	comment "Death and Return of Superman, The (USA)"
+	publisher "Blizzard Entertainment"
+	rom ( crc 982242D3 )
+)
+
+game (
+	comment "Death Duel (USA)"
+	publisher "Razorsoft"
+	rom ( crc A9804DCC )
+)
+
+game (
+	comment "Death and Return of Superman, The (Europe)"
+	publisher "Blizzard Entertainment"
+	rom ( crc CFC440E8 )
+)
+
+game (
+	comment "DEcapAttack (USA, Europe, Korea) (En)"
+	publisher "Vic Tokai"
+	rom ( crc 73DC0DD8 )
+)
+
+game (
+	comment "Demolition Man (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc 5FF71877 )
+)
+
+game (
+	comment "Desert Demolition Starring Road Runner and Wile E. Coyote (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc C287343D )
+)
+
+game (
+	comment "Desert Strike - Return to the Gulf (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 67A9860B )
+)
+
+game (
+	comment "Desert Strike - Wangan Sakusen ~ Desert Strike (Japan, Korea) (Ja)"
+	publisher "Electronic Arts"
+	rom ( crc 1E740145 )
+)
+
+game (
+	comment "Devil Crash MD (Japan)"
+	publisher "Tengen"
+	rom ( crc 4C4CAAD8 )
+)
+
+game (
+	comment "Devilish - The Next Possession (USA)"
+	publisher "Genki"
+	rom ( crc D3F300AC )
+)
+
+game (
+	comment "Dick Tracy (World)"
+	publisher "SEGA"
+	rom ( crc EF887533 )
+)
+
+game (
+	comment "Dick Vitale's 'Awesome, Baby!' College Hoops (USA)"
+	publisher "Time Warner Interactive"
+	rom ( crc 1312CF22 )
+)
+
+game (
+	comment "Dino Dini's Soccer (Europe) (En,Fr,De)"
+	publisher "Virgin"
+	rom ( crc 4608F53A )
+)
+
+game (
+	comment "Dino Land (USA)"
+	publisher "Wolf Team"
+	rom ( crc 5FE351B8 )
+)
+
+game (
+	comment "Dinosaur's Tale, A (USA)"
+	publisher "HiTech Software"
+	rom ( crc 70155B5B )
+)
+
+game (
+	comment "Disney Collection, The - QuackShot Starring Donald Duck + Castle of Illusion Starring Mickey Mouse (Europe)"
+	publisher "SEGA"
+	rom ( crc ADFDE883 )
+)
+
+game (
+	comment "DJ Boy (Europe)"
+	publisher "SEGA"
+	rom ( crc 860E749A )
+)
+
+game (
+	comment "DJ Boy (Japan)"
+	publisher "SEGA"
+	rom ( crc 202ABAA8 )
+)
+
+game (
+	comment "DJ Boy (USA)"
+	publisher "SEGA"
+	rom ( crc DC9F02DB )
+)
+
+game (
+	comment "Donald in Maui Mallard (Europe) (Rev A)"
+	publisher "Eurocom"
+	rom ( crc fa5a79f7 )
+)
+
+game (
+	comment "Donald in Maui Mallard (Brazil) (En)"
+	publisher "Eurocom"
+	rom ( crc 77772691 )
+)
+
+game (
+	comment "Dong Gu Ri Te Chi Jak Jeon (Korea)"
+	publisher "SEGA"
+	rom ( crc E32F0B1C )
+)
+
+game (
+	comment "Doom Troopers (USA)"
+	publisher "Adrenalin Interactive"
+	rom ( crc 11194414 )
+)
+
+game (
+	comment "Double Clutch (Europe)"
+	publisher "SEGA"
+	rom ( crc D98C623C )
+)
+
+game (
+	comment "Doraemon - Yume Dorobou to 7 Nin no Gozans (Japan)"
+	publisher "SEGA"
+	rom ( crc EEED1130 )
+)
+
+game (
+	comment "Double Dragon 3 - The Arcade Game (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc B36AB75C )
+)
+
+game (
+	comment "Double Dragon II - The Revenge (Japan) (En)"
+	publisher "Tecmo"
+	rom ( crc A8BFDBD6 )
+)
+
+game (
+	comment "Double Dragon V - The Shadow Falls (USA)"
+	publisher "Tradewest"
+	rom ( crc 27E59E35 )
+)
+
+game (
+	comment "Double Dribble - The Playoff Edition (USA)"
+	publisher "Konami"
+	rom ( crc 8352B1D0 )
+)
+
+game (
+	comment "Dr. Robotnik's Mean Bean Machine (Europe)"
+	publisher "SEGA"
+	rom ( crc 70680706 )
+)
+
+game (
+	comment "Dr. Robotnik's Mean Bean Machine (USA)"
+	publisher "SEGA"
+	rom ( crc C7CA517F )
+)
+
+game (
+	comment "Dragon - The Bruce Lee Story (Europe)"
+	publisher "Virgin Interactive"
+	rom ( crc FDEED51D )
+)
+
+game (
+	comment "Dragon - The Bruce Lee Story (USA)"
+	publisher "Virgin Interactive"
+	rom ( crc EFE850E5 )
+)
+
+game (
+	comment "Dragon Ball Z - Buyuu Retsuden (Japan)"
+	publisher "Bandai Namco"
+	rom ( crc AF8F3371 )
+)
+
+game (
+	comment "Dragon Ball Z - L'Appel du Destin (France)"
+	publisher "Bandai Namco"
+	rom ( crc F035C737 )
+)
+
+game (
+	comment "Dragon Slayer - Eiyuu Densetsu (Japan)"
+	publisher "SEGA"
+	rom ( crc 01BC1604 )
+)
+
+game (
+	comment "Dragon Slayer - Eiyuu Densetsu II (Japan)"
+	publisher "SEGA"
+	rom ( crc 46924DC3 )
+)
+
+game (
+	comment "Dragon's Eye Plus - Shanghai III (Japan)"
+	publisher "Home Data"
+	rom ( crc 81F0C3CF )
+)
+
+game (
+	comment "Dragon's Fury (USA, Europe)"
+	publisher "Tengen"
+	rom ( crc 58037BC6 )
+)
+
+game (
+	comment "Dragon's Revenge (Japan) (En)"
+	publisher "Tengen"
+	rom ( crc D8D2EFD7 )
+)
+
+game (
+	comment "Dragon's Revenge (USA, Europe)"
+	publisher "Tengen"
+	rom ( crc 841EDBC0 )
+)
+
+game (
+	comment "Dream Team USA (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc E2E21B72 )
+)
+
+game (
+	comment "Dune - The Battle for Arrakis (USA)"
+	publisher "Virgin"
+	rom ( crc 4DEA40BA )
+)
+
+game (
+	comment "Duke Nukem 3D (Brazil) (En)"
+	publisher "3D Realms"
+	rom ( crc 6BD2ACCB )
+)
+
+game (
+	comment "Dune II - Kampf um den Wuestenplaneten (Germany)"
+	publisher "Virgin"
+	rom ( crc 39790728 )
+)
+
+game (
+	comment "Dune II - The Battle for Arrakis (Europe)"
+	publisher "Virgin"
+	rom ( crc B58AE71D )
+)
+
+game (
+	comment "Dungeons & Dragons - Warriors of the Eternal Sun (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc AF4A9CD7 )
+)
+
+game (
+	comment "Dyna Brothers 2 (Japan)"
+	publisher "CRI"
+	rom ( crc 47E0A64E )
+)
+
+game (
+	comment "Dyna Brothers (Japan)"
+	publisher "CRI"
+	rom ( crc 360C1B20 )
+)
+
+game (
+	comment "Dyna Brothers 2 Special (Japan) (Virtual Console)"
+	publisher "CRI"
+	rom ( crc BA3554BC )
+)
+
+game (
+	comment "Dynamite Duke (World) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 246F0BDA )
+)
+
+game (
+	comment "Dynamite Duke (World)"
+	publisher "SEGA"
+	rom ( crc 39D01C8C )
+)
+
+game (
+	comment "Dynamite Headdy (Japan)"
+	publisher "SEGA"
+	rom ( crc D03CDB53 )
+)
+
+game (
+	comment "Dynamite Headdy (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 3DFEEB77 )
+)
+
+game (
+	comment "EA Hockey (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 9DCDC894 )
+)
+
+game (
+	comment "EA Hockey (Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 9BFC279C )
+)
+
+game (
+	comment "EA Sports Double Header (Europe)"
+	publisher "Electronic Arts"
+	rom ( crc A0B54CBC )
+)
+
+game (
+	comment "Earnest Evans (USA)"
+	publisher "Renovation Products"
+	rom ( crc A243816D )
+)
+
+game (
+	comment "Earthworm Jim (Europe)"
+	publisher "Virgin Interactive Entertainment"
+	rom ( crc 1C07B337 )
+)
+
+game (
+	comment "Earthworm Jim (USA)"
+	publisher "Virgin Interactive Entertainment"
+	rom ( crc DF3ACF59 )
+)
+
+game (
+	comment "Earthworm Jim 2 (Europe)"
+	publisher "Virgin Interactive Entertainment"
+	rom ( crc AF235FDF )
+)
+
+game (
+	comment "Ecco - The Tides of Time (Europe) (En,Fr,De,Es)"
+	publisher "SEGA"
+	rom ( crc 7B1BF89C )
+)
+
+game (
+	comment "Earthworm Jim 2 (USA)"
+	publisher "Virgin Interactive Entertainment"
+	rom ( crc D57F8BA7 )
+)
+
+game (
+	comment "Ecco - The Tides of Time (USA)"
+	publisher "SEGA"
+	rom ( crc CCB21F98 )
+)
+
+game (
+	comment "Ecco Jr. (USA, Australia)"
+	publisher "SEGA"
+	rom ( crc 6C6F4B89 )
+)
+
+game (
+	comment "Ecco the Dolphin (Japan)"
+	publisher "SEGA"
+	rom ( crc 6520304D )
+)
+
+game (
+	comment "Ecco the Dolphin (USA, Europe, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc 45547390 )
+)
+
+game (
+	comment "Ecco the Dolphin II (Japan)"
+	publisher "SEGA"
+	rom ( crc 062D439C )
+)
+
+game (
+	comment "El.Viento (USA)"
+	publisher "Renovation Products"
+	rom ( crc 070A1CEB )
+)
+
+game (
+	comment "El.Viento (Japan)"
+	publisher "Renovation Products"
+	rom ( crc 6091C36E )
+)
+
+game (
+	comment "Elemental Master (Japan)"
+	publisher "Renovation Products"
+	rom ( crc 5F553E29 )
+)
+
+game (
+	comment "Elemental Master (USA)"
+	publisher "Renovation Products"
+	rom ( crc 390918C6 )
+)
+
+game (
+	comment "Eliminate Down (Japan)"
+	publisher "Soft Vision"
+	rom ( crc 48467542 )
+)
+
+game (
+	comment "Elitserien 95 (Sweden)"
+	publisher "Electronic Arts"
+	rom ( crc E10A25C0 )
+)
+
+game (
+	comment "Elitserien 96 (Sweden)"
+	publisher "Electronic Arts"
+	rom ( crc 9821D0A3 )
+)
+
+game (
+	comment "Empire of Steel (Europe)"
+	publisher "Hot-B"
+	rom ( crc E5517B77 )
+)
+
+game (
+	comment "ESPN Baseball Tonight (USA)"
+	publisher "Sony Imagesoft"
+	rom ( crc 96D8440C )
+)
+
+game (
+	comment "ESPN National Hockey Night (USA)"
+	publisher "Sony Imagesoft"
+	rom ( crc 1D08828C )
+)
+
+game (
+	comment "ESPN Speed World (USA)"
+	publisher "Sony Imagesoft"
+	rom ( crc F50BE478 )
+)
+
+game (
+	comment "ESPN Sunday Night NFL (USA)"
+	publisher "Sony Electronic Publishing"
+	rom ( crc 61E9C309 )
+)
+
+game (
+	comment "ESWAT - City under Siege (USA, Europe) (Rev A)"
+	publisher "SEGA"
+	rom ( crc E72F8A36 )
+)
+
+game (
+	comment "Eternal Champions (Europe)"
+	publisher "SEGA"
+	rom ( crc B9512F5E )
+)
+
+game (
+	comment "Eternal Champions (Japan, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc 66AA3C64 )
+)
+
+game (
+	comment "Eternal Champions (USA)"
+	publisher "SEGA"
+	rom ( crc 48F1A42E )
+)
+
+game (
+	comment "Europa Sensen (Japan)"
+	publisher "Koei"
+	rom ( crc B0416C60 )
+)
+
+game (
+	comment "European Club Soccer (Europe)"
+	publisher "Krisalis Software"
+	rom ( crc 6A5CF104 )
+)
+
+game (
+	comment "Evander Holyfield's 'Real Deal' Boxing (World)"
+	publisher "SEGA"
+	rom ( crc 4FEF37C8 )
+)
+
+game (
+	comment "Ex-Mutants (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 33B1979F )
+)
+
+game (
+	comment "Ex-Ranza (Japan)"
+	publisher "SEGA"
+	rom ( crc 349BB68D )
+)
+
+game (
+	comment "Exile (USA)"
+	publisher "Telenet"
+	rom ( crc 1B569DC2 )
+)
+
+game (
+	comment "Exile (USA) (Sega Channel)"
+	publisher "Telenet"
+	rom ( crc 8C6E2AA3 )
+)
+
+game (
+	comment "Exile - Toki no Hazama he (Japan)"
+	publisher "Telenet"
+	rom ( crc 880BF311 )
+)
+
+game (
+	comment "Exo Squad (Europe)"
+	publisher "Virgin"
+	rom ( crc B599B9F9 )
+)
+
+game (
+	comment "F-117 Night Storm (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 1BF67A07 )
+)
+
+game (
+	comment "Exo Squad (USA)"
+	publisher "Virgin"
+	rom ( crc 10EC03F3 )
+)
+
+game (
+	comment "F-117 Stealth - Operation - Night Storm (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc EA6E421A )
+)
+
+game (
+	comment "F-15 Strike Eagle II (USA)"
+	publisher "MicroProse"
+	rom ( crc 412C4D60 )
+)
+
+game (
+	comment "F-15 Strike Eagle II (Europe)"
+	publisher "MicroProse"
+	rom ( crc E98EE370 )
+)
+
+game (
+	comment "F-22 Interceptor (USA) (1991-09-17) (Sega Channel)"
+	publisher "Electronic Arts"
+	rom ( crc BD468C42 )
+)
+
+game (
+	comment "F-22 Interceptor - Advanced Tactical Fighter (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc FB55C785 )
+)
+
+game (
+	comment "F-22 Interceptor - Advanced Tactical Fighter (USA, Europe) (F-202)"
+	publisher "Electronic Arts"
+	rom ( crc 9CF552C2 )
+)
+
+game (
+	comment "F-22 Interceptor - Advanced Tactical Fighter (USA) (F-205)"
+	publisher "Electronic Arts"
+	rom ( crc 98FAE0E1 )
+)
+
+game (
+	comment "F1 (Europe)"
+	publisher "Lankhor"
+	rom ( crc FBDD4520 )
+)
+
+game (
+	comment "F1 Circus MD (Japan) (En)"
+	publisher "Nichibutsu"
+	rom ( crc 5D30BEFB )
+)
+
+game (
+	comment "F1 - World Championship Edition (Europe)"
+	publisher "Domark"
+	rom ( crc 74CEE0A7 )
+)
+
+game (
+	comment "Faery Tale Adventure, The (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 963F4969 )
+)
+
+game (
+	comment "Family Feud (USA)"
+	publisher "GameTek"
+	rom ( crc 1AA628B0 )
+)
+
+game (
+	comment "Fantasia (USA, Europe)"
+	publisher "Infogrames"
+	rom ( crc D351B242 )
+)
+
+game (
+	comment "Fantasia (World) (Rev A)"
+	publisher "Infogrames"
+	rom ( crc FC43DF2D )
+)
+
+game (
+	comment "Fantasia (World) (1991-06-17) (Sega Channel)"
+	publisher "Infogrames"
+	rom ( crc 34E04627 )
+)
+
+game (
+	comment "Fastest 1 (Japan)"
+	publisher "Human"
+	rom ( crc BB43F0DE )
+)
+
+game (
+	comment "Fantastic Dizzy (USA, Europe) (En,Fr,De,Es,It)"
+	publisher "Codemasters"
+	rom ( crc 46447E7A )
+)
+
+game (
+	comment "Fatal Fury (Europe, Korea) (En)"
+	publisher "SNK"
+	rom ( crc 71AA889E )
+)
+
+game (
+	comment "Fatal Fury (USA)"
+	publisher "SNK"
+	rom ( crc 98D49170 )
+)
+
+game (
+	comment "Fatal Fury 2 (USA, Korea) (En)"
+	publisher "Takara"
+	rom ( crc 1B1754CB )
+)
+
+game (
+	comment "Fatal Labyrinth (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 5F0BD984 )
+)
+
+game (
+	comment "Fatal Rewind (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc E91AED05 )
+)
+
+game (
+	comment "Fatman (Japan)"
+	publisher "Razorsoft"
+	rom ( crc 7867DA3A )
+)
+
+game (
+	comment "Fatal Rewind (USA, Europe) (Rev 1)"
+	publisher "Electronic Arts"
+	rom ( crc 21DBB69D )
+)
+
+game (
+	comment "Ferias Frustradas do Pica Pau (Brazil)"
+	publisher "Tec Toy"
+	rom ( crc b03507c4 )
+)
+
+game (
+	comment "Ferrari Grand Prix Challenge (USA)"
+	publisher "Flying Edge"
+	rom ( crc F73F6BEC )
+)
+
+game (
+	comment "Fever Pitch Soccer (Europe) (En,Fr,De,Es,It)"
+	publisher "U.S. Gold"
+	rom ( crc FAC29677 )
+)
+
+game (
+	comment "Ferrari Grand Prix Challenge (Europe)"
+	publisher "Flying Edge"
+	rom ( crc 250111DF )
+)
+
+game (
+	comment "FIFA 98 - Road to World Cup (Europe) (En,Fr,Es,It,Sv)"
+	publisher "EA Sports"
+	rom ( crc 96947F57 )
+)
+
+game (
+	comment "FIFA International Soccer (USA, Europe) (En,Fr,De,Es)"
+	publisher "EA Sports"
+	rom ( crc BDDBB763 )
+)
+
+game (
+	comment "FIFA International Soccer (Japan) (En,Ja)"
+	publisher "EA Sports"
+	rom ( crc B555E8B4 )
+)
+
+game (
+	comment "FIFA Soccer 95 (USA, Europe) (En,Fr,De,Es)"
+	publisher "EA Sports"
+	rom ( crc B389D036 )
+)
+
+game (
+	comment "FIFA Soccer 95 (Korea) (En,Fr,De,Es)"
+	publisher "EA Sports"
+	rom ( crc 012591F9 )
+)
+
+game (
+	comment "FIFA Soccer 96 (USA, Europe) (En,Fr,De,Es,It,Sv)"
+	publisher "EA Sports"
+	rom ( crc BAD30FFA )
+)
+
+game (
+	comment "FIFA Soccer 97 (USA, Europe) (En,Fr,De,Es,It,Sv)"
+	publisher "EA Sports"
+	rom ( crc A33D5803 )
+)
+
+game (
+	comment "Fighting Masters (Japan, Korea) (En)"
+	publisher "Treco"
+	rom ( crc 39BE80EC )
+)
+
+game (
+	comment "Fighting Masters (USA)"
+	publisher "Treco"
+	rom ( crc 5F51983B )
+)
+
+game (
+	comment "Final Blow (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc 48AD505D )
+)
+
+game (
+	comment "Fire Mustang (Japan)"
+	publisher "Taito"
+	rom ( crc EB7E36C3 )
+)
+
+game (
+	comment "Fire Shark (Europe)"
+	publisher "SEGA"
+	rom ( crc 2351CE61 )
+)
+
+game (
+	comment "Fire Shark (USA)"
+	publisher "SEGA"
+	rom ( crc 9C175146 )
+)
+
+game (
+	comment "Flashback (Europe) (En,Fr)"
+	publisher "Delphine Software International"
+	rom ( crc EDE60E88 )
+)
+
+game (
+	comment "Flashback (Japan)"
+	publisher "Delphine Software International"
+	rom ( crc B790E3B4 )
+)
+
+game (
+	comment "Flashback - The Quest for Identity (USA) (En,Fr)"
+	publisher "Delphine Software International"
+	rom ( crc 9FEFB1AB )
+)
+
+game (
+	comment "Flicky (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 4291C8AB )
+)
+
+game (
+	comment "Flink (Europe) (En,Fr,De)"
+	publisher "Psygnosis"
+	rom ( crc BEF9A4F4 )
+)
+
+game (
+	comment "Flintstones, The (Japan) (Taito)"
+	publisher "Taito"
+	rom ( crc 920A3031 )
+)
+
+game (
+	comment "Flintstones, The (Europe) (Taito)"
+	publisher "Taito"
+	rom ( crc 21845D61 )
+)
+
+game (
+	comment "Flux (Europe) (Program)"
+	publisher "Virgin"
+	rom ( crc 2A1DA08C )
+)
+
+game (
+	comment "Flintstones, The (USA) (Taito)"
+	publisher "Taito"
+	rom ( crc 7C982C59 )
+)
+
+game (
+	comment "Foreman for Real (World)"
+	publisher "Acclaim"
+	rom ( crc ba6eaeca )
+)
+
+game (
+	comment "Forgotten Worlds (World)"
+	publisher "Capcom"
+	rom ( crc D0EE6434 )
+)
+
+game (
+	comment "Forgotten Worlds (World) (Rev A)"
+	publisher "Capcom"
+	rom ( crc 95513985 )
+)
+
+game (
+	comment "Formula One (USA)"
+	publisher "Lankhor"
+	rom ( crc CCD73738 )
+)
+
+game (
+	comment "Frank Thomas Big Hurt Baseball (USA, Europe)"
+	publisher "Iguana Entertainment"
+	rom ( crc 863E0950 )
+)
+
+game (
+	comment "Frogger (USA)"
+	publisher "Majesco"
+	rom ( crc EA2E48C0 )
+)
+
+game (
+	comment "Frogger (USA) (Rev 1)"
+	publisher "Majesco"
+	rom ( crc FD75BC31 )
+)
+
+game (
+	comment "From TV Animation Slam Dunk - Kyougou Makkou Taiketsu! (Japan)"
+	publisher "Bandai Namco"
+	rom ( crc CDF5678F )
+)
+
+game (
+	comment "Fun 'n Games (Europe)"
+	publisher "Tradewest"
+	rom ( crc DA4AB3CD )
+)
+
+game (
+	comment "Fun 'n' Games (USA)"
+	publisher "Tradewest"
+	rom ( crc B5AE351D )
+)
+
+game (
+	comment "Fushigi no Umi no Nadia (Japan)"
+	publisher "Namco"
+	rom ( crc 4762062A )
+)
+
+game (
+	comment "G-LOC - Air Battle (World)"
+	publisher "SEGA"
+	rom ( crc F2AF886E )
+)
+
+game (
+	comment "FZ Senki Axis ~ Final Zone (Japan, USA) (En)"
+	publisher "Wolf Team"
+	rom ( crc 731FA4A1 )
+)
+
+game (
+	comment "G-LOC - Air Battle (World) (1992-11-23) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc C6BC06FD )
+)
+
+game (
+	comment "Gadget Twins (USA)"
+	publisher "GameTek"
+	rom ( crc 7AE5E248 )
+)
+
+game (
+	comment "Gaiares (Japan, USA) (En)"
+	publisher "Renovation Products"
+	rom ( crc 5D8BF68B )
+)
+
+game (
+	comment "Gain Ground (Europe)"
+	publisher "SEGA"
+	rom ( crc AEE20A64 )
+)
+
+game (
+	comment "Gain Ground (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc 8641A2AB )
+)
+
+game (
+	comment "Gain Ground (USA)"
+	publisher "SEGA"
+	rom ( crc 83E7B8AE )
+)
+
+game (
+	comment "Galaxy Force II (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc CAE883C5 )
+)
+
+game (
+	comment "Galaxy Force II (World) (Rev B)"
+	publisher "SEGA"
+	rom ( crc D15F5C3C )
+)
+
+game (
+	comment "Galaxy Force II (Japan) (En) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc BC3646BB )
+)
+
+game (
+	comment "Galaxy Force II (USA, Europe) (PC Rerelease)"
+	publisher "SEGA"
+	rom ( crc E4D84E4A )
+)
+
+game (
+	comment "Gambler Jiko Chuushinha - Katayama Masayuki no Mahjong Doujou (Japan)"
+	publisher "Game Arts"
+	rom ( crc 05650B7A )
+)
+
+game (
+	comment "Game no Kanzume Otokuyou (Japan) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc CDAD7E6B )
+)
+
+game (
+	comment "Game Toshokan (Japan) (Rev A) (Program)"
+	publisher "SEGA"
+	rom ( crc C185C819 )
+)
+
+game (
+	comment "Garfield - Caught in the Act (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc F0FF078E )
+)
+
+game (
+	comment "Gargoyles (USA)"
+	publisher "Disney Interactive"
+	rom ( crc 2D965364 )
+)
+
+game (
+	comment "Garou Densetsu - Shukumei no Tatakai (Japan)"
+	publisher "SNK"
+	rom ( crc BF3E3FA4 )
+)
+
+game (
+	comment "Garry Kitchen's Super Battletank - War in the Gulf (USA)"
+	publisher "Absolute Entertainment"
+	rom ( crc B0B5E3C9 )
+)
+
+game (
+	comment "Garou Densetsu 2 - Aratanaru Tatakai (Japan)"
+	publisher "Takara"
+	rom ( crc 2AF4427F )
+)
+
+game (
+	comment "Gauntlet (Japan) (En,Ja)"
+	publisher "M2TO"
+	rom ( crc F9872055 )
+)
+
+game (
+	comment "Gemfire (USA)"
+	publisher "Koei"
+	rom ( crc 3D36135B )
+)
+
+game (
+	comment "Gauntlet IV (USA, Europe) (En,Ja)"
+	publisher "M2TO"
+	rom ( crc 3BF46DCE )
+)
+
+game (
+	comment "General Chaos (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc F1ECC4DF )
+)
+
+game (
+	comment "General Chaos Daikonsen (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 05CC7369 )
+)
+
+game (
+	comment "Generations Lost (USA, Europe)"
+	publisher "Time Warner Interactive"
+	rom ( crc 131F36A6 )
+)
+
+game (
+	comment "Genghis Khan II - Clan of the Gray Wolf (USA)"
+	publisher "Koei"
+	rom ( crc 87A281AE )
+)
+
+game (
+	comment "George Foreman's KO Boxing (Europe)"
+	publisher "Beam Software"
+	rom ( crc BD556381 )
+)
+
+game (
+	comment "George Foreman's KO Boxing (USA)"
+	publisher "Beam Software"
+	rom ( crc E1FDC787 )
+)
+
+game (
+	comment "Ghostbusters (Japan)"
+	publisher "SEGA"
+	rom ( crc 00419DA3 )
+)
+
+game (
+	comment "Ghostbusters (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 792DF93B )
+)
+
+game (
+	comment "Gleylancer (Japan)"
+	publisher "NCS Corporation"
+	rom ( crc 42CF9B5B )
+)
+
+game (
+	comment "Global Gladiators (Europe)"
+	publisher "Virgin"
+	rom ( crc 5C218C6A )
+)
+
+game (
+	comment "Go Net (Japan)"
+	publisher "SEGA"
+	rom ( crc DB30F773 )
+)
+
+game (
+	comment "Gods (Japan)"
+	publisher "Mindscape"
+	rom ( crc E4F50206 )
+)
+
+game (
+	comment "Gods (Europe)"
+	publisher "Mindscape"
+	rom ( crc 6C415016 )
+)
+
+game (
+	comment "Gods (USA)"
+	publisher "Mindscape"
+	rom ( crc FD234CCD )
+)
+
+game (
+	comment "Golden Axe (World)"
+	publisher "SEGA"
+	rom ( crc E8182B90 )
+)
+
+game (
+	comment "Golden Axe (World) (Rev B) (Sega Smash Pack)"
+	publisher "SEGA"
+	rom ( crc 31227079 )
+)
+
+game (
+	comment "Golden Axe (World) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 665D7DF9 )
+)
+
+game (
+	comment "Golden Axe II (World)"
+	publisher "SEGA"
+	rom ( crc 725E0A18 )
+)
+
+game (
+	comment "Golden Axe III (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc C7862EA3 )
+)
+
+game (
+	comment "Golden Axe III (Europe) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc 1D90DC83 )
+)
+
+game (
+	comment "Goofy's Hysterical History Tour (USA)"
+	publisher "Absolute Entertainment"
+	rom ( crc 4E1CC833 )
+)
+
+game (
+	comment "Gouketsuji Ichizoku (Japan)"
+	publisher "Atlus"
+	rom ( crc ABE9C415 )
+)
+
+game (
+	comment "Granada (Japan, USA) (En)"
+	publisher "Renovation Products"
+	rom ( crc 7F45719B )
+)
+
+game (
+	comment "Granada (Japan, USA) (En) (Rev A)"
+	publisher "Renovation Products"
+	rom ( crc E89D1E66 )
+)
+
+game (
+	comment "GrandSlam - The Tennis Tournament (Europe)"
+	publisher "System Sacom"
+	rom ( crc 8C2670DE )
+)
+
+game (
+	comment "GrandSlam - The Tennis Tournament '92 (Japan)"
+	publisher "System Sacom"
+	rom ( crc 30CF37D0 )
+)
+
+game (
+	comment "Great Circus Mystery - Mickey to Minnie Magical Adventure 2 (Japan)"
+	publisher "Capcom"
+	rom ( crc 5AA0F3A0 )
+)
+
+game (
+	comment "Great Circus Mystery Starring Mickey & Minnie, The (USA)"
+	publisher "Capcom"
+	rom ( crc 14744883 )
+)
+
+game (
+	comment "Great Waldo Search, The (USA)"
+	publisher "THQ"
+	rom ( crc 8C5C93B8 )
+)
+
+game (
+	comment "Greatest Heavyweights (Europe)"
+	publisher "SEGA"
+	rom ( crc 9778C181 )
+)
+
+game (
+	comment "Greatest Heavyweights (USA)"
+	publisher "SEGA"
+	rom ( crc 6E3621D5 )
+)
+
+game (
+	comment "Greatest Heavyweights (Japan)"
+	publisher "SEGA"
+	rom ( crc 7EF8B162 )
+)
+
+game (
+	comment "Greendog - The Beached Surfer Dude! (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc C4820A03 )
+)
+
+game (
+	comment "Grind Stormer (USA)"
+	publisher "Tengen"
+	rom ( crc 7E6BEF15 )
+)
+
+game (
+	comment "Growl (USA)"
+	publisher "Taito"
+	rom ( crc F60EF143 )
+)
+
+game (
+	comment "Gunship (Europe)"
+	publisher "Probe Software"
+	rom ( crc DA1440C9 )
+)
+
+game (
+	comment "Gunstar Heroes (USA)"
+	publisher "SEGA"
+	rom ( crc B813CF0D )
+)
+
+game (
+	comment "Gunstar Heroes (Japan)"
+	publisher "SEGA"
+	rom ( crc 1CFD0383 )
+)
+
+game (
+	comment "Gunstar Heroes (Europe)"
+	publisher "SEGA"
+	rom ( crc 866ED9D0 )
+)
+
+game (
+	comment "Gynoug (Europe)"
+	publisher "DreamWorks"
+	rom ( crc 03405102 )
+)
+
+game (
+	comment "Gynoug (Japan)"
+	publisher "DreamWorks"
+	rom ( crc 1B69241F )
+)
+
+game (
+	comment "Hard Drivin' (World)"
+	publisher "Atari"
+	rom ( crc 3225BAAF )
+)
+
+game (
+	comment "HardBall '94 (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc EA9C4878 )
+)
+
+game (
+	comment "Haunting Starring Polterguy (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc C9FC876D )
+)
+
+game (
+	comment "HardBall '95 (USA)"
+	publisher "Accolade"
+	rom ( crc ED10BC9E )
+)
+
+game (
+	comment "Havoc (Europe)"
+	publisher "Codemasters"
+	rom ( crc 76E6D20D )
+)
+
+game (
+	comment "Head-On Soccer (USA)"
+	publisher "U.S. Gold"
+	rom ( crc DCFFA327 )
+)
+
+game (
+	comment "Heavy Nova (USA)"
+	publisher "Micronet"
+	rom ( crc F6B6A9D8 )
+)
+
+game (
+	comment "Heavy Unit - Mega Drive Special (Japan)"
+	publisher "Toho Company"
+	rom ( crc 1ACBE608 )
+)
+
+game (
+	comment "Hellfire (Europe)"
+	publisher "SEGA"
+	rom ( crc CF30ACEC )
+)
+
+game (
+	comment "Hellfire (Japan)"
+	publisher "SEGA"
+	rom ( crc 8E5E13BA )
+)
+
+game (
+	comment "Hellfire (USA)"
+	publisher "SEGA"
+	rom ( crc 184018F9 )
+)
+
+game (
+	comment "Herzog Zwei (Japan)"
+	publisher "SEGA"
+	rom ( crc 4CF676B3 )
+)
+
+game (
+	comment "Herzog Zwei (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc A605B65B )
+)
+
+game (
+	comment "High Seas Havoc (USA)"
+	publisher "Codemasters"
+	rom ( crc 17BE551C )
+)
+
+game (
+	comment "Hit the Ice - VHL - The Official Video Hockey League (USA)"
+	publisher "Taito"
+	rom ( crc 85B23606 )
+)
+
+game (
+	comment "Hokuto no Ken - Shin Seikimatsu Kyuuseishu Densetsu (Japan)"
+	publisher "SEGA"
+	rom ( crc 1B6585E7 )
+)
+
+game (
+	comment "Home Alone (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc AA0D4387 )
+)
+
+game (
+	comment "Home Alone 2 - Lost in New York (USA) (1993-09-29) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc C2F37AE2 )
+)
+
+game (
+	comment "Home Alone 2 - Lost in New York (USA)"
+	publisher "SEGA"
+	rom ( crc CBF87C14 )
+)
+
+game (
+	comment "Honoo no Toukyuuji - Dodge Danpei (Japan)"
+	publisher "SEGA"
+	rom ( crc 630F07C6 )
+)
+
+game (
+	comment "Hook (USA)"
+	publisher "Ukiyotei"
+	rom ( crc 2C48E712 )
+)
+
+game (
+	comment "Hook (Europe)"
+	publisher "Ukiyotei"
+	rom ( crc A154433A )
+)
+
+game (
+	comment "Humans, The (USA)"
+	publisher "Imagic"
+	rom ( crc A0CF4366 )
+)
+
+game (
+	comment "Hurricanes (Europe)"
+	publisher "U.S. Gold"
+	rom ( crc DECCC874 )
+)
+
+game (
+	comment "Hyokkori Hyoutan-jima - Daitouryou wo Mezase! (Japan)"
+	publisher "SEGA"
+	rom ( crc 72253BDB )
+)
+
+game (
+	comment "Hybrid Front, The (Japan)"
+	publisher "SEGA"
+	rom ( crc A1F1CFE7 )
+)
+
+game (
+	comment "Hyper Dunk (Europe)"
+	publisher "Konami"
+	rom ( crc F27C576A )
+)
+
+game (
+	comment "Hyper Marbles (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 83BB2799 )
+)
+
+game (
+	comment "Hyper Dunk - The Playoff Edition (Japan)"
+	publisher "Konami"
+	rom ( crc 5BAF53D7 )
+)
+
+game (
+	comment "Hyper Marbles (Japan) (Game no Kanzume Otokuyou)"
+	publisher "SEGA"
+	rom ( crc 9ED72146 )
+)
+
+game (
+	comment "Hyper Marbles (Japan) (Game no Kanzume Vol. 1)"
+	publisher "SEGA"
+	rom ( crc C4704467 )
+)
+
+game (
+	comment "I Love Mickey and Donald - Fushigi na Magic Box (Japan) (Rev 1)"
+	publisher "SEGA"
+	rom ( crc 277bdb4c )
+)
+
+game (
+	comment "I Love Mickey and Donald - Fushigi na Magic Box (Japan)"
+	publisher "SEGA"
+	rom ( crc CB9EE238 )
+)
+
+game (
+	comment "Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (Game no Kanzume Otokuyou)"
+	publisher "SEGA"
+	rom ( crc 22736650 )
+)
+
+game (
+	comment "I Love Mickey Mouse - Fushigi no Oshiro Daibouken (Japan)"
+	publisher "SEGA"
+	rom ( crc CE8333C6 )
+)
+
+game (
+	comment "Ikasuze! Koi no Doki Doki Penguin Land MD (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 0053BFD6 )
+)
+
+game (
+	comment "IMG International Tour Tennis (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc E04FFC2B )
+)
+
+game (
+	comment "Immortal, The (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc F653C508 )
+)
+
+game (
+	comment "Incredible Crash Dummies, The (USA, Europe)"
+	publisher "Gray Matter"
+	rom ( crc 1F6E574A )
+)
+
+game (
+	comment "Incredible Hulk, The (USA, Europe)"
+	publisher "Probe Software"
+	rom ( crc 84A5A2DC )
+)
+
+game (
+	comment "Indiana Jones and the Last Crusade (Europe)"
+	publisher "Tiertex"
+	rom ( crc EB8F4374 )
+)
+
+game (
+	comment "Indiana Jones and the Last Crusade (USA)"
+	publisher "Tiertex"
+	rom ( crc 3599A3FD )
+)
+
+game (
+	comment "Insector X (Japan, Korea) (Ja)"
+	publisher "Taito"
+	rom ( crc 9625C434 )
+)
+
+game (
+	comment "Insector X (USA)"
+	publisher "Taito"
+	rom ( crc 70626304 )
+)
+
+game (
+	comment "International Rugby (Europe)"
+	publisher "Tiertex"
+	rom ( crc D97D1699 )
+)
+
+game (
+	comment "Instruments of Chaos Starring Young Indiana Jones (USA)"
+	publisher "LucasArts"
+	rom ( crc 4E384EF0 )
+)
+
+game (
+	comment "International Sensible Soccer (Europe) (En,Fr,De,It)"
+	publisher "Sensible Software"
+	rom ( crc 04E3BCCA )
+)
+
+game (
+	comment "International Superstar Soccer Deluxe (Europe, Brazil) (En)"
+	publisher "Konami"
+	rom ( crc 9BB3B180 )
+)
+
+game (
+	comment "J. League Champion Soccer (Japan)"
+	publisher "Krisalis Software"
+	rom ( crc 453C405E )
+)
+
+game (
+	comment "Izzy's Quest for the Olympic Rings (USA, Europe)"
+	publisher "U.S. Gold"
+	rom ( crc 77B416E4 )
+)
+
+game (
+	comment "J. League Pro Striker (Japan)"
+	publisher "SEGA"
+	rom ( crc EC229156 )
+)
+
+game (
+	comment "J. League Pro Striker 2 (Japan)"
+	publisher "SEGA"
+	rom ( crc 9FE71002 )
+)
+
+game (
+	comment "J. League Pro Striker Perfect (Japan)"
+	publisher "SEGA"
+	rom ( crc 0ABED379 )
+)
+
+game (
+	comment "J. League Pro Striker (Japan) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 2D5B7A11 )
+)
+
+game (
+	comment "Jack Nicklaus' Power Challenge Golf (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc 5545E909 )
+)
+
+game (
+	comment "James 'Buster' Douglas Knockout Boxing (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 87BBCF2A )
+)
+
+game (
+	comment "James Bond 007 - The Duel (Europe)"
+	publisher "Domark"
+	rom ( crc 291A3E4B )
+)
+
+game (
+	comment "James Bond 007 - The Duel (USA)"
+	publisher "Domark"
+	rom ( crc 4E614548 )
+)
+
+game (
+	comment "James Pond - Underwater Agent (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc D0E7B466 )
+)
+
+game (
+	comment "James Pond II (Japan, Korea) (Ja)"
+	publisher "Electronic Arts"
+	rom ( crc 98794702 )
+)
+
+game (
+	comment "James Pond 3 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 26F64B2A )
+)
+
+game (
+	comment "James Pond II - Codename - Robocod (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc F4ABEDBA )
+)
+
+game (
+	comment "Jammit (USA)"
+	publisher "Virgin"
+	rom ( crc D91B52B8 )
+)
+
+game (
+	comment "Janou Touryuumon (Japan)"
+	publisher "SEGA"
+	rom ( crc B5EF97C6 )
+)
+
+game (
+	comment "Jantei Monogatari (Japan)"
+	publisher "Renovation Products"
+	rom ( crc 8A1B19AD )
+)
+
+game (
+	comment "Jashin Draxos (Japan, Korea) (Ja)"
+	publisher "Electronic Arts"
+	rom ( crc 1EA07AF2 )
+)
+
+game (
+	comment "Jeopardy! (USA)"
+	publisher "GameTek"
+	rom ( crc 56CFF3F1 )
+)
+
+game (
+	comment "Jeopardy! - Deluxe Edition (USA)"
+	publisher "GameTek"
+	rom ( crc 25E2F9D2 )
+)
+
+game (
+	comment "Jennifer Capriati Tennis (USA)"
+	publisher "System Sacom"
+	rom ( crc AB2ABC8E )
+)
+
+game (
+	comment "Jeopardy! - Sports Edition (USA)"
+	publisher "GameTek"
+	rom ( crc 13F924D2 )
+)
+
+game (
+	comment "Jerry Glanville's Pigskin Footbrawl (USA)"
+	publisher "Midway"
+	rom ( crc E7F48D30 )
+)
+
+game (
+	comment "Jewel Master (Japan)"
+	publisher "SEGA"
+	rom ( crc 2CF6926C )
+)
+
+game (
+	comment "Jimmy White's Whirlwind Snooker (Europe)"
+	publisher "Virgin"
+	rom ( crc 0AEF5B1F )
+)
+
+game (
+	comment "Jewel Master (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc CEE98813 )
+)
+
+game (
+	comment "Joe & Mac (USA)"
+	publisher "Takara"
+	rom ( crc 85BCC1C7 )
+)
+
+game (
+	comment "Joe Montana Football (World)"
+	publisher "SEGA"
+	rom ( crc 8AA6A1DD )
+)
+
+game (
+	comment "Joe Montana II - Sports Talk Football (World) (Rev A)"
+	publisher "SEGA"
+	rom ( crc A45DA893 )
+)
+
+game (
+	comment "Joe Montana II Sports Talk Football (World)"
+	publisher "SEGA"
+	rom ( crc F2363A4A )
+)
+
+game (
+	comment "John Madden Football (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 90FB8818 )
+)
+
+game (
+	comment "John Madden Football - Championship Edition (USA)"
+	publisher "Looking Glass Studios"
+	rom ( crc CA534B1A )
+)
+
+game (
+	comment "John Madden Football (USA, Europe) (1990-11-07) (Sega Channel)"
+	publisher "Electronic Arts"
+	rom ( crc E361DB13 )
+)
+
+game (
+	comment "John Madden Football - Pro Football (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 0460611C )
+)
+
+game (
+	comment "John Madden Football '93 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc CA323B3E )
+)
+
+game (
+	comment "John Madden Football '92 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 046E3945 )
+)
+
+game (
+	comment "Jordan vs Bird (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 22D77E6D )
+)
+
+game (
+	comment "Jordan vs Bird (USA, Europe) (Rev A)"
+	publisher "Electronic Arts"
+	rom ( crc 4D3DDD7C )
+)
+
+game (
+	comment "Jordan vs Bird - One on One (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 8837E896 )
+)
+
+game (
+	comment "Journey from Darkness - Strider Returns (USA)"
+	publisher "Capcom"
+	rom ( crc 42589B79 )
+)
+
+game (
+	comment "JuJu Densetsu (Japan) (En)"
+	publisher "Taito"
+	rom ( crc D09B1EF1 )
+)
+
+game (
+	comment "Judge Dredd (World)"
+	publisher "Acclaim"
+	rom ( crc EA342ED8 )
+)
+
+game (
+	comment "Junction (Japan, USA) (En)"
+	publisher "Konami"
+	rom ( crc 94CDCE8D )
+)
+
+game (
+	comment "Jungle Book, The (Europe)"
+	publisher "Disney Interactive"
+	rom ( crc B9709A99 )
+)
+
+game (
+	comment "Jungle Book, The (USA)"
+	publisher "Disney Interactive"
+	rom ( crc 3FB6D92E )
+)
+
+game (
+	comment "Jungle Book, The (World) (Disney Classic Games)"
+	publisher "Disney Interactive"
+	rom ( crc f48eb5da )
+)
+
+game (
+	comment "Jungle Strike (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc A5D29735 )
+)
+
+game (
+	comment "Jungle Strike - Uketsugareta Kyouki (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc BA7A870B )
+)
+
+game (
+	comment "Jurassic Park (Japan)"
+	publisher "BlueSky Software"
+	rom ( crc EC8E5783 )
+)
+
+game (
+	comment "Jurassic Park (Europe)"
+	publisher "BlueSky Software"
+	rom ( crc 448341F6 )
+)
+
+game (
+	comment "Jurassic Park (USA)"
+	publisher "BlueSky Software"
+	rom ( crc 7B31DEEF )
+)
+
+game (
+	comment "Jurassic Park (Europe) (1993-06-14) (Sega Channel)"
+	publisher "BlueSky Software"
+	rom ( crc 64B8BEB5 )
+)
+
+game (
+	comment "Jurassic Park (USA) (1993-05-26) (Sega Channel)"
+	publisher "BlueSky Software"
+	rom ( crc B44968E7 )
+)
+
+game (
+	comment "Justice League Task Force (World)"
+	publisher "Acclaim"
+	rom ( crc 88bb241f )
+)
+
+game (
+	comment "Jurassic Park - Rampage Edition (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 98B4AA1B )
+)
+
+game (
+	comment "Juuouki (Japan) (Rev A)"
+	publisher "SEGA"
+	rom ( crc B2233E87 )
+)
+
+game (
+	comment "Juusou Kihei Leynos (Japan)"
+	publisher "DreamWorks"
+	rom ( crc 81A2C800 )
+)
+
+game (
+	comment "Juuouki (Japan)"
+	publisher "SEGA"
+	rom ( crc 1B7C96C0 )
+)
+
+game (
+	comment "Juusou Kihei Leynos (Japan) (Virtual Console)"
+	publisher "DreamWorks"
+	rom ( crc AF5018F6 )
+)
+
+game (
+	comment "Juusou Kihei Leynos (Japan) (Switch Online)"
+	publisher "DreamWorks"
+	rom ( crc 01278F1C )
+)
+
+game (
+	comment "Ka-Ge-Ki - Fists of Steel (USA)"
+	publisher "Sage's Creation"
+	rom ( crc EFFC0FA6 )
+)
+
+game (
+	comment "Ka-Ge-Ki (Japan)"
+	publisher "Sage's Creation"
+	rom ( crc 391866A1 )
+)
+
+game (
+	comment "Kick Off 3 - European Challenge (Europe) (En,Fr,De,Es,It)"
+	publisher "Anco"
+	rom ( crc BC37401A )
+)
+
+game (
+	comment "Kawasaki Superbike Challenge (USA, Europe)"
+	publisher "Domark"
+	rom ( crc 631CC8E9 )
+)
+
+game (
+	comment "Kick Boxing, The (Japan, Korea) (En)"
+	publisher "Electro Brain Corp."
+	rom ( crc 9BDC230C )
+)
+
+game (
+	comment "Kid Chameleon (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc CE36E6CC )
+)
+
+game (
+	comment "Kidou Keisatsu Patlabor - 98-Shiki Kidou Seyo! (Japan)"
+	publisher "Ma-Ba"
+	rom ( crc 21A0E749 )
+)
+
+game (
+	comment "Killing Game Show, The (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc B8E7668A )
+)
+
+game (
+	comment "King of the Monsters (Japan)"
+	publisher "Takara"
+	rom ( crc 3AF7E74E )
+)
+
+game (
+	comment "King of the Monsters (Europe)"
+	publisher "Takara"
+	rom ( crc 7A94FD49 )
+)
+
+game (
+	comment "King of the Monsters 2 (USA)"
+	publisher "Takara"
+	rom ( crc EE1638AC )
+)
+
+game (
+	comment "King of the Monsters (USA)"
+	publisher "Takara"
+	rom ( crc F390D406 )
+)
+
+game (
+	comment "King Salmon (Japan)"
+	publisher "Takara"
+	rom ( crc 2CFC9F61 )
+)
+
+game (
+	comment "King's Bounty - The Conqueror's Quest (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc AA68A92E )
+)
+
+game (
+	comment "King Salmon - The Big Catch (USA)"
+	publisher "Takara"
+	rom ( crc F516E7D9 )
+)
+
+game (
+	comment "Kiss Shot (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc E487088C )
+)
+
+game (
+	comment "Kishi Densetsu (Japan)"
+	publisher "Kodansha"
+	rom ( crc 22E1F04A )
+)
+
+game (
+	comment "Klax (Japan) (Namco)"
+	publisher "Tengen"
+	rom ( crc 1AFCC1DA )
+)
+
+game (
+	comment "Klax (USA, Europe) (Tengen)"
+	publisher "Tengen"
+	rom ( crc 248CD09E )
+)
+
+game (
+	comment "Koutetsu Teikoku (Japan)"
+	publisher "Hot-B"
+	rom ( crc 755D0B8A )
+)
+
+game (
+	comment "Krusty's Super Fun House (USA, Europe)"
+	publisher "Audiogenic Software"
+	rom ( crc F764005E )
+)
+
+game (
+	comment "Krusty's Super Fun House (USA, Europe) (Rev A)"
+	publisher "Audiogenic Software"
+	rom ( crc 56976261 )
+)
+
+game (
+	comment "Kujaku Ou 2 - Geneijou (Japan)"
+	publisher "SEGA"
+	rom ( crc AFFD56BC )
+)
+
+game (
+	comment "Kyuukai Douchuuki (Japan)"
+	publisher "Namco"
+	rom ( crc DE48DCE3 )
+)
+
+game (
+	comment "Kuuga - Operation Code 'Vapor Trail' (Japan)"
+	publisher "Data East"
+	rom ( crc 83B6B6BA )
+)
+
+game (
+	comment "Kyuukyoku Tiger (Japan)"
+	publisher "SEGA"
+	rom ( crc 61276D21 )
+)
+
+game (
+	comment "La Russa Baseball 95 (USA, Australia)"
+	publisher "Electronic Arts"
+	rom ( crc 3F848A92 )
+)
+
+game (
+	comment "Lakers versus Celtics and the NBA Playoffs (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 0E33FC75 )
+)
+
+game (
+	comment "Landstalker (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc f2d14a6a )
+)
+
+game (
+	comment "Landstalker (USA) (1993-07-13) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc 8866FB16 )
+)
+
+game (
+	comment "Landstalker - Die Schatze von Konig Nolo (Germany)"
+	publisher "SEGA"
+	rom ( crc 10FEDB8F )
+)
+
+game (
+	comment "Landstalker (USA)"
+	publisher "SEGA"
+	rom ( crc FBBB5B97 )
+)
+
+game (
+	comment "Landstalker - Die Schatze von Konig Nolo (Germany) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc fc64bb8c )
+)
+
+game (
+	comment "Landstalker - Koutei no Zaihou (Japan) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc b0afa45a )
+)
+
+game (
+	comment "Landstalker - Le Tresor du Roi Nole (France)"
+	publisher "SEGA"
+	rom ( crc 5DE7D917 )
+)
+
+game (
+	comment "Landstalker - Koutei no Zaihou (Japan)"
+	publisher "SEGA"
+	rom ( crc 60D4CEDB )
+)
+
+game (
+	comment "Landstalker - The Treasures of King Nole (Europe)"
+	publisher "SEGA"
+	rom ( crc E3C65277 )
+)
+
+game (
+	comment "Landstalker - Le Tresor du Roi Nole (France) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 365d282a )
+)
+
+game (
+	comment "Landstalker - The Treasures of King Nole (Europe) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 1ec0ec97 )
+)
+
+game (
+	comment "Langrisser (Japan)"
+	publisher "Treco"
+	rom ( crc B6EA5016 )
+)
+
+game (
+	comment "Langrisser II (Japan)"
+	publisher "NCS Corporation"
+	rom ( crc 7F891DFC )
+)
+
+game (
+	comment "Langrisser II (Japan) (Rev A)"
+	publisher "NCS Corporation"
+	rom ( crc 0CAA0593 )
+)
+
+game (
+	comment "Langrisser II (Japan) (Rev B)"
+	publisher "NCS Corporation"
+	rom ( crc 4967C9F9 )
+)
+
+game (
+	comment "Lawnmower Man, The (USA, Europe)"
+	publisher "Time Warner Interactive"
+	rom ( crc A7CACD59 )
+)
+
+game (
+	comment "Last Battle (USA, Europe, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc BBFAAD77 )
+)
+
+game (
+	comment "Last Action Hero (USA)"
+	publisher "Sony Imagesoft"
+	rom ( crc 15357DDE )
+)
+
+game (
+	comment "Legend of Galahad, The ~ Galahad (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 679557BC )
+)
+
+game (
+	comment "Legende de Thor, La (France)"
+	publisher "SEGA"
+	rom ( crc B97CCA1C )
+)
+
+game (
+	comment "Lemmings (Europe)"
+	publisher "Psygnosis"
+	rom ( crc 6A1A4579 )
+)
+
+game (
+	comment "Legende de Thor, La (France) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc a9359029 )
+)
+
+game (
+	comment "Lemmings 2 - The Tribes (Europe)"
+	publisher "Psygnosis"
+	rom ( crc 741EB624 )
+)
+
+game (
+	comment "Lemmings (Japan, Korea) (En)"
+	publisher "Psygnosis"
+	rom ( crc 68C70362 )
+)
+
+game (
+	comment "Lemmings (USA)"
+	publisher "Psygnosis"
+	rom ( crc F015C2AD )
+)
+
+game (
+	comment "Lemmings 2 - The Tribes (USA)"
+	publisher "Psygnosis"
+	rom ( crc DE59A3A3 )
+)
+
+game (
+	comment "Lethal Enforcers (Europe)"
+	publisher "Konami"
+	rom ( crc CA2BF99D )
+)
+
+game (
+	comment "Lethal Enforcers (Japan)"
+	publisher "Konami"
+	rom ( crc F25F1E49 )
+)
+
+game (
+	comment "Lethal Enforcers (USA)"
+	publisher "Konami"
+	rom ( crc 51D9A84A )
+)
+
+game (
+	comment "Lethal Enforcers II - Gun Fighters (Europe)"
+	publisher "Konami"
+	rom ( crc 4BFE045C )
+)
+
+game (
+	comment "LHX Attack Chopper (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 224FF103 )
+)
+
+game (
+	comment "Lethal Enforcers II - Gun Fighters (USA)"
+	publisher "Konami"
+	rom ( crc E5FDD28B )
+)
+
+game (
+	comment "LHX Attack Chopper (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 70C3428D )
+)
+
+game (
+	comment "Liberty or Death (USA)"
+	publisher "Koei"
+	rom ( crc 2ADB0364 )
+)
+
+game (
+	comment "Light Crusader (Europe) (En,Fr,De,Es)"
+	publisher "SEGA"
+	rom ( crc 52C7252B )
+)
+
+game (
+	comment "Light Crusader (Japan)"
+	publisher "SEGA"
+	rom ( crc 237076A4 )
+)
+
+game (
+	comment "Light Crusader (USA)"
+	publisher "SEGA"
+	rom ( crc BEB715DC )
+)
+
+game (
+	comment "Light Crusader (Korea) (En,Ko)"
+	publisher "SEGA"
+	rom ( crc 6D0CBCB2 )
+)
+
+game (
+	comment "Light Crusader (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc 84390291 )
+)
+
+game (
+	comment "Light Crusader (Europe) (En,Fr,De,Es) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 600e5709 )
+)
+
+game (
+	comment "Light Crusader (Japan) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc f6550938 )
+)
+
+game (
+	comment "Lightening Force - Quest for the Darkstar (World) (Sega Ages)"
+	publisher "SEGA"
+	rom ( crc ca90ff51 )
+)
+
+game (
+	comment "Lightening Force - Quest for the Darkstar (USA)"
+	publisher "SEGA"
+	rom ( crc C8F8C0E0 )
+)
+
+game (
+	comment "Lion King, The (World)"
+	publisher "Virgin Interactive"
+	rom ( crc 5696A5BC )
+)
+
+game (
+	comment "Lion King, The (World) (Disney Classic Games)"
+	publisher "Virgin Interactive"
+	rom ( crc 5D4287E6 )
+)
+
+game (
+	comment "Lord Monarch - Tokoton Sentou Densetsu (Japan)"
+	publisher "Nihon Falcom"
+	rom ( crc 238BF5DB )
+)
+
+game (
+	comment "Lost Vikings, The (Europe) (En,Fr,De)"
+	publisher "Interplay"
+	rom ( crc 1F14EFC6 )
+)
+
+game (
+	comment "Lost Vikings, The (USA) (November, 1993)"
+	publisher "Interplay"
+	rom ( crc 7BA49EDB )
+)
+
+game (
+	comment "Lost Vikings, The (USA) (October, 1995)"
+	publisher "Interplay"
+	rom ( crc 63729B74 )
+)
+
+game (
+	comment "Lost World, The - Jurassic Park (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 140A284C )
+)
+
+game (
+	comment "Lotus Turbo Challenge (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc A3CF6E9C )
+)
+
+game (
+	comment "Madden NFL '94 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc D14B811B )
+)
+
+game (
+	comment "Lotus II (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 1D8EE010 )
+)
+
+game (
+	comment "M-1 Abrams Battle Tank (USA, Europe)"
+	publisher "Dynamix"
+	rom ( crc 1E2F74CF )
+)
+
+game (
+	comment "Madden NFL 95 (USA, Europe)"
+	publisher "EA Sports"
+	rom ( crc DB0BE0C2 )
+)
+
+game (
+	comment "Madden NFL 96 (USA, Europe)"
+	publisher "EA Sports"
+	rom ( crc F126918B )
+)
+
+game (
+	comment "Madden NFL 98 (USA)"
+	publisher "Electronic Arts"
+	rom ( crc E051EA62 )
+)
+
+game (
+	comment "Madden NFL 97 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc C4B4E112 )
+)
+
+game (
+	comment "Madou Monogatari I (Japan)"
+	publisher "Compile"
+	rom ( crc DD82C401 )
+)
+
+game (
+	comment "Magical Hat no Buttobi Turbo! Daibouken (Japan)"
+	publisher "SEGA"
+	rom ( crc E43E853D )
+)
+
+game (
+	comment "Magic School Bus, The - Space Exploration Game (USA)"
+	publisher "SEGA"
+	rom ( crc 1A5D4412 )
+)
+
+game (
+	comment "Magical Taruruuto-kun (Japan)"
+	publisher "SEGA"
+	rom ( crc F11060A5 )
+)
+
+game (
+	comment "Mahjong Cop Ryuu - Shiro Ookami no Yabou (Japan)"
+	publisher "SEGA"
+	rom ( crc 1CCBC782 )
+)
+
+game (
+	comment "Man Overboard! (Europe)"
+	publisher "Codemasters"
+	rom ( crc CAE0E3A6 )
+)
+
+game (
+	comment "Mamono Hunter Youko - Dai 7 no Keishou (Japan)"
+	publisher "Masaya Games"
+	rom ( crc 10BB359B )
+)
+
+game (
+	comment "Marble Madness (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 79EBA28A )
+)
+
+game (
+	comment "Maou Renjishi (Japan)"
+	publisher "DreamWorks"
+	rom ( crc 24A7F28C )
+)
+
+game (
+	comment "Marble Madness (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 775BC464 )
+)
+
+game (
+	comment "Mario Andretti Racing (USA, Europe)"
+	publisher "Stormfront Studios"
+	rom ( crc 7F1DC0AA )
+)
+
+game (
+	comment "Mario Lemieux Hockey (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc F664EB6C )
+)
+
+game (
+	comment "Marko (USA)"
+	publisher "Domark"
+	rom ( crc 2B8C8CCE )
+)
+
+game (
+	comment "Marsupilami (Europe) (En,Fr,De,Es,It)"
+	publisher "SEGA"
+	rom ( crc E09BBD70 )
+)
+
+game (
+	comment "Marko's Magic Football (Europe) (En,Fr,De,Es)"
+	publisher "Domark"
+	rom ( crc 2307B905 )
+)
+
+game (
+	comment "Marsupilami (USA) (En,Fr,De,Es,It)"
+	publisher "SEGA"
+	rom ( crc C76558DF )
+)
+
+game (
+	comment "Marvel Land (Japan)"
+	publisher "Namco"
+	rom ( crc 5D162D21 )
+)
+
+game (
+	comment "Marvel Land (USA)"
+	publisher "Namco"
+	rom ( crc CD7EEEB7 )
+)
+
+game (
+	comment "Mary Shelley's Frankenstein (USA)"
+	publisher "Sony Imagesoft"
+	rom ( crc 48993DC3 )
+)
+
+game (
+	comment "Master of Monsters (Japan)"
+	publisher "System Soft"
+	rom ( crc D51EE8C2 )
+)
+
+game (
+	comment "Master of Monsters (USA)"
+	publisher "System Soft"
+	rom ( crc 91354820 )
+)
+
+game (
+	comment "Master of Weapon (Japan)"
+	publisher "Taito"
+	rom ( crc 12AD6178 )
+)
+
+game (
+	comment "Maten no Soumetsu (Japan)"
+	publisher "Kodansha"
+	rom ( crc B804A105 )
+)
+
+game (
+	comment "Math Blaster - Episode 1 (USA)"
+	publisher "Western Technologies"
+	rom ( crc D055A462 )
+)
+
+game (
+	comment "Mazin Saga (Asia) (En)"
+	publisher "Vic Tokai"
+	rom ( crc 36459B59 )
+)
+
+game (
+	comment "Mazin Saga (Japan, Korea) (Ja)"
+	publisher "Vic Tokai"
+	rom ( crc 45B3A34B )
+)
+
+game (
+	comment "Mazin Wars (Europe)"
+	publisher "Vic Tokai"
+	rom ( crc 4B07A105 )
+)
+
+game (
+	comment "Mazin Saga - Mutant Fighter (USA)"
+	publisher "Vic Tokai"
+	rom ( crc 1BD9FEF1 )
+)
+
+game (
+	comment "McDonald's Treasure Land Adventure (Europe)"
+	publisher "SEGA"
+	rom ( crc 6AB6A8DA )
+)
+
+game (
+	comment "McDonald's Treasure Land Adventure (Japan)"
+	publisher "SEGA"
+	rom ( crc FEBCFD06 )
+)
+
+game (
+	comment "McDonald's Treasure Land Adventure (USA)"
+	publisher "SEGA"
+	rom ( crc 04EF4899 )
+)
+
+game (
+	comment "Medal City (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 3EF4135D )
+)
+
+game (
+	comment "Mega 6 Vol. 3 (Europe)"
+	publisher "SEGA"
+	rom ( crc 80174799 )
+)
+
+game (
+	comment "Mega Anser (Japan) (Program)"
+	publisher "SEGA"
+	rom ( crc 08ECE367 )
+)
+
+game (
+	comment "Mega Bomberman (USA)"
+	publisher "SEGA"
+	rom ( crc 4BD6667D )
+)
+
+game (
+	comment "Mega Games 2 (Europe)"
+	publisher "SEGA"
+	rom ( crc 30D59F2F )
+)
+
+game (
+	comment "Mega Games 3 (Europe, Asia) (En)"
+	publisher "SEGA"
+	rom ( crc B4247D98 )
+)
+
+game (
+	comment "Mega Bomberman (Europe, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc 54AB3BEB )
+)
+
+game (
+	comment "Mega Games 6 (Europe)"
+	publisher "SEGA"
+	rom ( crc B66FB80D )
+)
+
+game (
+	comment "Mega Games 6 Vol. 2 (Europe)"
+	publisher "SEGA"
+	rom ( crc E8D10DB9 )
+)
+
+game (
+	comment "Mega Games I (Europe)"
+	publisher "SEGA"
+	rom ( crc DB753224 )
+)
+
+game (
+	comment "Mega SWIV (Europe)"
+	publisher "Time Warner Interactive"
+	rom ( crc 78C2F046 )
+)
+
+game (
+	comment "Mega lo Mania (Japan)"
+	publisher "Virgin"
+	rom ( crc A60D8619 )
+)
+
+game (
+	comment "Mega Man - The Wily Wars (USA) (Genesis Mini)"
+	publisher "Capcom"
+	rom ( crc 0CD405DB )
+)
+
+game (
+	comment "Mega Man - The Wily Wars (Europe)"
+	publisher "Capcom"
+	rom ( crc DCF6E8B2 )
+)
+
+game (
+	comment "Mega Turrican (Europe)"
+	publisher "Data East"
+	rom ( crc B1D15D0F )
+)
+
+game (
+	comment "Mega Turrican (USA)"
+	publisher "Data East"
+	rom ( crc FE898CC9 )
+)
+
+game (
+	comment "Mega Turrican (USA, Europe) (Virtual Console)"
+	publisher "Data East"
+	rom ( crc 11326504 )
+)
+
+game (
+	comment "Mega-lo-Mania (Europe)"
+	publisher "Virgin"
+	rom ( crc 2148D56D )
+)
+
+game (
+	comment "Mega-lo-Mania (France)"
+	publisher "Virgin"
+	rom ( crc 3B3231ED )
+)
+
+game (
+	comment "MegaMind (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 76DF2AE2 )
+)
+
+game (
+	comment "MegaPanel (Japan)"
+	publisher "Namco"
+	rom ( crc 6240F579 )
+)
+
+game (
+	comment "MegaTrax (Japan)"
+	publisher "Namco"
+	rom ( crc A0837741 )
+)
+
+game (
+	comment "Menacer - 6-Game Cartridge (USA, Europe)"
+	publisher "Western Technologies"
+	rom ( crc 936B85F7 )
+)
+
+game (
+	comment "Metal Fangs (Japan)"
+	publisher "SEGA"
+	rom ( crc A8DF1C4C )
+)
+
+game (
+	comment "Michael Jackson's Moonwalker (Japan, USA) (En)"
+	publisher "SEGA"
+	rom ( crc 6A70791B )
+)
+
+game (
+	comment "Mick & Mack as the Global Gladiators (USA)"
+	publisher "Virgin"
+	rom ( crc 40F17BB3 )
+)
+
+game (
+	comment "Michael Jackson's Moonwalker (World) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 11CE1F9E )
+)
+
+game (
+	comment "Mickey Mania (Europe)"
+	publisher "Sony"
+	rom ( crc CB5A8B85 )
+)
+
+game (
+	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (Japan)"
+	publisher "Sony"
+	rom ( crc 23180CF7 )
+)
+
+game (
+	comment "Mickey Mania - The Timeless Adventures of Mickey Mouse (USA)"
+	publisher "Sony"
+	rom ( crc 629E5963 )
+)
+
+game (
+	comment "Mickey's Ultimate Challenge (USA)"
+	publisher "HiTech Software"
+	rom ( crc 30B512EE )
+)
+
+game (
+	comment "Micro Machines (Europe)"
+	publisher "Codemasters"
+	rom ( crc 7FFBD1AD )
+)
+
+game (
+	comment "Micro Machines (Europe) (Alt 2)"
+	publisher "Codemasters"
+	rom ( crc 50081A0B )
+)
+
+game (
+	comment "Micro Machines (USA)"
+	publisher "Codemasters"
+	rom ( crc 82FE2D3F )
+)
+
+game (
+	comment "Micro Machines (Europe) (Alt)"
+	publisher "Codemasters"
+	rom ( crc E5CF560D )
+)
+
+game (
+	comment "Micro Machines (USA) (Rev 1)"
+	publisher "Codemasters"
+	rom ( crc 54E4CFF1 )
+)
+
+game (
+	comment "Micro Machines - Military (Europe) (J-Cart)"
+	publisher "Codemasters"
+	rom ( crc B3ABB15E )
+)
+
+game (
+	comment "Micro Machines - Military (Europe) (Beta) (1995)"
+	publisher "Codemasters"
+	rom ( crc b33d01bc )
+)
+
+game (
+	comment "Micro Machines - Turbo Tournament 96 (Europe) (J-Cart)"
+	publisher "Codemasters"
+	rom ( crc 7492B1DE )
+)
+
+game (
+	comment "Micro Machines - Turbo Tournament 96 (Europe) (Rev 1) (J-Cart)"
+	publisher "Codemasters"
+	rom ( crc 23319D0D )
+)
+
+game (
+	comment "Micro Machines 2 - Turbo Tournament (Europe) (J-Cart)"
+	publisher "Codemasters"
+	rom ( crc 42BFB7EB )
+)
+
+game (
+	comment "Micro Machines 2 - Turbo Tournament (Europe)"
+	publisher "Codemasters"
+	rom ( crc 01C22A5D )
+)
+
+game (
+	comment "Midnight Resistance (Japan)"
+	publisher "Data East"
+	rom ( crc 8F3F6E4D )
+)
+
+game (
+	comment "Midnight Resistance (USA)"
+	publisher "Data East"
+	rom ( crc 187C6AF6 )
+)
+
+game (
+	comment "Midway Presents Arcade's Greatest Hits (Europe)"
+	publisher "Williams"
+	rom ( crc C0DCE0E5 )
+)
+
+game (
+	comment "Mig-29 Fighter Pilot (Japan)"
+	publisher "Tiertex"
+	rom ( crc 3D239046 )
+)
+
+game (
+	comment "Mig-29 Fighter Pilot (Europe) (En,Fr,De,Es,It,Nl,Sv,Fi)"
+	publisher "Tiertex"
+	rom ( crc 70B0A5D7 )
+)
+
+game (
+	comment "Mig-29 Fighter Pilot (USA)"
+	publisher "Tiertex"
+	rom ( crc 59CCABB2 )
+)
+
+game (
+	comment "Might and Magic - Gates to Another World (USA, Europe)"
+	publisher "New World Computing's"
+	rom ( crc F509145F )
+)
+
+game (
+	comment "Mighty Morphin Power Rangers (Europe)"
+	publisher "SEGA"
+	rom ( crc 7F96E663 )
+)
+
+game (
+	comment "Mighty Morphin Power Rangers (USA)"
+	publisher "SEGA"
+	rom ( crc 715158A9 )
+)
+
+game (
+	comment "Mighty Morphin Power Rangers - The Movie (Europe)"
+	publisher "SEGA"
+	rom ( crc 254A4972 )
+)
+
+game (
+	comment "Mighty Morphin Power Rangers - The Movie (USA)"
+	publisher "SEGA"
+	rom ( crc AA941CBC )
+)
+
+game (
+	comment "Minato no Traysia (Japan)"
+	publisher "Telenet"
+	rom ( crc BD89FD09 )
+)
+
+game (
+	comment "Minnesota Fats - Pool Legend (USA)"
+	publisher "Data East"
+	rom ( crc 38174F40 )
+)
+
+game (
+	comment "Miracle Piano Teaching System, The (USA)"
+	publisher "The Software Toolworks"
+	rom ( crc A719542E )
+)
+
+game (
+	comment "MLBPA Baseball (USA)"
+	publisher "Electronic Arts"
+	rom ( crc 14A8064D )
+)
+
+game (
+	comment "Monopoly (USA)"
+	publisher "Sculptured Software"
+	rom ( crc C10268DA )
+)
+
+game (
+	comment "Monster World IV (Japan)"
+	publisher "SEGA"
+	rom ( crc 36A3AAA4 )
+)
+
+game (
+	comment "Monster World IV (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc D26A32B6 )
+)
+
+game (
+	comment "Monster World IV (USA, Europe) (En,Ja) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc AF050C46 )
+)
+
+game (
+	comment "Mortal Kombat (World)"
+	publisher "Acclaim"
+	rom ( crc 1AA3A207 )
+)
+
+game (
+	comment "Mortal Kombat 3 (Europe)"
+	publisher "Acclaim"
+	rom ( crc AF6DE3E8 )
+)
+
+game (
+	comment "Mortal Kombat 3 (USA)"
+	publisher "Acclaim"
+	rom ( crc DD638AF6 )
+)
+
+game (
+	comment "Mortal Kombat II (World)"
+	publisher "Acclaim"
+	rom ( crc A9E013D8 )
+)
+
+game (
+	comment "Ms. Pac-Man (USA, Europe)"
+	publisher "Time Warner Interactive"
+	rom ( crc AF041BE6 )
+)
+
+game (
+	comment "Mr. Nutz (Europe)"
+	publisher "Ocean"
+	rom ( crc 0786EA0B )
+)
+
+game (
+	comment "Mugen Senshi Valis (Japan)"
+	publisher "Renovation Products"
+	rom ( crc 24431625 )
+)
+
+game (
+	comment "Muhammad Ali Heavyweight Boxing (Europe)"
+	publisher "Virgin"
+	rom ( crc A920C852 )
+)
+
+game (
+	comment "Muhammad Ali Heavyweight Boxing (USA)"
+	publisher "Virgin"
+	rom ( crc B638B6A3 )
+)
+
+game (
+	comment "MUSHA - Metallic Uniframe Super Hybrid Armor (USA)"
+	publisher "Seismic"
+	rom ( crc 58A7F7B4 )
+)
+
+game (
+	comment "MUSHA - Metallic Uniframe Super Hybrid Armor (USA, Europe) (Switch Online)"
+	publisher "Seismic"
+	rom ( crc ee61baea )
+)
+
+game (
+	comment "Musha Aleste - Full Metal Fighter Ellinor (Japan) (Switch Online)"
+	publisher "Seismic"
+	rom ( crc 12c68eee )
+)
+
+game (
+	comment "Musha Aleste - Full Metal Fighter Ellinor (Japan)"
+	publisher "Seismic"
+	rom ( crc 8FDE18AB )
+)
+
+game (
+	comment "Mutant League Football (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 2A97E6AF )
+)
+
+game (
+	comment "Mutant League Hockey (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 3529180F )
+)
+
+game (
+	comment "Mutant League Football (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc DCE29C9D )
+)
+
+game (
+	comment "Mystic Defender (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc F9CE1AB8 )
+)
+
+game (
+	comment "Mystic Defender (USA, Europe) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 50FD5D93 )
+)
+
+game (
+	comment "Mystical Fighter (USA)"
+	publisher "DreamWorks"
+	rom ( crc B2F2A69B )
+)
+
+game (
+	comment "Nakajima Satoru Kanshuu - F-1 Grand Prix (Japan)"
+	publisher "Varie Corporation"
+	rom ( crc 93BE47CF )
+)
+
+game (
+	comment "Nakajima Satoru Kanshuu - F-1 Hero MD (Japan)"
+	publisher "Flying Edge"
+	rom ( crc 24F87987 )
+)
+
+game (
+	comment "Nakajima Satoru Kanshuu - F-1 Super License (Japan)"
+	publisher "Varie Corporation"
+	rom ( crc 8774BC79 )
+)
+
+game (
+	comment "NBA Action '94 (USA)"
+	publisher "SEGA"
+	rom ( crc 99C348BA )
+)
+
+game (
+	comment "NBA Action '95 Starring David Robinson (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc AA7006D6 )
+)
+
+game (
+	comment "NBA All-Star Challenge (USA, Europe)"
+	publisher "Beam Software"
+	rom ( crc C4674ADF )
+)
+
+game (
+	comment "NBA Hang Time (Europe)"
+	publisher "Funcom"
+	rom ( crc EDB4D4AA )
+)
+
+game (
+	comment "NBA Hang Time (USA)"
+	publisher "Funcom"
+	rom ( crc 176B0338 )
+)
+
+game (
+	comment "NBA Jam (Japan)"
+	publisher "Arena Entertainment"
+	rom ( crc A6C6305A )
+)
+
+game (
+	comment "NBA Jam (USA, Europe)"
+	publisher "Arena Entertainment"
+	rom ( crc 10FA248F )
+)
+
+game (
+	comment "NBA Jam (USA, Europe) (Rev 1)"
+	publisher "Arena Entertainment"
+	rom ( crc EB8360E6 )
+)
+
+game (
+	comment "NBA Jam - Tournament Edition (World)"
+	publisher "Acclaim"
+	rom ( crc E9FFCB37 )
+)
+
+game (
+	comment "NBA Live 95 (USA, Europe)"
+	publisher "EA Sports"
+	rom ( crc 66018ABC )
+)
+
+game (
+	comment "NBA Live 95 (Korea)"
+	publisher "EA Sports"
+	rom ( crc 779C1244 )
+)
+
+game (
+	comment "NBA Live 96 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 49DE0062 )
+)
+
+game (
+	comment "NBA Live 98 (USA)"
+	publisher "Electronic Arts"
+	rom ( crc 23473A8A )
+)
+
+game (
+	comment "NBA Live 97 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 7024843A )
+)
+
+game (
+	comment "NBA Playoffs - Bulls vs Blazers (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 4565CE1F )
+)
+
+game (
+	comment "NBA Pro Basketball - Bulls vs Lakers and the NBA Playoffs (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 4416CE39 )
+)
+
+game (
+	comment "NBA Pro Basketball '94 (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc EEA19BCE )
+)
+
+game (
+	comment "NBA Showdown '94 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 160B7090 )
+)
+
+game (
+	comment "NCAA Football (USA)"
+	publisher "Mindscape"
+	rom ( crc 081012F0 )
+)
+
+game (
+	comment "NCAA Final Four Basketball (USA)"
+	publisher "Mindscape"
+	rom ( crc ED0C1303 )
+)
+
+game (
+	comment "New 3D Golf Simulation - Devil's Course (Japan)"
+	publisher "T&E Soft"
+	rom ( crc BD090C67 )
+)
+
+game (
+	comment "Nekketsu Koukou Dodgeball-bu - Soccer Hen MD (Japan)"
+	publisher "PALSOFT"
+	rom ( crc F49C3A86 )
+)
+
+game (
+	comment "New 3D Golf Simulation - Harukanaru Augusta (Japan)"
+	publisher "T&E Soft"
+	rom ( crc D2A9BF92 )
+)
+
+game (
+	comment "New 3D Golf Simulation - Pebble Beach no Hatou (Japan)"
+	publisher "SEGA"
+	rom ( crc 96ED2E5D )
+)
+
+game (
+	comment "New 3D Golf Simulation - Waialae no Kiseki (Japan)"
+	publisher "T&E Soft"
+	rom ( crc CBE2C1F6 )
+)
+
+game (
+	comment "New Horizons (USA)"
+	publisher "Koei"
+	rom ( crc EAD69824 )
+)
+
+game (
+	comment "Newman Haas IndyCar featuring Nigel Mansell (World)"
+	publisher "Gremlin Interactive"
+	rom ( crc 1233A229 )
+)
+
+game (
+	comment "NewZealand Story, The (Japan)"
+	publisher "Taito"
+	rom ( crc 1C77AD21 )
+)
+
+game (
+	comment "NFL '95 (USA)"
+	publisher "SEGA"
+	rom ( crc B58E4A81 )
+)
+
+game (
+	comment "NFL 98 (USA)"
+	publisher "SEGA"
+	rom ( crc F73EC54C )
+)
+
+game (
+	comment "NFL Football '94 (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc E490DC4A )
+)
+
+game (
+	comment "NFL Football '94 (Japan) (1993-11-04) (Sega Channel)"
+	publisher "Electronic Arts"
+	rom ( crc 2C50EBF6 )
+)
+
+game (
+	comment "NFL Football '94 Starring Joe Montana (USA)"
+	publisher "SEGA"
+	rom ( crc 0D486ED5 )
+)
+
+game (
+	comment "NFL Quarterback Club (World)"
+	publisher "Acclaim"
+	rom ( crc 21979abb )
+)
+
+game (
+	comment "NFL Pro Football '94 (Japan)"
+	publisher "SEGA"
+	rom ( crc 96C947F3 )
+)
+
+game (
+	comment "NFL Quarterback Club 96 (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc D5A37CAB )
+)
+
+game (
+	comment "NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc CE0B1FE1 )
+)
+
+game (
+	comment "NFL Sports Talk Football '93 Starring Joe Montana (USA, Europe) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 646AE909 )
+)
+
+game (
+	comment "NHL '94 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 9438F5DD )
+)
+
+game (
+	comment "NHK Taiga Drama - Taiheiki (Japan)"
+	publisher "NHK"
+	rom ( crc 09FBB30E )
+)
+
+game (
+	comment "NHL 95 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc E8EE917E )
+)
+
+game (
+	comment "NHL '94 (USA, Europe) (Re-release)"
+	publisher "Electronic Arts"
+	rom ( crc 7B344D0C )
+)
+
+game (
+	comment "NHL 97 (USA, Europe)"
+	publisher "EA Sports"
+	rom ( crc F067C103 )
+)
+
+game (
+	comment "NHL 96 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 8135702C )
+)
+
+game (
+	comment "NHL 98 (USA)"
+	publisher "Electronic Arts"
+	rom ( crc 7B64CD98 )
+)
+
+game (
+	comment "NHL All-Star Hockey 95 (USA)"
+	publisher "SEGA"
+	rom ( crc E6C0218B )
+)
+
+game (
+	comment "NHL Hockey (USA)"
+	publisher "Electronic Arts"
+	rom ( crc 2641653F )
+)
+
+game (
+	comment "NHLPA Hockey 93 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc CBBF4262 )
+)
+
+game (
+	comment "NHLPA Hockey 93 (USA, Europe) (Rev A)"
+	publisher "Electronic Arts"
+	rom ( crc F361D0BF )
+)
+
+game (
+	comment "Nigel Mansell's World Championship Racing (USA)"
+	publisher "Gremlin Interactive"
+	rom ( crc 6BC57B2C )
+)
+
+game (
+	comment "Nigel Mansell's World Championship Racing (Europe)"
+	publisher "Gremlin Interactive"
+	rom ( crc 3FE3D63B )
+)
+
+game (
+	comment "Nightmare Circus (Brazil) (En)"
+	publisher "Tec Toy"
+	rom ( crc 06DA3217 )
+)
+
+game (
+	comment "Ninja Burai Densetsu (Japan)"
+	publisher "SEGA"
+	rom ( crc A8D828A0 )
+)
+
+game (
+	comment "Nikkan Sports Pro Yakyuu VAN (Japan)"
+	publisher "SEGA"
+	rom ( crc C3655A59 )
+)
+
+game (
+	comment "No Escape (USA)"
+	publisher "Bits Studios"
+	rom ( crc 44EE5F20 )
+)
+
+game (
+	comment "Nobunaga no Yabou - Bushou Fuuunroku (Japan)"
+	publisher "Koei"
+	rom ( crc 30BF8637 )
+)
+
+game (
+	comment "Nobunaga no Yabou - Haouden (Japan)"
+	publisher "Koei"
+	rom ( crc 96C01FC6 )
+)
+
+game (
+	comment "Nobunaga no Yabou - Zenkoku Ban (Japan)"
+	publisher "Koei"
+	rom ( crc 1381B313 )
+)
+
+game (
+	comment "Nobunaga's Ambition (USA)"
+	publisher "Koei"
+	rom ( crc B9BC07BC )
+)
+
+game (
+	comment "Normy's Beach Babe-O-Rama (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc B56A8220 )
+)
+
+game (
+	comment "Olympic Gold (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+	publisher "U.S. Gold"
+	rom ( crc 924E57D3 )
+)
+
+game (
+	comment "Olympic Gold (Japan, USA, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv) (Rev A)"
+	publisher "U.S. Gold"
+	rom ( crc E9C925B8 )
+)
+
+game (
+	comment "Olympic Gold (Japan, USA) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+	publisher "U.S. Gold"
+	rom ( crc 339594B4 )
+)
+
+game (
+	comment "Olympic Summer Games (USA)"
+	publisher "THQ"
+	rom ( crc 9E470FB9 )
+)
+
+game (
+	comment "Olympic Summer Games (Europe)"
+	publisher "THQ"
+	rom ( crc cc506d37 )
+)
+
+game (
+	comment "On Dal Jang Goon (Korea)"
+	publisher "SEGA"
+	rom ( crc 67CCB1CA )
+)
+
+game (
+	comment "Ooze, The (Europe)"
+	publisher "SEGA"
+	rom ( crc E16B102C )
+)
+
+game (
+	comment "Operation Europe - Path to Victory 1939-45 (USA)"
+	publisher "Koei"
+	rom ( crc E7CBA1D8 )
+)
+
+game (
+	comment "Ooze, The (Japan, USA) (En)"
+	publisher "SEGA"
+	rom ( crc 1C0DD42F )
+)
+
+game (
+	comment "Osomatsu-kun Hachamecha Gekijou (Japan)"
+	publisher "SEGA"
+	rom ( crc 2453350C )
+)
+
+game (
+	comment "Ottifants, The (Europe) (En,Fr,De,Es,It)"
+	publisher "SEGA"
+	rom ( crc 41AC8003 )
+)
+
+game (
+	comment "Out of This World (USA)"
+	publisher "Delphine Software International"
+	rom ( crc 2DA36E01 )
+)
+
+game (
+	comment "Outback Joey (USA)"
+	publisher "HeartBeat Corporation"
+	rom ( crc 10abd93f )
+)
+
+game (
+	comment "Outlander (USA)"
+	publisher "Mindscape"
+	rom ( crc FE6F2350 )
+)
+
+game (
+	comment "OutRun (Japan)"
+	publisher "SEGA"
+	rom ( crc EE7D9F4A )
+)
+
+game (
+	comment "OutRun (USA, Europe) (Sega Smash Pack)"
+	publisher "SEGA"
+	rom ( crc E6821FB1 )
+)
+
+game (
+	comment "OutRun (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc FDD9A8D2 )
+)
+
+game (
+	comment "OutRun 2019 (Europe)"
+	publisher "SEGA"
+	rom ( crc 5CB3536A )
+)
+
+game (
+	comment "OutRun 2019 (Japan)"
+	publisher "SEGA"
+	rom ( crc 0EAC7440 )
+)
+
+game (
+	comment "OutRun 2019 (USA)"
+	publisher "SEGA"
+	rom ( crc E32E17E2 )
+)
+
+game (
+	comment "OutRunners (Japan)"
+	publisher "Data East"
+	rom ( crc E164A09F )
+)
+
+game (
+	comment "OutRunners (USA)"
+	publisher "Data East"
+	rom ( crc EDE636B9 )
+)
+
+game (
+	comment "Ozaki Naomichi no Super Masters (Japan)"
+	publisher "SEGA"
+	rom ( crc 088BA825 )
+)
+
+game (
+	comment "P.T.O. - Pacific Theater of Operations (USA)"
+	publisher "Namco"
+	rom ( crc D9D4C6E2 )
+)
+
+game (
+	comment "Pac-Attack (USA)"
+	publisher "Namco"
+	rom ( crc 79587507 )
+)
+
+game (
+	comment "Pac-Man 2 - The New Adventures (USA)"
+	publisher "Namco"
+	rom ( crc FE7A7ED1 )
+)
+
+game (
+	comment "Pac-Panic (Europe)"
+	publisher "Namco"
+	rom ( crc EBD6D5BA )
+)
+
+game (
+	comment "Pachinko Kuunyan (Japan)"
+	publisher "Soft Vision"
+	rom ( crc 9D137E7F )
+)
+
+game (
+	comment "Paddle Fighter (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 3D8147E6 )
+)
+
+game (
+	comment "Paddle Fighter (Japan) (Game no Kanzume Otokuyou)"
+	publisher "SEGA"
+	rom ( crc EBEF05A4 )
+)
+
+game (
+	comment "Pagemaster, The (Europe)"
+	publisher "Fox Interactive"
+	rom ( crc 79A180E2 )
+)
+
+game (
+	comment "Pagemaster, The (USA)"
+	publisher "Fox Interactive"
+	rom ( crc 75A96D4E )
+)
+
+game (
+	comment "Panorama Cotton (Japan)"
+	publisher "Success"
+	rom ( crc 9E57D92E )
+)
+
+game (
+	comment "Paperboy (Japan)"
+	publisher "Tengen"
+	rom ( crc E14250AE )
+)
+
+game (
+	comment "Paperboy 2 (USA, Europe)"
+	publisher "Tengen"
+	rom ( crc 1DE28BB1 )
+)
+
+game (
+	comment "Paperboy (USA, Europe)"
+	publisher "Tengen"
+	rom ( crc 0A44819B )
+)
+
+game (
+	comment "Party Quiz Mega Q (Japan)"
+	publisher "SEGA"
+	rom ( crc 9D4B447A )
+)
+
+game (
+	comment "Pat Riley Basketball (USA)"
+	publisher "SEGA"
+	rom ( crc 3D9318A7 )
+)
+
+game (
+	comment "Pebble Beach Golf Links (USA) (Rev A) (1994-02-14) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc D124CE9C )
+)
+
+game (
+	comment "Pebble Beach Golf Links (Europe)"
+	publisher "SEGA"
+	rom ( crc 6CFC7297 )
+)
+
+game (
+	comment "Pebble Beach Golf Links (USA)"
+	publisher "SEGA"
+	rom ( crc 95823C43 )
+)
+
+game (
+	comment "Pele! (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc 5A8ABE51 )
+)
+
+game (
+	comment "Pepenga Pengo (Japan)"
+	publisher "SEGA"
+	rom ( crc D1E2324B )
+)
+
+game (
+	comment "Pele II - World Tournament Soccer (USA, Europe)"
+	publisher "Accolade"
+	rom ( crc 05A486E9 )
+)
+
+game (
+	comment "Pete Sampras Tennis (USA, Europe) (Rev 1) (MDST17FF) (J-Cart)"
+	publisher "Codemasters"
+	rom ( crc 9EF5BBD1 )
+)
+
+game (
+	comment "Pete Sampras Tennis (USA, Europe) (MDST6636) (J-Cart)"
+	publisher "Codemasters"
+	rom ( crc 94E505B2 )
+)
+
+game (
+	comment "Pete Sampras Tennis (Europe) (Rev 2) (MDSTEE13)"
+	publisher "Codemasters"
+	rom ( crc AA8B19BC )
+)
+
+game (
+	comment "PGA European Tour (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 8CA45ACD )
+)
+
+game (
+	comment "PGA Tour 96 (USA, Europe)"
+	publisher "EA Sports"
+	rom ( crc 9698BBDE )
+)
+
+game (
+	comment "PGA Tour Golf (USA, Europe) (PGA09)"
+	publisher "Electronic Arts"
+	rom ( crc C1F0B4E1 )
+)
+
+game (
+	comment "PGA Tour Golf (USA, Europe) (PGA07)"
+	publisher "Electronic Arts"
+	rom ( crc 0489FF8E )
+)
+
+game (
+	comment "PGA Tour Golf II (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc C05B7A4A )
+)
+
+game (
+	comment "PGA Tour Golf II (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 16B2D816 )
+)
+
+game (
+	comment "PGA Tour Golf II (USA, Europe) (Rev A)"
+	publisher "Electronic Arts"
+	rom ( crc E82B8606 )
+)
+
+game (
+	comment "PGA Tour Golf III (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc AEB3F65F )
+)
+
+game (
+	comment "Phantasy Star - Sennenki no Owari ni (Japan)"
+	publisher "SEGA"
+	rom ( crc F0BFAD42 )
+)
+
+game (
+	comment "Phantasy Star - Sennenki no Owari ni (Japan) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc b23cd7aa )
+)
+
+game (
+	comment "Phantasy Star - Sennenki no Owari ni (Japan) (PC Rerelease)"
+	publisher "SEGA"
+	rom ( crc FE45F95D )
+)
+
+game (
+	comment "Phantasy Star Fukkokuban (Japan)"
+	publisher "SEGA"
+	rom ( crc 07301F83 )
+)
+
+game (
+	comment "Phantasy Star II (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 0D07D0EF )
+)
+
+game (
+	comment "Phantasy Star II (Brazil) (En)"
+	publisher "SEGA"
+	rom ( crc E6688B66 )
+)
+
+game (
+	comment "Phantasy Star II - Amia's Adventure (Japan) (Game no Kanzume Vol. 1)"
+	publisher "SEGA"
+	rom ( crc 80515DB1 )
+)
+
+game (
+	comment "Phantasy Star II (USA, Europe) (Rev A) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc 67DB982A )
+)
+
+game (
+	comment "Phantasy Star II (USA, Europe) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 904FA047 )
+)
+
+game (
+	comment "Phantasy Star II (USA, Europe) (Rev A) (PC Rerelease)"
+	publisher "SEGA"
+	rom ( crc 75AF3D59 )
+)
+
+game (
+	comment "Phantasy Star II - Amia's Adventure (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc A3A724AA )
+)
+
+game (
+	comment "Phantasy Star II - Anne's Adventure (Japan) (Game no Kanzume Vol. 2)"
+	publisher "SEGA"
+	rom ( crc 2522E2BB )
+)
+
+game (
+	comment "Phantasy Star II - Anne's Adventure (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc FAFA5B6F )
+)
+
+game (
+	comment "Phantasy Star II - Huey's Adventure (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 1A076F83 )
+)
+
+game (
+	comment "Phantasy Star II - Huey's Adventure (Japan) (Game no Kanzume Vol. 1)"
+	publisher "SEGA"
+	rom ( crc 73938433 )
+)
+
+game (
+	comment "Phantasy Star II - Kinds's Adventure (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc C334F308 )
+)
+
+game (
+	comment "Phantasy Star II - Kaerazaru Toki no Owari ni (Japan)"
+	publisher "SEGA"
+	rom ( crc BEC8EB5A )
+)
+
+game (
+	comment "Phantasy Star II - Kinds's Adventure (Japan) (Game no Kanzume Vol. 2)"
+	publisher "SEGA"
+	rom ( crc D714351C )
+)
+
+game (
+	comment "Phantasy Star II - Nei's Adventure (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 3D9AD465 )
+)
+
+game (
+	comment "Phantasy Star II - Rudger's Adventure (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 6B5916D2 )
+)
+
+game (
+	comment "Phantasy Star II - Shilka's Adventure (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 1F83BEB2 )
+)
+
+game (
+	comment "Phantasy Star II - Yushis's Adventure (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc D40C76D6 )
+)
+
+game (
+	comment "Phantasy Star III - Generations of Doom (USA, Europe) (PC Rerelease)"
+	publisher "SEGA"
+	rom ( crc 1D1C62FB )
+)
+
+game (
+	comment "Phantasy Star III - Generations of Doom (Brazil) (En)"
+	publisher "SEGA"
+	rom ( crc 2E9B4C23 )
+)
+
+game (
+	comment "Phantasy Star III - Generations of Doom (USA, Europe, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc C6B42B0F )
+)
+
+game (
+	comment "Phantasy Star IV (USA)"
+	publisher "SEGA"
+	rom ( crc FE236442 )
+)
+
+game (
+	comment "Phantasy Star IV (Europe)"
+	publisher "SEGA"
+	rom ( crc 389C2968 )
+)
+
+game (
+	comment "Phantasy Star IV (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc 2ee18bc3 )
+)
+
+game (
+	comment "Phantom 2040 (Europe) (En,Fr,De)"
+	publisher "Viacom New Media"
+	rom ( crc B024882E )
+)
+
+game (
+	comment "Phantom 2040 (USA)"
+	publisher "Viacom New Media"
+	rom ( crc FB36E1F3 )
+)
+
+game (
+	comment "Phelios (Japan) (Virtual Console)"
+	publisher "Namco"
+	rom ( crc 14DC2668 )
+)
+
+game (
+	comment "Phelios (Europe)"
+	publisher "Namco"
+	rom ( crc 13ABC2B2 )
+)
+
+game (
+	comment "Phelios (Japan)"
+	publisher "Namco"
+	rom ( crc 94596174 )
+)
+
+game (
+	comment "Phelios (USA)"
+	publisher "Namco"
+	rom ( crc 11C79320 )
+)
+
+game (
+	comment "Pink Goes to Hollywood (USA, Europe)"
+	publisher "Tecmagik"
+	rom ( crc B5804771 )
+)
+
+game (
+	comment "Pinocchio (USA)"
+	publisher "Disney Interactive"
+	rom ( crc CD4128D8 )
+)
+
+game (
+	comment "Pirates of Dark Water, The (USA)"
+	publisher "Sunsoft"
+	rom ( crc 0C45B9F7 )
+)
+
+game (
+	comment "Pinocchio (Europe)"
+	publisher "Disney Interactive"
+	rom ( crc 28014BDC )
+)
+
+game (
+	comment "Pirates of Dark Water, The (Europe)"
+	publisher "Sunsoft"
+	rom ( crc 1BDC1A5E )
+)
+
+game (
+	comment "Pirates! Gold (USA)"
+	publisher "MicroProse"
+	rom ( crc ED50E75C )
+)
+
+game (
+	comment "Pit-Fighter (World) (En,Ja)"
+	publisher "Tengen"
+	rom ( crc D48A8B02 )
+)
+
+game (
+	comment "Pitfall - The Mayan Adventure (Europe)"
+	publisher "Activision"
+	rom ( crc C9198E19 )
+)
+
+game (
+	comment "Pitfall - The Mayan Adventure (USA)"
+	publisher "Activision"
+	rom ( crc F917E34F )
+)
+
+game (
+	comment "Pocahontas (Europe)"
+	publisher "Disney Interactive"
+	rom ( crc 165E7987 )
+)
+
+game (
+	comment "Pocahontas (USA)"
+	publisher "Disney Interactive"
+	rom ( crc 6DDD1C6D )
+)
+
+game (
+	comment "Populous (Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 83D56F64 )
+)
+
+game (
+	comment "Populous (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 97C26818 )
+)
+
+game (
+	comment "Power Athlete (Japan, Korea) (Ja)"
+	publisher "Kaneko"
+	rom ( crc B41B77CF )
+)
+
+game (
+	comment "Power Monger (Japan, Korea) (Ja)"
+	publisher "Electronic Arts"
+	rom ( crc 553289B3 )
+)
+
+game (
+	comment "Power Drive (Europe) (En,Fr,De,Es,Pt)"
+	publisher "Rage Software"
+	rom ( crc 8C00AD61 )
+)
+
+game (
+	comment "Power Monger (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc FB599B86 )
+)
+
+game (
+	comment "Powerball (USA)"
+	publisher "Namco"
+	rom ( crc 7ADF232F )
+)
+
+game (
+	comment "Predator 2 (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc BDBA113E )
+)
+
+game (
+	comment "Premier Manager (Europe)"
+	publisher "Gremlin Interactive"
+	rom ( crc 303B889F )
+)
+
+game (
+	comment "Premier Manager 97 (Europe)"
+	publisher "Gremlin Interactive"
+	rom ( crc FCCBF69B )
+)
+
+game (
+	comment "Primal Rage (USA, Europe)"
+	publisher "Probe Software"
+	rom ( crc 2884C6D1 )
+)
+
+game (
+	comment "Primal Rage (USA) (Demo) (1995-08-01) (Sega Channel) (Test Drive)"
+	publisher "Probe Software"
+	rom ( crc 9789EA79 )
+)
+
+game (
+	comment "Prime Time NFL Starring Deion Sanders (USA)"
+	publisher "SEGA"
+	rom ( crc 5AA53CBC )
+)
+
+game (
+	comment "Prince of Persia (Europe)"
+	publisher "Brøderbund Software"
+	rom ( crc 61DE6FE0 )
+)
+
+game (
+	comment "Prince of Persia (USA)"
+	publisher "Brøderbund Software"
+	rom ( crc 13C181A4 )
+)
+
+game (
+	comment "Pro Moves Soccer (USA)"
+	publisher "ASCII Corporation"
+	rom ( crc 707017E5 )
+)
+
+game (
+	comment "Pro Quarterback (USA)"
+	publisher "Tradewest"
+	rom ( crc CC8B2B69 )
+)
+
+game (
+	comment "Pro Striker - Final Stage (Japan)"
+	publisher "SEGA"
+	rom ( crc E35E25FB )
+)
+
+game (
+	comment "Pro Yakyuu Super League '91 (Japan)"
+	publisher "SEGA"
+	rom ( crc A948AB7E )
+)
+
+game (
+	comment "Probotector (Europe) (En,Fr,De)"
+	publisher "Konami"
+	rom ( crc BC597D48 )
+)
+
+game (
+	comment "Probotector (Europe) (En,Fr,De) (Mega Drive Mini)"
+	publisher "Konami"
+	rom ( crc 6ed9e471 )
+)
+
+game (
+	comment "Probotector (World) (En,Fr,De) (Contra Anniversary Collection)"
+	publisher "Konami"
+	rom ( crc c14f4e78 )
+)
+
+game (
+	comment "Probotector (World) (En,Fr,De) (60 Hz) (Contra Anniversary Collection)"
+	publisher "Konami"
+	rom ( crc 5e42179d )
+)
+
+game (
+	comment "Psy-O-Blade (Japan)"
+	publisher "Sigma Enterprises"
+	rom ( crc 8BA7E6C5 )
+)
+
+game (
+	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It) (Rev 1)"
+	publisher "Codemasters"
+	rom ( crc 32dd8351 )
+)
+
+game (
+	comment "Psycho Pinball (Europe) (En,Fr,De,Es,It)"
+	publisher "Codemasters"
+	rom ( crc 1AB8F1A1 )
+)
+
+game (
+	comment "Puggsy (Europe)"
+	publisher "Psygnosis"
+	rom ( crc 5D5C9ADE )
+)
+
+game (
+	comment "Puggsy (USA)"
+	publisher "Psygnosis"
+	rom ( crc 70132168 )
+)
+
+game (
+	comment "Pulseman (Japan)"
+	publisher "SEGA"
+	rom ( crc 138A104E )
+)
+
+game (
+	comment "Punisher, The (USA)"
+	publisher "Capcom"
+	rom ( crc 695CD8B8 )
+)
+
+game (
+	comment "Punisher, The (Europe)"
+	publisher "Capcom"
+	rom ( crc 729EDD17 )
+)
+
+game (
+	comment "Putter Golf (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 20F168A6 )
+)
+
+game (
+	comment "Putter Golf (Japan) (Game no Kanzume Otokuyou)"
+	publisher "SEGA"
+	rom ( crc A6557FAA )
+)
+
+game (
+	comment "Puyo Puyo (Japan)"
+	publisher "Compile"
+	rom ( crc 7F26614E )
+)
+
+game (
+	comment "Puyo Puyo Tsuu (Japan)"
+	publisher "SEGA"
+	rom ( crc 51AD7797 )
+)
+
+game (
+	comment "Puyo Puyo Tsuu (Japan) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 25B7B2AA )
+)
+
+game (
+	comment "Puzzle & Action - Ichidanto-R (World) (Ja) (Sega Ages)"
+	publisher "SEGA"
+	rom ( crc 8c00dd10 )
+)
+
+game (
+	comment "Puyo Puyo Tsuu (World) (Ja) (Rev A) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc EB6E1894 )
+)
+
+game (
+	comment "Puzzle & Action - Ichidanto-R (Japan)"
+	publisher "SEGA"
+	rom ( crc 7BDEC762 )
+)
+
+game (
+	comment "Puzzle & Action - Tanto-R (Japan)"
+	publisher "SEGA"
+	rom ( crc D2D2D437 )
+)
+
+game (
+	comment "Pyramid Magic (Japan) (Game no Kanzume Otokuyou)"
+	publisher "SEGA"
+	rom ( crc B20272EA )
+)
+
+game (
+	comment "Pyramid Magic (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 306D839E )
+)
+
+game (
+	comment "Pyramid Magic II (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc C9DDAC72 )
+)
+
+game (
+	comment "Pyramid Magic Special (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 153A3AFA )
+)
+
+game (
+	comment "Pyramid Magic III (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 8329820A )
+)
+
+game (
+	comment "QuackShot Starring Donald Duck (World)"
+	publisher "SEGA"
+	rom ( crc 88C8DD94 )
+)
+
+game (
+	comment "QuackShot Starring Donald Duck (World) (Rev A) (Alt)"
+	publisher "SEGA"
+	rom ( crc A5C946B3 )
+)
+
+game (
+	comment "QuackShot Starring Donald Duck (World) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 5DD28DD7 )
+)
+
+game (
+	comment "Quad Challenge (USA)"
+	publisher "Namco"
+	rom ( crc 74736A80 )
+)
+
+game (
+	comment "R.B.I. Baseball '93 (USA)"
+	publisher "Atari"
+	rom ( crc BEAFCE84 )
+)
+
+game (
+	comment "R.B.I. Baseball 3 (USA)"
+	publisher "Atari"
+	rom ( crc 4840348C )
+)
+
+game (
+	comment "R.B.I. Baseball '94 (USA, Europe)"
+	publisher "Atari"
+	rom ( crc 4EB4D5E4 )
+)
+
+game (
+	comment "R.B.I. Baseball 4 (USA)"
+	publisher "Atari"
+	rom ( crc FECF9B94 )
+)
+
+game (
+	comment "R.B.I. Baseball 4 (Japan)"
+	publisher "Atari"
+	rom ( crc 8F4E1005 )
+)
+
+game (
+	comment "Race Drivin' (USA)"
+	publisher "Atari"
+	rom ( crc D737CF3D )
+)
+
+game (
+	comment "Radical Rex (Europe)"
+	publisher "Activision"
+	rom ( crc D02D3282 )
+)
+
+game (
+	comment "Radical Rex (USA)"
+	publisher "Activision"
+	rom ( crc 2E6EEC7E )
+)
+
+game (
+	comment "Raiden Densetsu ~ Raiden Trad (Japan, USA) (En)"
+	publisher "Micronet"
+	rom ( crc F839A811 )
+)
+
+game (
+	comment "Rainbow Islands Extra (Japan)"
+	publisher "Taito"
+	rom ( crc C74DCB35 )
+)
+
+game (
+	comment "Rambo III (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc 2232F03D )
+)
+
+game (
+	comment "Rambo III (USA, Europe, Korea) (En) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 4D47A647 )
+)
+
+game (
+	comment "Rampart (USA)"
+	publisher "Atari"
+	rom ( crc 9C4DD057 )
+)
+
+game (
+	comment "Rampart (Japan, Korea) (Ja)"
+	publisher "Atari"
+	rom ( crc 16EAD64C )
+)
+
+game (
+	comment "Ranger X (Europe)"
+	publisher "SEGA"
+	rom ( crc B8C04804 )
+)
+
+game (
+	comment "Ranger X (USA)"
+	publisher "SEGA"
+	rom ( crc 55915915 )
+)
+
+game (
+	comment "Ransei no Hasha (Japan)"
+	publisher "Asmik"
+	rom ( crc A9A0083D )
+)
+
+game (
+	comment "Rastan Saga II (Japan)"
+	publisher "Taito"
+	rom ( crc EBACFB5A )
+)
+
+game (
+	comment "Red Zone (USA, Europe)"
+	publisher "Time Warner Interactive"
+	rom ( crc 56512EE5 )
+)
+
+game (
+	comment "Rastan Saga II (USA)"
+	publisher "Taito"
+	rom ( crc C7EE8965 )
+)
+
+game (
+	comment "Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe)"
+	publisher "SEGA"
+	rom ( crc C276C220 )
+)
+
+game (
+	comment "Ren & Stimpy Show Presents, The - Stimpy's Invention (USA)"
+	publisher "SEGA"
+	rom ( crc D9503BA5 )
+)
+
+game (
+	comment "Ren & Stimpy Show Presents, The - Stimpy's Invention (Europe) (1993-12-09) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc 1B475ED3 )
+)
+
+game (
+	comment "Rent a Hero (Japan)"
+	publisher "SEGA"
+	rom ( crc 2E515F82 )
+)
+
+game (
+	comment "Revenge of Shinobi, The (World) (Rev B) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc 5CA24F66 )
+)
+
+game (
+	comment "Revenge of Shinobi, The (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 05F27994 )
+)
+
+game (
+	comment "Revenge of Shinobi, The (USA, Europe) (Rev A)"
+	publisher "SEGA"
+	rom ( crc FE91AB7E )
+)
+
+game (
+	comment "Revolution X (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc 5FB0C5D4 )
+)
+
+game (
+	comment "Revenge of Shinobi, The (USA, Europe) (Rev B)"
+	publisher "SEGA"
+	rom ( crc 4D35EBE4 )
+)
+
+game (
+	comment "Richard Scarry's Busytown (USA)"
+	publisher "SEGA"
+	rom ( crc 7BB60C3F )
+)
+
+game (
+	comment "Riddle Wired (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc FAE3D720 )
+)
+
+game (
+	comment "Rings of Power (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 41FCC497 )
+)
+
+game (
+	comment "Rise of the Robots (Europe)"
+	publisher "Acclaim"
+	rom ( crc 5650780B )
+)
+
+game (
+	comment "Risk (USA)"
+	publisher "Parker Brothers"
+	rom ( crc 80416D0D )
+)
+
+game (
+	comment "Risky Woods (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc D975E93C )
+)
+
+game (
+	comment "Ristar (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 6511AA61 )
+)
+
+game (
+	comment "Ristar - The Shooting Star (Japan, Korea) (Ja)"
+	publisher "SEGA"
+	rom ( crc CE464F0E )
+)
+
+game (
+	comment "Road Rash (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc DEA53D19 )
+)
+
+game (
+	comment "Road Rash (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 256A21D2 )
+)
+
+game (
+	comment "Road Rash 3 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 15785956 )
+)
+
+game (
+	comment "Road Rash II (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 9A5723B6 )
+)
+
+game (
+	comment "Road Rash II (USA, Europe) (RR205)"
+	publisher "Electronic Arts"
+	rom ( crc 7B29C209 )
+)
+
+game (
+	comment "Road Rash II (USA, Europe) (RR206)"
+	publisher "Electronic Arts"
+	rom ( crc 0876E992 )
+)
+
+game (
+	comment "Road Rash II (Japan) (Mega Drive Mini)"
+	publisher "Electronic Arts"
+	rom ( crc 6cfa9048 )
+)
+
+game (
+	comment "Road Rash II (USA) (Genesis Mini)"
+	publisher "Electronic Arts"
+	rom ( crc c25abd9e )
+)
+
+game (
+	comment "RoadBlasters (USA)"
+	publisher "Atari"
+	rom ( crc EC6CD5F0 )
+)
+
+game (
+	comment "RoadBlasters (Japan)"
+	publisher "Atari"
+	rom ( crc A0015440 )
+)
+
+game (
+	comment "RoboCop 3 (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc 34FB7B27 )
+)
+
+game (
+	comment "RoboCop Versus The Terminator (USA)"
+	publisher "Virgin"
+	rom ( crc BBAD77A4 )
+)
+
+game (
+	comment "RoboCop Versus The Terminator (Europe)"
+	publisher "Virgin"
+	rom ( crc 85A93F8D )
+)
+
+game (
+	comment "RoboCop Versus The Terminator (Japan, Korea) (En)"
+	publisher "Virgin"
+	rom ( crc D444E1F0 )
+)
+
+game (
+	comment "Robot Battler (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc FDF23EFF )
+)
+
+game (
+	comment "Rock 'n' Roll Racing (Europe)"
+	publisher "Interplay"
+	rom ( crc BC5A0562 )
+)
+
+game (
+	comment "Rock n' Roll Racing (USA)"
+	publisher "Interplay"
+	rom ( crc 6ABAB577 )
+)
+
+game (
+	comment "Rocket Knight Adventures (Europe)"
+	publisher "Konami"
+	rom ( crc 8EEDFD51 )
+)
+
+game (
+	comment "Rocket Knight Adventures (Japan)"
+	publisher "Konami"
+	rom ( crc D1C8C1C5 )
+)
+
+game (
+	comment "Rocket Knight Adventures (USA)"
+	publisher "Konami"
+	rom ( crc A6EFEC47 )
+)
+
+game (
+	comment "Rockman - Mega World (Japan)"
+	publisher "Capcom"
+	rom ( crc 85C956EF )
+)
+
+game (
+	comment "Rockman - Mega World (Japan) (Mega Drive Mini)"
+	publisher "Capcom"
+	rom ( crc E8F5668E )
+)
+
+game (
+	comment "Roger Clemens' MVP Baseball (USA)"
+	publisher "Acclaim"
+	rom ( crc 83699E34 )
+)
+
+game (
+	comment "Rolling Thunder 2 (Europe)"
+	publisher "Namco"
+	rom ( crc C440F292 )
+)
+
+game (
+	comment "Rolling Thunder 2 (Japan)"
+	publisher "Namco"
+	rom ( crc 965B2628 )
+)
+
+game (
+	comment "Rolling Thunder 2 (USA)"
+	publisher "Namco"
+	rom ( crc 3ACE429B )
+)
+
+game (
+	comment "Rolling Thunder 3 (USA)"
+	publisher "Namco"
+	rom ( crc 64FB13AA )
+)
+
+game (
+	comment "Rolo to the Rescue (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 306861A2 )
+)
+
+game (
+	comment "Romance of the Three Kingdoms II (USA)"
+	publisher "Koei"
+	rom ( crc 3D842478 )
+)
+
+game (
+	comment "Romance of the Three Kingdoms III - Dragon of Destiny (USA)"
+	publisher "Koei"
+	rom ( crc 7E41C8FE )
+)
+
+game (
+	comment "Royal Blood (Japan)"
+	publisher "Koei"
+	rom ( crc 0E0107F1 )
+)
+
+game (
+	comment "Rugby World Cup 95 (USA, Europe) (En,Fr,It)"
+	publisher "EA Sports"
+	rom ( crc 61F90A8A )
+)
+
+game (
+	comment "Ryuuko no Ken (Japan)"
+	publisher "SEGA"
+	rom ( crc 054CF5F6 )
+)
+
+game (
+	comment "Runark (Japan, Korea) (En)"
+	publisher "Taito"
+	rom ( crc 0894D8FB )
+)
+
+game (
+	comment "Sagaia (USA)"
+	publisher "Taito"
+	rom ( crc F1E22F43 )
+)
+
+game (
+	comment "Saint Sword (Japan)"
+	publisher "Taito"
+	rom ( crc 3960A00F )
+)
+
+game (
+	comment "Saint Sword (USA)"
+	publisher "Taito"
+	rom ( crc 44F66BFF )
+)
+
+game (
+	comment "Sampras Tennis 96 (Europe) (J-Cart)"
+	publisher "Codemasters"
+	rom ( crc 14E3FB7B )
+)
+
+game (
+	comment "Same! Same! Same! (Japan)"
+	publisher "SEGA"
+	rom ( crc 77BBD841 )
+)
+
+game (
+	comment "Samurai Shodown (USA)"
+	publisher "Saurus"
+	rom ( crc 5BB8B2D4 )
+)
+
+game (
+	comment "Samurai Shodown (Europe)"
+	publisher "Saurus"
+	rom ( crc C972014F )
+)
+
+game (
+	comment "Samurai Spirits (Japan)"
+	publisher "Saurus"
+	rom ( crc 0EA2AE36 )
+)
+
+game (
+	comment "San Guo Zhi Lie Zhuan - Luan Shi Qun Ying (Hong Kong)"
+	publisher "Koei"
+	rom ( crc 3B5CC398 )
+)
+
+game (
+	comment "Sangokushi II (Japan)"
+	publisher "Koei"
+	rom ( crc 437BA326 )
+)
+
+game (
+	comment "Sangokushi III (Japan)"
+	publisher "Koei"
+	rom ( crc A8DE6AEA )
+)
+
+game (
+	comment "Sangokushi Retsuden - Ransei no Eiyuutachi (Japan)"
+	publisher "SEGA"
+	rom ( crc 0F56785A )
+)
+
+game (
+	comment "Sansan (Japan)"
+	publisher "Sansan"
+	rom ( crc 5B85DEED )
+)
+
+game (
+	comment "Saturday Night Slammasters (Europe)"
+	publisher "Capcom"
+	rom ( crc 08FA5A3F )
+)
+
+game (
+	comment "Saturday Night Slammasters (USA)"
+	publisher "Capcom"
+	rom ( crc 2FB4EABA )
+)
+
+game (
+	comment "Schtroumpfs Autour du Monde, Les (Europe) (En,Fr,De,Es)"
+	publisher "Infogrames"
+	rom ( crc B28BDD69 )
+)
+
+game (
+	comment "Scooby-Doo Mystery (USA)"
+	publisher "Acclaim"
+	rom ( crc 7BB9DD9B )
+)
+
+game (
+	comment "seaQuest DSV (USA)"
+	publisher "Black Pearl Software"
+	rom ( crc 25B05480 )
+)
+
+game (
+	comment "SD Valis (Japan)"
+	publisher "Laser Soft"
+	rom ( crc 1AEF72EA )
+)
+
+game (
+	comment "Second Samurai (Europe)"
+	publisher "Psygnosis"
+	rom ( crc 78E92143 )
+)
+
+game (
+	comment "seaQuest DSV (Europe)"
+	publisher "Black Pearl Software"
+	rom ( crc BAC87612 )
+)
+
+game (
+	comment "Sega Sports 1 (Europe)"
+	publisher "SEGA"
+	rom ( crc 07FEDAF1 )
+)
+
+game (
+	comment "Sega Top Five (Brazil) (En)"
+	publisher "Tec Toy"
+	rom ( crc 61069069 )
+)
+
+game (
+	comment "Sesame Street Counting Cafe (USA)"
+	publisher "Electronic Arts"
+	rom ( crc 0A4F48C3 )
+)
+
+game (
+	comment "Sensible Soccer (Europe) (En,Fr,De,It)"
+	publisher "Renegade Software"
+	rom ( crc F9B396B8 )
+)
+
+game (
+	comment "Senjou no Ookami II ~ Mercs (World)"
+	publisher "Capcom"
+	rom ( crc 16113A72 )
+)
+
+game (
+	comment "Shadow Blasters (USA)"
+	publisher "Sage's Creation"
+	rom ( crc 713D377B )
+)
+
+game (
+	comment "Shadow Dancer - The Secret of Shinobi (World)"
+	publisher "SEGA"
+	rom ( crc EBE9AD10 )
+)
+
+game (
+	comment "Shadow Dancer - The Secret of Shinobi (USA, Europe) (PC Rerelease)"
+	publisher "SEGA"
+	rom ( crc 5CD3E295 )
+)
+
+game (
+	comment "Shadow of the Beast (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc BD385C27 )
+)
+
+game (
+	comment "Shadow of the Beast - Mashou no Okite (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 0CD09D31 )
+)
+
+game (
+	comment "Shadow of the Beast II (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 2DEDE3DB )
+)
+
+game (
+	comment "Shadowrun (Asia) (En)"
+	publisher "SEGA"
+	rom ( crc D32199F7 )
+)
+
+game (
+	comment "Shadowrun (USA)"
+	publisher "SEGA"
+	rom ( crc FBB92909 )
+)
+
+game (
+	comment "Shane Warne Cricket (Australia)"
+	publisher "Codemasters"
+	rom ( crc 68865F6F )
+)
+
+game (
+	comment "Shanghai II - Dragon's Eye (USA)"
+	publisher "Activision"
+	rom ( crc EBE9E840 )
+)
+
+game (
+	comment "Shaq-Fu (USA, Europe)"
+	publisher "Delphine Software International"
+	rom ( crc 499955F2 )
+)
+
+game (
+	comment "Shi no Meikyuu - Labyrinth of Death (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc A6D7E02D )
+)
+
+game (
+	comment "Shi no Meikyuu - Labyrinth of Death (Japan) (Game no Kanzume Otokuyou)"
+	publisher "SEGA"
+	rom ( crc 40C44CD3 )
+)
+
+game (
+	comment "Shijou Saidai no Soukoban (Japan)"
+	publisher "DreamWorks"
+	rom ( crc 40F4AACC )
+)
+
+game (
+	comment "Shikinjou (Japan)"
+	publisher "Sunsoft"
+	rom ( crc 5EA0C97D )
+)
+
+game (
+	comment "Shin Souseiki Ragnacenty (Japan)"
+	publisher "Atlus"
+	rom ( crc 6A3F5AE2 )
+)
+
+game (
+	comment "Shin Changsegi - Ragnacenty (Korea)"
+	publisher "Atlus"
+	rom ( crc 77B5B10B )
+)
+
+game (
+	comment "Shining and the Darkness (Japan)"
+	publisher "SEGA"
+	rom ( crc 496AF51C )
+)
+
+game (
+	comment "Shining Force (USA)"
+	publisher "SEGA"
+	rom ( crc E82ACDFC )
+)
+
+game (
+	comment "Shining Force (Europe)"
+	publisher "SEGA"
+	rom ( crc b7278199 )
+)
+
+game (
+	comment "Shining Force (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc 4391175e )
+)
+
+game (
+	comment "Shining Force - Kamigami no Isan (Japan) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 45416aa9 )
+)
+
+game (
+	comment "Shining Force II (Europe)"
+	publisher "SEGA"
+	rom ( crc 83CB46D1 )
+)
+
+game (
+	comment "Shining Force - Kamigami no Isan (Japan)"
+	publisher "SEGA"
+	rom ( crc 9378FBCD )
+)
+
+game (
+	comment "Shining Force II (USA, Europe) (Switch Online)"
+	publisher "SEGA"
+	rom ( crc d677edd1 )
+)
+
+game (
+	comment "Shining Force II (USA)"
+	publisher "SEGA"
+	rom ( crc 4815E075 )
+)
+
+game (
+	comment "Shining Force II - Inishie no Fuuin (Japan) (Switch Online)"
+	publisher "SEGA"
+	rom ( crc 78d4640a )
+)
+
+game (
+	comment "Shining Force II - Inishie no Fuuin (Japan)"
+	publisher "SEGA"
+	rom ( crc 0288F3E1 )
+)
+
+game (
+	comment "Shining in the Darkness (Brazil) (En)"
+	publisher "SEGA"
+	rom ( crc 3EE2BBC4 )
+)
+
+game (
+	comment "Shining in the Darkness (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 4D2785BC )
+)
+
+game (
+	comment "Shinobi III - Return of the Ninja Master (Europe)"
+	publisher "SEGA"
+	rom ( crc 0B6D3EB5 )
+)
+
+game (
+	comment "Shinobi III - Return of the Ninja Master (USA)"
+	publisher "SEGA"
+	rom ( crc 5381506F )
+)
+
+game (
+	comment "Shinobi III - Return of the Ninja Master (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc c0f1de3c )
+)
+
+game (
+	comment "Shiten Myouou (Japan)"
+	publisher "Sage's Creation"
+	rom ( crc 7E729693 )
+)
+
+game (
+	comment "Shougi no Hoshi (Japan)"
+	publisher "Home Data"
+	rom ( crc 4148F816 )
+)
+
+game (
+	comment "Shove It! ...The Warehouse Game (USA)"
+	publisher "DreamWorks"
+	rom ( crc C51F40CB )
+)
+
+game (
+	comment "Show do Milhao (Brazil)"
+	publisher "Tec Toy"
+	rom ( crc 0A22DF04 )
+)
+
+game (
+	comment "Show do Milhao Volume 2 (Brazil)"
+	publisher "Tec Toy"
+	rom ( crc 48EE66CB )
+)
+
+game (
+	comment "Shura no Mon (Japan)"
+	publisher "SEGA"
+	rom ( crc E19DA6E5 )
+)
+
+game (
+	comment "Side Pocket (Japan, Korea) (Ja)"
+	publisher "Data East"
+	rom ( crc 336BBF3E )
+)
+
+game (
+	comment "Side Pocket (Europe)"
+	publisher "Data East"
+	rom ( crc 36E08145 )
+)
+
+game (
+	comment "Side Pocket (USA)"
+	publisher "Data East"
+	rom ( crc AF9F275D )
+)
+
+game (
+	comment "Simpsons, The - Bart vs. the Space Mutants (USA, Europe)"
+	publisher "Flying Edge"
+	rom ( crc C8620574 )
+)
+
+game (
+	comment "Simpsons, The - Bart vs. the Space Mutants (USA, Europe) (Rev A)"
+	publisher "Flying Edge"
+	rom ( crc DB70E8CA )
+)
+
+game (
+	comment "Simpsons, The - Bart's Nightmare (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc 24D7507C )
+)
+
+game (
+	comment "Skeleton Krew (Europe)"
+	publisher "Core Design"
+	rom ( crc 5F872737 )
+)
+
+game (
+	comment "Skeleton Krew (USA)"
+	publisher "Core Design"
+	rom ( crc C2E05ACB )
+)
+
+game (
+	comment "Slap Fight MD (Japan)"
+	publisher "Toaplan"
+	rom ( crc D6695695 )
+)
+
+game (
+	comment "Skitchin' (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc F785F9D7 )
+)
+
+game (
+	comment "Slaughter Sport (USA)"
+	publisher "Razorsoft"
+	rom ( crc AF9F9D9C )
+)
+
+game (
+	comment "Slime World (Japan)"
+	publisher "Renovation Products"
+	rom ( crc 7FF5529F )
+)
+
+game (
+	comment "Smurfs, The (Brazil) (En,Fr,De,Es,It)"
+	publisher "Infogrames"
+	rom ( crc C991668D )
+)
+
+game (
+	comment "Smurfs, The (Europe) (En,Fr,De,Es,It)"
+	publisher "Infogrames"
+	rom ( crc 88B30EFF )
+)
+
+game (
+	comment "Snake Rattle n Roll (Europe)"
+	publisher "SEGA"
+	rom ( crc 543BED30 )
+)
+
+game (
+	comment "Snow Bros. - Nick & Tom (Japan)"
+	publisher "Tengen"
+	rom ( crc 11B56228 )
+)
+
+game (
+	comment "Socket (USA)"
+	publisher "Tokai Engineering"
+	rom ( crc 3C14E15A )
+)
+
+game (
+	comment "Sol-Deace (USA)"
+	publisher "Renovation Products"
+	rom ( crc A77E4E9F )
+)
+
+game (
+	comment "Soldiers of Fortune (USA)"
+	publisher "MicroProse"
+	rom ( crc A84D28A1 )
+)
+
+game (
+	comment "Soleil (Europe)"
+	publisher "Atlus"
+	rom ( crc A30EBDB1 )
+)
+
+game (
+	comment "Soleil (Germany)"
+	publisher "Atlus"
+	rom ( crc 332B9ECD )
+)
+
+game (
+	comment "Soleil (France)"
+	publisher "Atlus"
+	rom ( crc 08DC1EAD )
+)
+
+game (
+	comment "Soleil (Spain)"
+	publisher "Atlus"
+	rom ( crc 9ED4C323 )
+)
+
+game (
+	comment "Sonic & Knuckles (World)"
+	publisher "SEGA"
+	rom ( crc 0658F691 )
+)
+
+game (
+	comment "Sonic & Knuckles (World) (Sonic Classic Collection)"
+	publisher "SEGA"
+	rom ( crc c7249cdf )
+)
+
+game (
+	comment "Sonic & Knuckles + Sonic The Hedgehog (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc E01F6ED5 )
+)
+
+game (
+	comment "Sonic & Knuckles + Sonic The Hedgehog (Japan, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc B6C67EAC )
+)
+
+game (
+	comment "Sonic & Knuckles + Sonic The Hedgehog 2 + Sonic The Hedgehog 3 (World) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc 198DE33E )
+)
+
+game (
+	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (USA)"
+	publisher "SEGA"
+	rom ( crc 63522553 )
+)
+
+game (
+	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (Europe)"
+	publisher "SEGA"
+	rom ( crc 92F0929E )
+)
+
+game (
+	comment "Sonic & Knuckles + Sonic The Hedgehog 3 (Japan) (En) (Sonic Mega Collection)"
+	publisher "SEGA"
+	rom ( crc 0C06AA82 )
+)
+
+game (
+	comment "Sonic 3 (Europe)"
+	publisher "SEGA"
+	rom ( crc 6A632503 )
+)
+
+game (
+	comment "Sonic 3D Blast (USA, Europe, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc 44A2CA44 )
+)
+
+game (
+	comment "Sonic Compilation (Europe)"
+	publisher "Majesco"
+	rom ( crc 8C70B84E )
+)
+
+game (
+	comment "Sonic Eraser (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 62D8A0E7 )
+)
+
+game (
+	comment "Sonic Compilation ~ Sonic Classics (USA, Europe, Korea) (En) (Rev A)"
+	publisher "Majesco"
+	rom ( crc 95B5E8D7 )
+)
+
+game (
+	comment "Sonic Spinball (Japan)"
+	publisher "SEGA"
+	rom ( crc ACD08CE8 )
+)
+
+game (
+	comment "Sonic Spinball (Europe)"
+	publisher "SEGA"
+	rom ( crc AEA0786D )
+)
+
+game (
+	comment "Sonic Spinball (USA)"
+	publisher "SEGA"
+	rom ( crc 677206CB )
+)
+
+game (
+	comment "Sonic Spinball (USA) (1993-09-22) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc 82C55A36 )
+)
+
+game (
+	comment "Sonic Spinball (Europe) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 2c828e46 )
+)
+
+game (
+	comment "Sonic The Hedgehog (USA, Europe) (Sonic Classic Collection)"
+	publisher "SEGA"
+	rom ( crc 27e22795 )
+)
+
+game (
+	comment "Sonic The Hedgehog (Japan, Europe, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc AFE05EEE )
+)
+
+game (
+	comment "Sonic The Hedgehog (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc F9394E97 )
+)
+
+game (
+	comment "Sonic The Hedgehog (World) (Sonic Mega Collection)"
+	publisher "SEGA"
+	rom ( crc 6382B2C5 )
+)
+
+game (
+	comment "Sonic The Hedgehog 2 (World)"
+	publisher "SEGA"
+	rom ( crc 24AB4C3A )
+)
+
+game (
+	comment "Sonic The Hedgehog 2 (World) (Rev B)"
+	publisher "SEGA"
+	rom ( crc F23AD4B3 )
+)
+
+game (
+	comment "Sonic The Hedgehog 2 (World) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 7B905383 )
+)
+
+game (
+	comment "Sonic The Hedgehog 2 (World) (Rev A) (Sonic Mega Collection)"
+	publisher "SEGA"
+	rom ( crc 92D8817D )
+)
+
+game (
+	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-08-21)"
+	publisher "SEGA"
+	rom ( crc 370B3CE5 )
+)
+
+game (
+	comment "Sonic The Hedgehog 2 (World) (Beta) (1992-09-14)"
+	publisher "SEGA"
+	rom ( crc 0BE8AFA7 )
+)
+
+game (
+	comment "Sonic The Hedgehog 2 (World) (Rev A) (Sonic Classic Collection)"
+	publisher "SEGA"
+	rom ( crc 582e0bf7 )
+)
+
+game (
+	comment "Sonic The Hedgehog 3 (USA) (1993-11-20) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc EBC0AF69 )
+)
+
+game (
+	comment "Sonic The Hedgehog 3 (USA) (Sonic Classic Collection)"
+	publisher "SEGA"
+	rom ( crc fc0429dd )
+)
+
+game (
+	comment "Sonic The Hedgehog 3 (Japan, Korea) (Ja)"
+	publisher "SEGA"
+	rom ( crc F4951D1F )
+)
+
+game (
+	comment "Sonic The Hedgehog 3 (USA)"
+	publisher "SEGA"
+	rom ( crc 9BC192CE )
+)
+
+game (
+	comment "Sorcer Kingdom (Japan)"
+	publisher "Treco"
+	rom ( crc 944135CA )
+)
+
+game (
+	comment "Sorcerer's Kingdom (USA)"
+	publisher "Treco"
+	rom ( crc BB1FC9CE )
+)
+
+game (
+	comment "Sorcerian (Japan)"
+	publisher "Nihon Falcom"
+	rom ( crc A143A8C5 )
+)
+
+game (
+	comment "Sorcerian (Japan) (Rev 1) (Virtual Console)"
+	publisher "Nihon Falcom"
+	rom ( crc B60137E0 )
+)
+
+game (
+	comment "Space Funky B.O.B. (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc E9310D3B )
+)
+
+game (
+	comment "Space Harrier II (World)"
+	publisher "SEGA"
+	rom ( crc E5C9CBB0 )
+)
+
+game (
+	comment "Space Invaders '91 (USA)"
+	publisher "Taito"
+	rom ( crc BB83B528 )
+)
+
+game (
+	comment "Space Invaders 90 (Japan)"
+	publisher "Taito"
+	rom ( crc 22ADBD66 )
+)
+
+game (
+	comment "Sparkster (Europe)"
+	publisher "Konami"
+	rom ( crc D63E9F2D )
+)
+
+game (
+	comment "Sparkster (USA)"
+	publisher "Konami"
+	rom ( crc 6BDB14ED )
+)
+
+game (
+	comment "Sparkster - Rocket Knight Adventures 2 (Japan)"
+	publisher "Konami"
+	rom ( crc 914EC662 )
+)
+
+game (
+	comment "Speedball 2 (Europe)"
+	publisher "The Bitmap Brothers"
+	rom ( crc 056A6E03 )
+)
+
+game (
+	comment "Speedball 2 (Japan)"
+	publisher "The Bitmap Brothers"
+	rom ( crc F5442334 )
+)
+
+game (
+	comment "Speedball 2 - Brutal Deluxe (USA)"
+	publisher "The Bitmap Brothers"
+	rom ( crc 9FC340A7 )
+)
+
+game (
+	comment "Spider-Man (USA, Europe) (Acclaim)"
+	publisher "Acclaim"
+	rom ( crc 11B5B590 )
+)
+
+game (
+	comment "Spider-Man (World) (Sega)"
+	publisher "SEGA"
+	rom ( crc 70AB775F )
+)
+
+game (
+	comment "Spider-Man X-Men - Arcade's Revenge (Europe)"
+	publisher "Acclaim"
+	rom ( crc E7014092 )
+)
+
+game (
+	comment "Spider-Man . Venom - Maximum Carnage (World)"
+	publisher "Acclaim"
+	rom ( crc 8FA0B6E6 )
+)
+
+game (
+	comment "Spirou (Europe) (En,Fr,De,Es)"
+	publisher "Infogrames"
+	rom ( crc 6634B130 )
+)
+
+game (
+	comment "Spider-Man X-Men - Arcade's Revenge (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc 4A4414EA )
+)
+
+game (
+	comment "Splatterhouse 2 (Europe)"
+	publisher "Namco"
+	rom ( crc 2559E03C )
+)
+
+game (
+	comment "Splatterhouse 2 (USA)"
+	publisher "Namco"
+	rom ( crc 2D1766E9 )
+)
+
+game (
+	comment "Splatterhouse 3 (USA)"
+	publisher "Namco"
+	rom ( crc 00F05D07 )
+)
+
+game (
+	comment "Splatterhouse Part 2 (Japan)"
+	publisher "Namco"
+	rom ( crc 9FB70301 )
+)
+
+game (
+	comment "Splatterhouse Part 3 (Japan, Korea) (Ja)"
+	publisher "Namco"
+	rom ( crc 31B83D22 )
+)
+
+game (
+	comment "Sport Games (Brazil) (En)"
+	publisher "Tec Toy"
+	rom ( crc BC61AA50 )
+)
+
+game (
+	comment "Sports Talk Baseball (USA)"
+	publisher "SEGA"
+	rom ( crc 0DEB79C2 )
+)
+
+game (
+	comment "Spot Goes to Hollywood (Europe)"
+	publisher "Acclaim"
+	rom ( crc FBE254EA )
+)
+
+game (
+	comment "Spot Goes to Hollywood (USA)"
+	publisher "Acclaim"
+	rom ( crc BDAD1CBC )
+)
+
+game (
+	comment "Star Cruiser (Japan)"
+	publisher "Masaya Games"
+	rom ( crc 2B75B52F )
+)
+
+game (
+	comment "Star Trek - Deep Space Nine - Crossroads of Time (USA)"
+	publisher "Playmates Interactive"
+	rom ( crc A771E1A4 )
+)
+
+game (
+	comment "Star Trek - Deep Space Nine - Crossroads of Time (Europe)"
+	publisher "Playmates Interactive"
+	rom ( crc D4B122F9 )
+)
+
+game (
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA)"
+	publisher "SEGA"
+	rom ( crc 272153FB )
+)
+
+game (
+	comment "Star Trek - The Next Generation - Echoes from the Past (USA) (Rev A)"
+	publisher "SEGA"
+	rom ( crc EF840EF2 )
+)
+
+game (
+	comment "Starflight (USA, Europe)"
+	publisher "Binary Systems"
+	rom ( crc D550C928 )
+)
+
+game (
+	comment "Starflight (USA, Europe) (Rev A)"
+	publisher "Binary Systems"
+	rom ( crc 1217DBEA )
+)
+
+game (
+	comment "Stargate (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc E587069E )
+)
+
+game (
+	comment "Steel Empire (USA)"
+	publisher "Hot-B"
+	rom ( crc D0E7A0B6 )
+)
+
+game (
+	comment "Steel Talons (Japan, Korea) (Ja)"
+	publisher "Atari"
+	rom ( crc 04F388E6 )
+)
+
+game (
+	comment "Steel Talons (USA, Europe)"
+	publisher "Atari"
+	rom ( crc 10E4EC63 )
+)
+
+game (
+	comment "Stormlord (Japan)"
+	publisher "Hewson"
+	rom ( crc 0B440FED )
+)
+
+game (
+	comment "Stormlord (USA)"
+	publisher "Hewson"
+	rom ( crc 39AB50A5 )
+)
+
+game (
+	comment "Story of Thor, The (Germany)"
+	publisher "SEGA"
+	rom ( crc FA20D011 )
+)
+
+game (
+	comment "Story of Thor, The (Europe)"
+	publisher "SEGA"
+	rom ( crc 1110B0DB )
+)
+
+game (
+	comment "Story of Thor, The (Korea)"
+	publisher "SEGA"
+	rom ( crc EE1603C5 )
+)
+
+game (
+	comment "Story of Thor, The (Spain)"
+	publisher "SEGA"
+	rom ( crc 4631F941 )
+)
+
+game (
+	comment "Story of Thor, The (Europe) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 8cd9053f )
+)
+
+game (
+	comment "Story of Thor, The (Germany) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 244d768b )
+)
+
+game (
+	comment "Story of Thor, The (Spain) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc dbf84ca5 )
+)
+
+game (
+	comment "Street Fighter II' - Special Champion Edition (USA) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc A81527B7 )
+)
+
+game (
+	comment "Story of Thor, The - Hikari o Tsugumono (Japan)"
+	publisher "SEGA"
+	rom ( crc 4F39783C )
+)
+
+game (
+	comment "Street Fighter II' - Special Champion Edition (Europe) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc ED3F3E20 )
+)
+
+game (
+	comment "Street Fighter II' - Special Champion Edition (Europe)"
+	publisher "SEGA"
+	rom ( crc 56D41136 )
+)
+
+game (
+	comment "Street Fighter II' - Special Champion Edition (USA)"
+	publisher "SEGA"
+	rom ( crc 13FE08A1 )
+)
+
+game (
+	comment "Street Fighter II' Plus - Champion Edition (Japan, Korea) (Ja)"
+	publisher "SEGA"
+	rom ( crc 2E487EE3 )
+)
+
+game (
+	comment "Street Fighter II' Plus - Champion Edition (Japan) (Virtual Console)"
+	publisher "SEGA"
+	rom ( crc 95A351F5 )
+)
+
+game (
+	comment "Street Smart (Japan, USA) (En)"
+	publisher "Treco"
+	rom ( crc B1DEDFAD )
+)
+
+game (
+	comment "Street Racer (Europe)"
+	publisher "Ubisoft"
+	rom ( crc 1A58D5FE )
+)
+
+game (
+	comment "Streets of Rage (World)"
+	publisher "SEGA"
+	rom ( crc BFF227C6 )
+)
+
+game (
+	comment "Streets of Rage (World) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 4052E845 )
+)
+
+game (
+	comment "Streets of Rage 2 (USA)"
+	publisher "SEGA"
+	rom ( crc E01FA526 )
+)
+
+game (
+	comment "Streets of Rage 2 (Japan) (En,Ja) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc c48b3698 )
+)
+
+game (
+	comment "Streets of Rage 3 (Asia) (En)"
+	publisher "SEGA"
+	rom ( crc 90EF991E )
+)
+
+game (
+	comment "Streets of Rage 3 (Europe)"
+	publisher "SEGA"
+	rom ( crc 3B78135F )
+)
+
+game (
+	comment "Streets of Rage 3 (USA)"
+	publisher "SEGA"
+	rom ( crc D5BB15D9 )
+)
+
+game (
+	comment "Strider (USA, Europe)"
+	publisher "Capcom"
+	rom ( crc B9D099A4 )
+)
+
+game (
+	comment "Streets of Rage II (Japan, Europe) (En,Ja)"
+	publisher "SEGA"
+	rom ( crc 42E3EFDC )
+)
+
+game (
+	comment "Strider (USA, Europe) (Virtual Console)"
+	publisher "Capcom"
+	rom ( crc 5B96A532 )
+)
+
+game (
+	comment "Strider Hiryuu (Japan) (Rev A) (Virtual Console)"
+	publisher "Capcom"
+	rom ( crc 62B2FD97 )
+)
+
+game (
+	comment "Strider Hiryuu (Japan) (Rev A) (Mega Drive Mini)"
+	publisher "Capcom"
+	rom ( crc f38c0ed3 )
+)
+
+game (
+	comment "Strider Hiryuu (Japan, Korea) (Ja)"
+	publisher "Capcom"
+	rom ( crc 859173F2 )
+)
+
+game (
+	comment "Strider II (Europe)"
+	publisher "Capcom"
+	rom ( crc E85E5270 )
+)
+
+game (
+	comment "Striker (Europe) (En,Fr,De,Es,It)"
+	publisher "SEGA"
+	rom ( crc CC5D7AB2 )
+)
+
+game (
+	comment "Sub-Terrania (Europe)"
+	publisher "Scavenger"
+	rom ( crc E8CED28D )
+)
+
+game (
+	comment "Sub-Terrania (Asia) (En)"
+	publisher "Scavenger"
+	rom ( crc 7638EA91 )
+)
+
+game (
+	comment "Sub-Terrania (USA)"
+	publisher "Scavenger"
+	rom ( crc DC3C6C45 )
+)
+
+game (
+	comment "Sub-Terrania (USA) (Beta 3) (October, 1993)"
+	publisher "Scavenger"
+	rom ( crc 707fa63c )
+)
+
+game (
+	comment "Sunset Riders (Europe)"
+	publisher "Konami"
+	rom ( crc 0FF33054 )
+)
+
+game (
+	comment "Sunset Riders (USA)"
+	publisher "Konami"
+	rom ( crc AC30C297 )
+)
+
+game (
+	comment "Super Airwolf (Japan)"
+	publisher "Kyugo Boueki"
+	rom ( crc FA451982 )
+)
+
+game (
+	comment "Super Baseball 2020 (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc C17ACEE5 )
+)
+
+game (
+	comment "Super Battleship - The Classic Naval Combat Game (USA)"
+	publisher "Mindscape"
+	rom ( crc 99CA1BFB )
+)
+
+game (
+	comment "Super Daisenryaku (Japan)"
+	publisher "SEGA"
+	rom ( crc D50A166F )
+)
+
+game (
+	comment "Super Daisenryaku (Japan) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 11645D6E )
+)
+
+game (
+	comment "Super Fantasy Zone (Europe)"
+	publisher "SEGA"
+	rom ( crc 927975BE )
+)
+
+game (
+	comment "Super Fantasy Zone (Japan)"
+	publisher "SEGA"
+	rom ( crc 767780D7 )
+)
+
+game (
+	comment "Super Fantasy Zone (USA) (Ja) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc D97D913D )
+)
+
+game (
+	comment "Super H.Q. (Japan)"
+	publisher "Taito"
+	rom ( crc AB2C52B0 )
+)
+
+game (
+	comment "Super Hang-On (Europe) (En,Ja) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 3877D107 )
+)
+
+game (
+	comment "Super Hang-On (Japan, USA) (En,Ja)"
+	publisher "SEGA"
+	rom ( crc CB2201A3 )
+)
+
+game (
+	comment "Super Hang-On (World) (Sega Smash Pack 2)"
+	publisher "SEGA"
+	rom ( crc 7E892199 )
+)
+
+game (
+	comment "Super High Impact (USA)"
+	publisher "Arena Entertainment"
+	rom ( crc B870C2F7 )
+)
+
+game (
+	comment "Super Hydlide (Europe)"
+	publisher "Asmik"
+	rom ( crc 1FE2D90B )
+)
+
+game (
+	comment "Super Hydlide (Japan)"
+	publisher "Asmik"
+	rom ( crc 599BE386 )
+)
+
+game (
+	comment "Super Hydlide (USA)"
+	publisher "Asmik"
+	rom ( crc 1335DDAA )
+)
+
+game (
+	comment "Super Kick Off (Europe)"
+	publisher "Tiertex"
+	rom ( crc F43793FF )
+)
+
+game (
+	comment "Super League (Europe)"
+	publisher "SEGA"
+	rom ( crc 55BAEC6E )
+)
+
+game (
+	comment "Super League (Japan)"
+	publisher "SEGA"
+	rom ( crc EA13CB1D )
+)
+
+game (
+	comment "Super Monaco GP (USA) (En,Ja)"
+	publisher "SEGA"
+	rom ( crc 725018EE )
+)
+
+game (
+	comment "Super Monaco GP (Japan, USA) (En,Ja)"
+	publisher "SEGA"
+	rom ( crc 90F9BAB3 )
+)
+
+game (
+	comment "Super Monaco GP (World) (En,Ja)"
+	publisher "SEGA"
+	rom ( crc B1823595 )
+)
+
+game (
+	comment "Super Monaco GP (World) (En,Ja) (Rev A)"
+	publisher "SEGA"
+	rom ( crc BE91B28A )
+)
+
+game (
+	comment "Super Real Basketball (Europe)"
+	publisher "SEGA"
+	rom ( crc F04765BA )
+)
+
+game (
+	comment "Super Real Basketball (Japan, Korea) (Ja)"
+	publisher "SEGA"
+	rom ( crc 4346E11A )
+)
+
+game (
+	comment "Super Shinobi, The (Japan)"
+	publisher "SEGA"
+	rom ( crc 5C7E5EA6 )
+)
+
+game (
+	comment "Super Shinobi II, The (Japan, Korea) (Ja)"
+	publisher "SEGA"
+	rom ( crc 5B412816 )
+)
+
+game (
+	comment "Super Skidmarks (Europe) (J-Cart)"
+	publisher "Codemasters"
+	rom ( crc 4A9C62F9 )
+)
+
+game (
+	comment "Super Smash T.V. (USA, Europe)"
+	publisher "Probe Entertainment"
+	rom ( crc F22412B6 )
+)
+
+game (
+	comment "Super Street Fighter II (Europe)"
+	publisher "Capcom"
+	rom ( crc 682C192F )
+)
+
+game (
+	comment "Super Street Fighter II (USA)"
+	publisher "Capcom"
+	rom ( crc 165DEFBF )
+)
+
+game (
+	comment "Super Street Fighter II (USA) (Virtual Console)"
+	publisher "Capcom"
+	rom ( crc 0BDCCC83 )
+)
+
+game (
+	comment "Super Street Fighter II (Europe) (Virtual Console)"
+	publisher "Capcom"
+	rom ( crc BFDE41C8 )
+)
+
+game (
+	comment "Super Street Fighter II - The New Challengers (Japan) (Virtual Console)"
+	publisher "Capcom"
+	rom ( crc EA6E8AFC )
+)
+
+game (
+	comment "Super Street Fighter II - The New Challengers (Japan)"
+	publisher "Capcom"
+	rom ( crc D8EEB2BD )
+)
+
+game (
+	comment "Super Thunder Blade (World)"
+	publisher "SEGA"
+	rom ( crc B13087EE )
+)
+
+game (
+	comment "Super Volley Ball (Japan)"
+	publisher "Video System"
+	rom ( crc 9B5C28EA )
+)
+
+game (
+	comment "Super Volleyball (USA)"
+	publisher "Video System"
+	rom ( crc 85102799 )
+)
+
+game (
+	comment "Surging Aura (Japan)"
+	publisher "SEGA"
+	rom ( crc 65AC1D2B )
+)
+
+game (
+	comment "Superman (USA)"
+	publisher "Sunsoft"
+	rom ( crc 543A5869 )
+)
+
+game (
+	comment "Superman - The Man of Steel (Europe)"
+	publisher "Sunsoft"
+	rom ( crc 7DB434BA )
+)
+
+game (
+	comment "Sword of Sodan (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 58EDB3F3 )
+)
+
+game (
+	comment "Sword of Sodan (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 9CB8468F )
+)
+
+game (
+	comment "Sword of Vermilion (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc EA1BC9AB )
+)
+
+game (
+	comment "Sword of Vermilion (USA, Europe) (1993-11-18) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc F38C50BF )
+)
+
+game (
+	comment "Syd of Valis (USA)"
+	publisher "Laser Soft"
+	rom ( crc 37DC0108 )
+)
+
+game (
+	comment "Sylvester & Tweety in Cagey Capers (USA, Europe)"
+	publisher "Tecmagik"
+	rom ( crc 89FC54CE )
+)
+
+game (
+	comment "Syndicate (USA, Europe) (En,Fr,De)"
+	publisher "Electronic Arts"
+	rom ( crc 95BBF87B )
+)
+
+game (
+	comment "T2 - Terminator 2 - Judgment Day (USA, Europe)"
+	publisher "Bits Studios"
+	rom ( crc 2F75E896 )
+)
+
+game (
+	comment "T2 - The Arcade Game (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc A1264F17 )
+)
+
+game (
+	comment "T2 - The Arcade Game (Japan)"
+	publisher "Acclaim"
+	rom ( crc 5E6FE52C )
+)
+
+game (
+	comment "Taikou Risshiden (Japan)"
+	publisher "Koei"
+	rom ( crc F96FE15B )
+)
+
+game (
+	comment "TaleSpin (USA, Europe)"
+	publisher "Disney Interactive"
+	rom ( crc F5C0C8D0 )
+)
+
+game (
+	comment "Talmit's Adventure (Europe)"
+	publisher "Namco"
+	rom ( crc 05DC3FFC )
+)
+
+game (
+	comment "Target Earth (USA, Europe) (Switch Online)"
+	publisher "DreamWorks"
+	rom ( crc F1CDCDCD )
+)
+
+game (
+	comment "Target Earth (USA)"
+	publisher "DreamWorks"
+	rom ( crc CDDF62D3 )
+)
+
+game (
+	comment "Task Force Harrier EX (Japan)"
+	publisher "UPL"
+	rom ( crc E9A54EED )
+)
+
+game (
+	comment "Task Force Harrier EX (USA)"
+	publisher "UPL"
+	rom ( crc C8BB0257 )
+)
+
+game (
+	comment "Tatsujin ~ Truxton (World)"
+	publisher "SEGA"
+	rom ( crc 5BD0882D )
+)
+
+game (
+	comment "Taz in Escape from Mars (Europe)"
+	publisher "SEGA"
+	rom ( crc 62100099 )
+)
+
+game (
+	comment "Taz in Escape from Mars (USA)"
+	publisher "SEGA"
+	rom ( crc 62009F8C )
+)
+
+game (
+	comment "Taz-Mania (World)"
+	publisher "SEGA"
+	rom ( crc 0E901F45 )
+)
+
+game (
+	comment "Team USA Basketball (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc A0CAF97E )
+)
+
+game (
+	comment "TechnoClash (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 4E65E483 )
+)
+
+game (
+	comment "Technocop (USA)"
+	publisher "Razorsoft"
+	rom ( crc 7459AD06 )
+)
+
+game (
+	comment "Tecmo Super Baseball (USA)"
+	publisher "Sculptured Software"
+	rom ( crc 227A1178 )
+)
+
+game (
+	comment "Tecmo Super Bowl (Japan)"
+	publisher "Tecmo"
+	rom ( crc 90C6E20C )
+)
+
+game (
+	comment "Tecmo Super Bowl (USA)"
+	publisher "Tecmo"
+	rom ( crc BD5933EE )
+)
+
+game (
+	comment "Tecmo Super Bowl II - Special Edition (Japan)"
+	publisher "Tecmo"
+	rom ( crc 32FB633D )
+)
+
+game (
+	comment "Tecmo Super Bowl II - Special Edition (USA)"
+	publisher "Tecmo"
+	rom ( crc 0A0E67D8 )
+)
+
+game (
+	comment "Tecmo Super Bowl III - Final Edition (USA)"
+	publisher "Tecmo"
+	rom ( crc AAE4089F )
+)
+
+game (
+	comment "Tecmo Super Hockey (USA)"
+	publisher "Tecmo"
+	rom ( crc 5F86DDC9 )
+)
+
+game (
+	comment "Tecmo Super NBA Basketball (Japan)"
+	publisher "Tecmo"
+	rom ( crc 79F33EB6 )
+)
+
+game (
+	comment "Tecmo Super NBA Basketball (USA)"
+	publisher "Tecmo"
+	rom ( crc 53913991 )
+)
+
+game (
+	comment "Tecmo World Cup (USA)"
+	publisher "SEGA"
+	rom ( crc CAF8EB2C )
+)
+
+game (
+	comment "Tecmo World Cup '92 (Japan)"
+	publisher "SEGA"
+	rom ( crc 5E93C8B0 )
+)
+
+game (
+	comment "Teddy Boy Blues (Japan) (SegaNet)"
+	publisher "SEGA"
+	rom ( crc 733D2EB3 )
+)
+
+game (
+	comment "Teenage Mutant Hero Turtles - The Hyperstone Heist (Europe)"
+	publisher "Konami"
+	rom ( crc 966D5286 )
+)
+
+game (
+	comment "Teenage Mutant Hero Turtles - Tournament Fighters (Europe)"
+	publisher "Konami"
+	rom ( crc 3CD2B7E6 )
+)
+
+game (
+	comment "Teenage Mutant Ninja Turtles - Return of the Shredder (Japan)"
+	publisher "Konami"
+	rom ( crc 1B003498 )
+)
+
+game (
+	comment "Teenage Mutant Ninja Turtles - The Hyperstone Heist (USA)"
+	publisher "Konami"
+	rom ( crc 679C41DE )
+)
+
+game (
+	comment "Teenage Mutant Ninja Turtles - Tournament Fighters (Japan)"
+	publisher "Konami"
+	rom ( crc 8843F2C9 )
+)
+
+game (
+	comment "Teenage Mutant Ninja Turtles - Tournament Fighters (USA)"
+	publisher "Konami"
+	rom ( crc 95B5484D )
+)
+
+game (
+	comment "Teitoku no Ketsudan (Japan)"
+	publisher "Namco"
+	rom ( crc 9B08E4E4 )
+)
+
+game (
+	comment "Tel-Tel Stadium (Japan)"
+	publisher "Sunsoft"
+	rom ( crc 54CF8C29 )
+)
+
+game (
+	comment "Tel-Tel Mahjong (Japan)"
+	publisher "Sunsoft"
+	rom ( crc 44817E92 )
+)
+
+game (
+	comment "Terminator, The (Europe)"
+	publisher "Virgin"
+	rom ( crc 15F4D302 )
+)
+
+game (
+	comment "Tetris (Japan)"
+	publisher "SEGA"
+	rom ( crc 4CE90DB0 )
+)
+
+game (
+	comment "Terminator, The (USA)"
+	publisher "Virgin"
+	rom ( crc 31A629BE )
+)
+
+game (
+	comment "Tetris (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc C8DD8841 )
+)
+
+game (
+	comment "Thomas the Tank Engine & Friends (USA)"
+	publisher "Malibu Games"
+	rom ( crc 1A406299 )
+)
+
+game (
+	comment "Tetris (Japan) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc b6fb7a7d )
+)
+
+game (
+	comment "Theme Park (USA, Europe) (En,Fr,De,Es)"
+	publisher "Bullfrog"
+	rom ( crc 289DA2C5 )
+)
+
+game (
+	comment "Thunder Force II (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 9B1561B3 )
+)
+
+game (
+	comment "Thunder Force III (Japan, USA) (En)"
+	publisher "SEGA"
+	rom ( crc 1B3F399A )
+)
+
+game (
+	comment "Thunder Force II MD (Japan)"
+	publisher "SEGA"
+	rom ( crc E75EC3E0 )
+)
+
+game (
+	comment "Thunder Force IV (World) (Sega Ages)"
+	publisher "SEGA"
+	rom ( crc 311d9d4a )
+)
+
+game (
+	comment "Thunder Force IV (Europe)"
+	publisher "SEGA"
+	rom ( crc E7E3C05B )
+)
+
+game (
+	comment "Thunder Force IV (Japan)"
+	publisher "SEGA"
+	rom ( crc 8D606480 )
+)
+
+game (
+	comment "Thunder Fox (Japan)"
+	publisher "Taito"
+	rom ( crc ECA6CFFA )
+)
+
+game (
+	comment "Thunder Fox (USA)"
+	publisher "Taito"
+	rom ( crc 5463F50F )
+)
+
+game (
+	comment "Tick, The (USA)"
+	publisher "Fox Interactive"
+	rom ( crc 425132F0 )
+)
+
+game (
+	comment "Thunder Pro Wrestling Retsuden (Japan)"
+	publisher "Human"
+	rom ( crc 24408C73 )
+)
+
+game (
+	comment "Time Dominator 1st (Japan, Korea) (Ja)"
+	publisher "Tokai Engineering"
+	rom ( crc 7EBA7A5C )
+)
+
+game (
+	comment "Time Killers (Europe)"
+	publisher "Black Pearl Software"
+	rom ( crc A4F48A1A )
+)
+
+game (
+	comment "Time Killers (USA)"
+	publisher "Black Pearl Software"
+	rom ( crc 4B5F52AC )
+)
+
+game (
+	comment "Tinhead (USA) (Ballistic) (April, 1994)"
+	publisher "MicroProse"
+	rom ( crc D6724B84 )
+)
+
+game (
+	comment "Tinhead (USA) (Spectrum HoloByte) (October, 1995)"
+	publisher "MicroProse"
+	rom ( crc ADA75F2F )
+)
+
+game (
+	comment "Tiny Toon Adventures (Korea) (En)"
+	publisher "Konami"
+	rom ( crc 4CA3A8FB )
+)
+
+game (
+	comment "Tintin in Tibet (Europe) (En,Fr,De,Es,Nl,Sv)"
+	publisher "Infogrames"
+	rom ( crc 4243CAF3 )
+)
+
+game (
+	comment "Tiny Toon Adventures - ACME All-Stars (Europe) (En,Fr,De)"
+	publisher "Konami"
+	rom ( crc 1227B2B2 )
+)
+
+game (
+	comment "Tiny Toon Adventures - ACME All-Stars (USA, Korea) (En)"
+	publisher "Konami"
+	rom ( crc 2F9FAA1D )
+)
+
+game (
+	comment "Tiny Toon Adventures - Buster's Hidden Treasure (Europe)"
+	publisher "Konami"
+	rom ( crc D10FBA51 )
+)
+
+game (
+	comment "Tiny Toon Adventures - Buster's Hidden Treasure (USA)"
+	publisher "Konami"
+	rom ( crc A26D3AE0 )
+)
+
+game (
+	comment "TNN Bass Tournament of Champions (USA)"
+	publisher "American Softworks"
+	rom ( crc C83FFA1B )
+)
+
+game (
+	comment "TNN Outdoors Bass Tournament '96 (USA)"
+	publisher "American Softworks"
+	rom ( crc 5C523C0B )
+)
+
+game (
+	comment "Todd's Adventures in Slime World (USA)"
+	publisher "Renovation Products"
+	rom ( crc 652E8B7D )
+)
+
+game (
+	comment "ToeJam & Earl (USA, Europe, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc D1B36786 )
+)
+
+game (
+	comment "ToeJam & Earl (Japan, Europe) (En) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 7A588F4B )
+)
+
+game (
+	comment "ToeJam & Earl in Panic on Funkotron (Europe)"
+	publisher "SEGA"
+	rom ( crc 47B0A871 )
+)
+
+game (
+	comment "ToeJam & Earl in Panic on Funkotron (Asia) (En)"
+	publisher "SEGA"
+	rom ( crc E1B36850 )
+)
+
+game (
+	comment "ToeJam & Earl in Panic on Funkotron (USA)"
+	publisher "SEGA"
+	rom ( crc AA021BDD )
+)
+
+game (
+	comment "ToeJam & Earl in Panic on Funkotron (USA) (1993-09-11) (Sega Channel)"
+	publisher "SEGA"
+	rom ( crc D9DFBB5C )
+)
+
+game (
+	comment "ToeJam & Earl in Panik auf Funkotron (Germany)"
+	publisher "SEGA"
+	rom ( crc 4081B9F2 )
+)
+
+game (
+	comment "Toki - Going Ape Spit (USA, Europe)"
+	publisher "Taito"
+	rom ( crc 7362C3F4 )
+)
+
+game (
+	comment "Toki no Keishousha - Phantasy Star III (Japan)"
+	publisher "SEGA"
+	rom ( crc 6C48C06F )
+)
+
+game (
+	comment "Tom and Jerry - Frantic Antics (Japan) (En)"
+	publisher "Hi Tech Expressions"
+	rom ( crc F800C814 )
+)
+
+game (
+	comment "Tom and Jerry - Frantic Antics! (USA)"
+	publisher "Hi Tech Expressions"
+	rom ( crc 3044460C )
+)
+
+game (
+	comment "Tom Mason's Dinosaurs for Hire (USA)"
+	publisher "SEGA"
+	rom ( crc 39351146 )
+)
+
+game (
+	comment "Tommy Lasorda Baseball (USA)"
+	publisher "SEGA"
+	rom ( crc AA3965DB )
+)
+
+game (
+	comment "Tommy Lasorda Baseball (USA) (Rev A)"
+	publisher "SEGA"
+	rom ( crc 4FB50304 )
+)
+
+game (
+	comment "Tony La Russa Baseball (USA, Australia)"
+	publisher "Strategic Simulations"
+	rom ( crc 24629C78 )
+)
+
+game (
+	comment "Top Pro Golf (Japan)"
+	publisher "Soft Vision"
+	rom ( crc 62BAD606 )
+)
+
+game (
+	comment "Top Pro Golf 2 (Japan)"
+	publisher "Virgin"
+	rom ( crc B8CE98B3 )
+)
+
+game (
+	comment "Top Gear 2 (USA)"
+	publisher "Kemco"
+	rom ( crc BD3074D2 )
+)
+
+game (
+	comment "Total Football (Europe)"
+	publisher "Acclaim"
+	rom ( crc 8360B66A )
+)
+
+game (
+	comment "Toughman Contest (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc E19FBC93 )
+)
+
+game (
+	comment "Tougiou King Colossus (Japan)"
+	publisher "SEGA"
+	rom ( crc FFE7B3C7 )
+)
+
+game (
+	comment "Toxic Crusaders (USA)"
+	publisher "Infogrames"
+	rom ( crc 11FD46CE )
+)
+
+game (
+	comment "Toys - Let the Toy Wars begin! (USA)"
+	publisher "Absolute Entertainment"
+	rom ( crc CBC9951B )
+)
+
+game (
+	comment "Toy Story (Europe)"
+	publisher "Disney Interactive"
+	rom ( crc 8E89A9F3 )
+)
+
+game (
+	comment "Toy Story (USA)"
+	publisher "Disney Interactive"
+	rom ( crc 829FE313 )
+)
+
+game (
+	comment "Trampoline Terror! (USA)"
+	publisher "DreamWorks"
+	rom ( crc AABB349F )
+)
+
+game (
+	comment "Traysia (USA)"
+	publisher "Telenet"
+	rom ( crc 96184F4F )
+)
+
+game (
+	comment "Triple Play - Gold Edition (USA)"
+	publisher "Electronic Arts"
+	rom ( crc C25FF3F2 )
+)
+
+game (
+	comment "Triple Play 96 (USA)"
+	publisher "EA Sports"
+	rom ( crc 565E2F2E )
+)
+
+game (
+	comment "True Lies (World)"
+	publisher "Acclaim"
+	rom ( crc 18C09468 )
+)
+
+game (
+	comment "Troy Aikman NFL Football (USA)"
+	publisher "Tradewest"
+	rom ( crc 015F2713 )
+)
+
+game (
+	comment "Trouble Shooter (USA)"
+	publisher "Tokai Engineering"
+	rom ( crc BECFC39B )
+)
+
+game (
+	comment "Turbo OutRun (Japan, Europe) (En)"
+	publisher "SEGA"
+	rom ( crc 0C661369 )
+)
+
+game (
+	comment "Turma da Monica na Terra dos Monstros (Brazil)"
+	publisher "Tec Toy"
+	rom ( crc F8288DE1 )
+)
+
+game (
+	comment "Twin Cobra - Desert Attack Helicopter (USA)"
+	publisher "SEGA"
+	rom ( crc 2C708248 )
+)
+
+game (
+	comment "Twinkle Tale (Japan)"
+	publisher "Wonder Amusement Studio"
+	rom ( crc D757F924 )
+)
+
+game (
+	comment "Two Crude Dudes (Europe)"
+	publisher "Data East"
+	rom ( crc B6D90A10 )
+)
+
+game (
+	comment "Two Crude Dudes (USA)"
+	publisher "Data East"
+	rom ( crc 721B5744 )
+)
+
+game (
+	comment "Two Tribes - Populous II (Europe)"
+	publisher "Bullfrog"
+	rom ( crc EE988BD9 )
+)
+
+game (
+	comment "Tyrants - Fight Through Time (USA)"
+	publisher "Virgin"
+	rom ( crc A744921E )
+)
+
+game (
+	comment "Ultimate Mortal Kombat 3 (Europe)"
+	publisher "Acclaim"
+	rom ( crc ECFB5CB4 )
+)
+
+game (
+	comment "Ultimate Mortal Kombat 3 (USA)"
+	publisher "Acclaim"
+	rom ( crc 7290770D )
+)
+
+game (
+	comment "Uchuu Senkan Gomora (Japan)"
+	publisher "UPL"
+	rom ( crc C511E8D2 )
+)
+
+game (
+	comment "Ultimate QIX (USA)"
+	publisher "Taito"
+	rom ( crc D83369D9 )
+)
+
+game (
+	comment "Ultimate Soccer (Europe) (En,Fr,De,Es,It)"
+	publisher "SEGA"
+	rom ( crc 83DB6E58 )
+)
+
+game (
+	comment "Ultraman (Japan)"
+	publisher "Human"
+	rom ( crc 83B4D5FB )
+)
+
+game (
+	comment "Uncharted Waters (USA)"
+	publisher "Koei"
+	rom ( crc 4EDAEC59 )
+)
+
+game (
+	comment "Unnecessary Roughness '95 (USA)"
+	publisher "Accolade"
+	rom ( crc 9920E7B7 )
+)
+
+game (
+	comment "Undead Line (Japan)"
+	publisher "PALSOFT"
+	rom ( crc FB3CA1E6 )
+)
+
+game (
+	comment "Urban Strike (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc CF690A75 )
+)
+
+game (
+	comment "Uzu Keobukseon (Korea)"
+	publisher "Samsung"
+	rom ( crc A7255BA8 )
+)
+
+game (
+	comment "V-V (Japan)"
+	publisher "Tengen"
+	rom ( crc AD9D0EC0 )
+)
+
+game (
+	comment "Valis (USA)"
+	publisher "Renovation Products"
+	rom ( crc 13BC5B72 )
+)
+
+game (
+	comment "Valis III (Japan)"
+	publisher "Telenet"
+	rom ( crc 4D49A166 )
+)
+
+game (
+	comment "Vampire Killer (Japan) (Castlevania Anniversary Collection)"
+	publisher "Konami"
+	rom ( crc 238a9b8f )
+)
+
+game (
+	comment "Valis III (USA)"
+	publisher "Telenet"
+	rom ( crc 59A2A368 )
+)
+
+game (
+	comment "Vampire Killer (Japan) (Mega Drive Mini)"
+	publisher "Konami"
+	rom ( crc db03961b )
+)
+
+game (
+	comment "Vampire Killer (Japan)"
+	publisher "Konami"
+	rom ( crc 91B57D2B )
+)
+
+game (
+	comment "Vapor Trail (USA)"
+	publisher "Data East"
+	rom ( crc C49E3A0A )
+)
+
+game (
+	comment "Vectorman (USA) (Genesis Mini)"
+	publisher "SEGA"
+	rom ( crc b0f8c546 )
+)
+
+game (
+	comment "Vectorman (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc D38B3354 )
+)
+
+game (
+	comment "Vectorman 2 (USA)"
+	publisher "SEGA"
+	rom ( crc C1A24088 )
+)
+
+game (
+	comment "Vectorman (USA, Europe) (Sega Smash Pack 2)"
+	publisher "SEGA"
+	rom ( crc 5C680397 )
+)
+
+game (
+	comment "Venom . Spider-Man - Separation Anxiety (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc 512ADE32 )
+)
+
+game (
+	comment "Vermilion (Japan)"
+	publisher "SEGA"
+	rom ( crc E400DFC3 )
+)
+
+game (
+	comment "Verytex (Japan)"
+	publisher "Asmik"
+	rom ( crc BAFC375F )
+)
+
+game (
+	comment "Vermilion (Japan) (Mega Drive Mini)"
+	publisher "SEGA"
+	rom ( crc 5af97a22 )
+)
+
+game (
+	comment "Viewpoint (USA)"
+	publisher "SEGA"
+	rom ( crc 59C71866 )
+)
+
+game (
+	comment "Virtua Fighter 2 (Korea) (En)"
+	publisher "SEGA"
+	rom ( crc A95D0949 )
+)
+
+game (
+	comment "Virtua Fighter 2 (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 937380F3 )
+)
+
+game (
+	comment "Virtua Racing (Europe)"
+	publisher "SEGA"
+	rom ( crc 9624D4EF )
+)
+
+game (
+	comment "Virtua Racing (Japan)"
+	publisher "SEGA"
+	rom ( crc 53A293B5 )
+)
+
+game (
+	comment "Virtua Racing (USA)"
+	publisher "SEGA"
+	rom ( crc 7E1A324A )
+)
+
+game (
+	comment "Virtual Bart (World)"
+	publisher "Acclaim"
+	rom ( crc 8DB9F378 )
+)
+
+game (
+	comment "Virtual Pinball (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc D63473AA )
+)
+
+game (
+	comment "Vixen 357 (Japan)"
+	publisher "NCS Corporation"
+	rom ( crc 3AFA2D7B )
+)
+
+game (
+	comment "Volfied (Japan)"
+	publisher "Taito"
+	rom ( crc B0C5E3F7 )
+)
+
+game (
+	comment "VR Troopers (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 2F35516E )
+)
+
+game (
+	comment "Wacky Worlds Creativity Studio (USA)"
+	publisher "SEGA"
+	rom ( crc 8AF4552D )
+)
+
+game (
+	comment "Wani Wani World (Japan)"
+	publisher "Kaneko"
+	rom ( crc 56F0DBB2 )
+)
+
+game (
+	comment "Wardner (USA)"
+	publisher "Toaplan"
+	rom ( crc 1E369AE2 )
+)
+
+game (
+	comment "Wardner no Mori Special (Japan)"
+	publisher "Toaplan"
+	rom ( crc 80F1035C )
+)
+
+game (
+	comment "Warlock (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc 0A46539B )
+)
+
+game (
+	comment "Warrior of Rome (USA)"
+	publisher "Micronet"
+	rom ( crc 5BE10C6A )
+)
+
+game (
+	comment "Warrior of Rome II (USA)"
+	publisher "Caesar No Yabou 2"
+	rom ( crc CD8C472A )
+)
+
+game (
+	comment "Warsong (USA)"
+	publisher "Treco"
+	rom ( crc 4B680285 )
+)
+
+game (
+	comment "Wayne Gretzky and the NHLPA All-Stars (USA, Europe)"
+	publisher "Time Warner Interactive"
+	rom ( crc C2C13B81 )
+)
+
+game (
+	comment "WeaponLord (USA)"
+	publisher "Namco"
+	rom ( crc B9895365 )
+)
+
+game (
+	comment "Wayne's World (USA)"
+	publisher "THQ"
+	rom ( crc D2CF6EBE )
+)
+
+game (
+	comment "Wheel of Fortune (USA)"
+	publisher "GameTek"
+	rom ( crc C8D8EFC3 )
+)
+
+game (
+	comment "Where in the World Is Carmen Sandiego (Brazil) (Es,Pt)"
+	publisher "Electronic Arts"
+	rom ( crc 7D4450AD )
+)
+
+game (
+	comment "Where in Time Is Carmen Sandiego (Brazil) (Es,Pt)"
+	publisher "Electronic Arts"
+	rom ( crc D523B552 )
+)
+
+game (
+	comment "Where in the World Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)"
+	publisher "Electronic Arts"
+	rom ( crc EEF372E8 )
+)
+
+game (
+	comment "Where in Time Is Carmen Sandiego (USA, Europe) (En,Fr,De,Es,It)"
+	publisher "Electronic Arts"
+	rom ( crc EA19D4A4 )
+)
+
+game (
+	comment "Whip Rush (USA)"
+	publisher "Tokai Engineering"
+	rom ( crc 7EB6B86B )
+)
+
+game (
+	comment "Whip Rush - Wakusei Voltegas no Nazo (Japan)"
+	publisher "Tokai Engineering"
+	rom ( crc 8084B4D1 )
+)
+
+game (
+	comment "Williams Arcade's Greatest Hits (USA)"
+	publisher "Williams"
+	rom ( crc D68E9C00 )
+)
+
+game (
+	comment "Wimbledon (Europe)"
+	publisher "SEGA"
+	rom ( crc B791A435 )
+)
+
+game (
+	comment "Wimbledon Championship Tennis (USA)"
+	publisher "SEGA"
+	rom ( crc F9142AEE )
+)
+
+game (
+	comment "Wimbledon Championship Tennis (Japan)"
+	publisher "SEGA"
+	rom ( crc 3E0C9DAF )
+)
+
+game (
+	comment "Wings of Wor (USA)"
+	publisher "DreamWorks"
+	rom ( crc 210A2FCD )
+)
+
+game (
+	comment "Winter Challenge (USA, Europe) (Rev 1)"
+	publisher "Accolade"
+	rom ( crc F57C7068 )
+)
+
+game (
+	comment "Winter Olympic Games (USA) (En,Fr,De,Es,It,Pt,Sv,No)"
+	publisher "Tiertex"
+	rom ( crc C5834437 )
+)
+
+game (
+	comment "Winter Olympics (Europe) (En,Fr,De,Es,It,Pt,Sv,No)"
+	publisher "Tiertex"
+	rom ( crc FA537A45 )
+)
+
+game (
+	comment "Winter Olympics (Japan) (En,Fr,De,Es,It,Pt,Sv,No)"
+	publisher "Tiertex"
+	rom ( crc 654A4684 )
+)
+
+game (
+	comment "Wiz 'N' Liz (USA)"
+	publisher "Bizarre Creations"
+	rom ( crc DF036B62 )
+)
+
+game (
+	comment "Wiz 'n' Liz - The Frantic Wabbit Wescue (Europe)"
+	publisher "Bizarre Creations"
+	rom ( crc F09353B4 )
+)
+
+game (
+	comment "Wolfchild (USA)"
+	publisher "Core Design"
+	rom ( crc EB5B1CBF )
+)
+
+game (
+	comment "Wizard of the Immortal (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc C99FAD92 )
+)
+
+game (
+	comment "Wolverine - Adamantium Rage (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc D2437BB7 )
+)
+
+game (
+	comment "Wonder Boy III - Monster Lair (Japan, Europe) (En)"
+	publisher "SEGA"
+	rom ( crc C24BC5E4 )
+)
+
+game (
+	comment "Wonder Boy in Monster World (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 0d901482 )
+)
+
+game (
+	comment "Wonder Library (Japan) (Program)"
+	publisher "Victor Entertainment"
+	rom ( crc 9350E754 )
+)
+
+game (
+	comment "Wonder Boy V - Monster World III (Japan, Korea) (Ja)"
+	publisher "SEGA"
+	rom ( crc 45A50F96 )
+)
+
+game (
+	comment "World Championship Soccer II (USA)"
+	publisher "SEGA"
+	rom ( crc C1DD1C8E )
+)
+
+game (
+	comment "World Championship Soccer II (Europe)"
+	publisher "SEGA"
+	rom ( crc 6065774D )
+)
+
+game (
+	comment "World Class Leader Board (Europe)"
+	publisher "Access Games"
+	rom ( crc DACA01C3 )
+)
+
+game (
+	comment "World Class Leaderboard Golf (USA)"
+	publisher "Access Games"
+	rom ( crc 53434BAB )
+)
+
+game (
+	comment "World Cup Italia '90 (Europe)"
+	publisher "SEGA"
+	rom ( crc DD95F829 )
+)
+
+game (
+	comment "World Cup Soccer (Japan) (En)"
+	publisher "SEGA"
+	rom ( crc B01C3D70 )
+)
+
+game (
+	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev B)"
+	publisher "SEGA"
+	rom ( crc BF272BCB )
+)
+
+game (
+	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En)"
+	publisher "SEGA"
+	rom ( crc 6363EF45 )
+)
+
+game (
+	comment "World Cup Soccer ~ World Championship Soccer (Japan, USA) (En) (Rev A)"
+	publisher "SEGA"
+	rom ( crc BF84EDE6 )
+)
+
+game (
+	comment "World Cup USA 94 (USA, Europe, Korea) (En,Fr,De,Es,It,Nl,Pt,Sv)"
+	publisher "Tiertex"
+	rom ( crc 0171B47F )
+)
+
+game (
+	comment "World Heroes (Asia) (En)"
+	publisher "SEGA"
+	rom ( crc 56E3CEFF )
+)
+
+game (
+	comment "World Heroes (USA)"
+	publisher "SEGA"
+	rom ( crc 0F4D22EC )
+)
+
+game (
+	comment "World of Illusion Starring Mickey Mouse and Donald Duck (USA, Korea) (En)"
+	publisher "SEGA"
+	rom ( crc 921EBD1C )
+)
+
+game (
+	comment "World of Illusion Starring Mickey Mouse and Donald Duck (Europe)"
+	publisher "SEGA"
+	rom ( crc 121C6A49 )
+)
+
+game (
+	comment "World Series Baseball (USA)"
+	publisher "SEGA"
+	rom ( crc 57C1D5EC )
+)
+
+game (
+	comment "World Series Baseball '96 (USA)"
+	publisher "SEGA"
+	rom ( crc 04EE8272 )
+)
+
+game (
+	comment "World Series Baseball '95 (USA)"
+	publisher "SEGA"
+	rom ( crc 25130077 )
+)
+
+game (
+	comment "World Series Baseball 98 (USA)"
+	publisher "SEGA"
+	rom ( crc 05B1AB53 )
+)
+
+game (
+	comment "World Trophy Soccer (USA)"
+	publisher "Krisalis Software"
+	rom ( crc 6E3EDC7C )
+)
+
+game (
+	comment "Worms (Europe) (Beta)"
+	publisher "Team 17"
+	rom ( crc 5f9e85df )
+)
+
+game (
+	comment "Worms (Europe)"
+	publisher "Team 17"
+	rom ( crc B9A8B299 )
+)
+
+game (
+	comment "Wrestle War (Japan, Europe) (En)"
+	publisher "SEGA"
+	rom ( crc 2D162A85 )
+)
+
+game (
+	comment "Wrestleball (Japan)"
+	publisher "Namco"
+	rom ( crc D563E07F )
+)
+
+game (
+	comment "WWF RAW (World)"
+	publisher "Acclaim"
+	rom ( crc fbb1e120 )
+)
+
+game (
+	comment "WWF Royal Rumble (World)"
+	publisher "Acclaim"
+	rom ( crc B69DC53E )
+)
+
+game (
+	comment "WWF Super WrestleMania (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc B929D6C5 )
+)
+
+game (
+	comment "WWF WrestleMania - The Arcade Game (USA, Europe)"
+	publisher "Acclaim"
+	rom ( crc A5D023F9 )
+)
+
+game (
+	comment "X-Men (Europe)"
+	publisher "SEGA"
+	rom ( crc 0B78CA97 )
+)
+
+game (
+	comment "X-Men (USA)"
+	publisher "SEGA"
+	rom ( crc F71B21B4 )
+)
+
+game (
+	comment "X-Men 2 - Clone Wars (USA, Europe)"
+	publisher "SEGA"
+	rom ( crc 710BC628 )
+)
+
+game (
+	comment "X-Perts (USA)"
+	publisher "SEGA"
+	rom ( crc 57E8ABFD )
+)
+
+game (
+	comment "Xenon 2 - Megablast (Europe)"
+	publisher "Virgin Games"
+	rom ( crc 59ABE7F9 )
+)
+
+game (
+	comment "XDR - X-Dazedly-Ray (Japan)"
+	publisher "UNIPACC"
+	rom ( crc AB22D002 )
+)
+
+game (
+	comment "Yogi Bear - Cartoon Capers (Europe)"
+	publisher "Empire Interactive"
+	rom ( crc 204F97D8 )
+)
+
+game (
+	comment "Ys - Wanderers from Ys (Japan)"
+	publisher "Nihon Falcom"
+	rom ( crc 52DA4E76 )
+)
+
+game (
+	comment "Ys III (USA)"
+	publisher "Nihon Falcom"
+	rom ( crc EA27976E )
+)
+
+game (
+	comment "Yu Yu Hakusho Gaiden (Japan)"
+	publisher "SEGA"
+	rom ( crc 7DC98176 )
+)
+
+game (
+	comment "Yu Yu Hakusho - Makyou Toitsusen (Japan)"
+	publisher "SEGA"
+	rom ( crc 71CEAC6F )
+)
+
+game (
+	comment "YuYu Hakusho - Sunset Fighters (Brazil)"
+	publisher "SEGA"
+	rom ( crc FE3FB8EE )
+)
+
+game (
+	comment "Zan Yasha Enbukyoku (Japan)"
+	publisher "Wolf Team"
+	rom ( crc 637FE8F3 )
+)
+
+game (
+	comment "Zany Golf (USA, Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 74ED7607 )
+)
+
+game (
+	comment "Zero the Kamikaze Squirrel (Europe)"
+	publisher "Iguana Entertainment"
+	rom ( crc 45FF0B4B )
+)
+
+game (
+	comment "Zero the Kamikaze Squirrel (USA)"
+	publisher "Iguana Entertainment"
+	rom ( crc 423968DF )
+)
+
+game (
+	comment "Zero Tolerance (USA, Europe) (Rev A)"
+	publisher "Accolade"
+	rom ( crc 23F603F5 )
+)
+
+game (
+	comment "Zero Wing (Europe)"
+	publisher "Toaplan"
+	rom ( crc 89B744A3 )
+)
+
+game (
+	comment "Zombies (Europe)"
+	publisher "Konami"
+	rom ( crc 179A1AA2 )
+)
+
+game (
+	comment "Zero Wing (Japan)"
+	publisher "Toaplan"
+	rom ( crc 7E203D2B )
+)
+
+game (
+	comment "Zombies Ate My Neighbors (USA)"
+	publisher "Konami"
+	rom ( crc 2BF3626F )
+)
+
+game (
+	comment "Zool - Ninja of the 'Nth' Dimension (Europe)"
+	publisher "Electronic Arts"
+	rom ( crc 1EE58B03 )
+)
+
+game (
+	comment "Zool - Ninja of the 'Nth' Dimension (USA)"
+	publisher "Electronic Arts"
+	rom ( crc CB2939F1 )
+)
+
+game (
+	comment "Zoop (Europe)"
+	publisher "Viacom New Media"
+	rom ( crc 0764139f )
+)
+
+game (
+	comment "Zoom! (World)"
+	publisher "SEGA"
+	rom ( crc 724D6965 )
+)
+
+game (
+	comment "Zoop (USA)"
+	publisher "Viacom New Media"
+	rom ( crc faa490dc )
+)
+
+game (
+	comment "Zou! Zou! Zou! Rescue Daisakusen (Japan)"
+	publisher "Electronic Arts"
+	rom ( crc 1A761E67 )
 )
 
